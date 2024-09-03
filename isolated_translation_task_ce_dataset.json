@@ -1,0 +1,3402 @@
+[
+    {
+        "index": 1,
+        "ST": {
+            "en": "Last week, the broadcast of period drama “Beauty Private Kitchen” was temporarily halted, and accidentally triggered heated debate about faked ratings of locally produced dramas.",
+            "zh": "上周，古装剧《美人私房菜》临时停播，意外引发了关于国产剧收视率造假的热烈讨论。"
+        },
+        "TT1": {
+            "text": "Last week, the historical drama \"Beauty Private Kitchen\" was temporarily taken off the air, unexpectedly sparking a heated discussion about the fabrication of viewership ratings for domestic TV shows.",
+            "scores": {
+                "bleu": 4.693143873694084,
+                "chrf": 39.740176755841254,
+                "comet-ref": 82.7013909816742,
+                "comet-noref": 73.85948896408081
+            }
+        },
+        "TT2": {
+            "text": "Last week, the period drama \"The Beauty Private Kitchen\" was unexpectedly taken off the air, sparking a heated discussion about fake viewership ratings in domestic dramas.",
+            "scores": {
+                "bleu": 4.863785183637671,
+                "chrf": 43.83771054628471,
+                "comet-ref": 82.22559094429016,
+                "comet-noref": 74.631667137146
+            }
+        },
+        "TT3": {
+            "text": "Last week, the historical drama \"Beauty Private Dishes\" was suddenly taken off the air, unexpectedly triggering a heated discussion about fake viewership ratings in domestic TV shows.",
+            "scores": {
+                "bleu": 3.889818545474848,
+                "chrf": 37.461184841430764,
+                "comet-ref": 80.31279444694519,
+                "comet-noref": 73.60814213752747
+            }
+        }
+    },
+    {
+        "index": 2,
+        "ST": {
+            "en": "Civil rights group issues travel warning for Missouri",
+            "zh": "民权团体针对密苏里州发出旅行警告"
+        },
+        "TT1": {
+            "text": "Civil rights groups issued a travel advisory for the state of Missouri.",
+            "scores": {
+                "bleu": 8.423555525647696,
+                "chrf": 49.91173840257497,
+                "comet-ref": 86.72866225242615,
+                "comet-noref": 84.26880836486816
+            }
+        },
+        "TT2": {
+            "text": "Civil rights groups issue travel advisory for Missouri.",
+            "scores": {
+                "bleu": 16.515821590069034,
+                "chrf": 64.12808820509353,
+                "comet-ref": 91.45875573158264,
+                "comet-noref": 84.38087701797485
+            }
+        },
+        "TT3": {
+            "text": "Civil rights groups issue a travel warning for the state of Missouri.",
+            "scores": {
+                "bleu": 16.40914928040473,
+                "chrf": 67.80572303440744,
+                "comet-ref": 90.38694500923157,
+                "comet-noref": 84.11890268325806
+            }
+        }
+    },
+    {
+        "index": 3,
+        "ST": {
+            "en": "The National Association for the Advancement of Colored People has put out an alert for people of color traveling to Missouri because of the state's discriminatory policies and racist attacks.",
+            "zh": "由于密苏里州的歧视性政策和种族主义袭击，美国有色人种促进协会 (NAACP) 向准备前往密苏里州出游的有色人群发出旅行警告。"
+        },
+        "TT1": {
+            "text": "Due to Missouri's discriminatory policies and racist attacks, the NAACP has issued a travel advisory for people of color planning to visit the state.",
+            "scores": {
+                "bleu": 20.619276306926466,
+                "chrf": 59.98007501468309,
+                "comet-ref": 86.35947704315186,
+                "comet-noref": 84.7623348236084
+            }
+        },
+        "TT2": {
+            "text": "Due to discriminatory policies and racist attacks in Missouri, the NAACP issued a travel advisory to people of color planning to visit the state.",
+            "scores": {
+                "bleu": 16.618655166630525,
+                "chrf": 57.00901236727239,
+                "comet-ref": 85.51092147827148,
+                "comet-noref": 85.09972095489502
+            }
+        },
+        "TT3": {
+            "text": "Due to discriminatory policies and racist attacks in Missouri, the NAACP has issued a travel advisory for people of color who are planning to visit the state.",
+            "scores": {
+                "bleu": 21.004850229269245,
+                "chrf": 56.589313442447086,
+                "comet-ref": 86.15326285362244,
+                "comet-noref": 84.81780886650085
+            }
+        }
+    },
+    {
+        "index": 4,
+        "ST": {
+            "en": "\"The NAACP Travel Advisory for the state of Missouri, effective through August 28th, 2017, calls for African American travelers, visitors and Missourians to pay special attention and exercise extreme caution when traveling throughout the state given the series of questionable, race-based incidents occurring statewide recently, and noted therein,\" the group's statement reads.",
+            "zh": "“2017 年 8 月 28 日生效的 NAACP 密苏里州旅行咨询中呼吁，因近期密苏里州发生了一系列可疑的种族性事件，所有非裔美籍旅行者、游客以及密苏里州人在密苏里州旅行时应特别注意并采取极其谨慎的态度，特此告知，”该团体的声明宣称。"
+        },
+        "TT1": {
+            "text": "\"The travel advisory for the state of Missouri, effective on August 28, 2017, issued by the NAACP, calls for all African-American travelers, tourists, and Missouri residents to be particularly vigilant and exercise extreme caution when traveling in Missouri due to a series of suspicious racial incidents that have occurred recently in the state,\" the group's statement declared.",
+            "scores": {
+                "bleu": 17.51505234780639,
+                "chrf": 58.86084734503891,
+                "comet-ref": 86.29802465438843,
+                "comet-noref": 82.3644757270813
+            }
+        },
+        "TT2": {
+            "text": "\"The travel advisory for the state of Missouri issued by the NAACP, effective August 28, 2017, calls for all African American travelers, visitors, and Missouri residents to exercise extreme caution while traveling in Missouri due to a series of suspicious racially charged incidents that have recently occurred in the state, hereby informing them,\" the group's statement declared.",
+            "scores": {
+                "bleu": 12.910841166959736,
+                "chrf": 59.35928812660326,
+                "comet-ref": 84.26820635795593,
+                "comet-noref": 82.40928649902344
+            }
+        },
+        "TT3": {
+            "text": "\"The travel advisory for Missouri, effective August 28, 2017, issued by the NAACP, calls for all African American travelers, visitors, and Missouri residents to exercise extreme caution while traveling in Missouri due to a series of recent suspicious racial incidents in Missouri, hereby notified,\" the group's statement declared.",
+            "scores": {
+                "bleu": 6.012821558304139,
+                "chrf": 56.351069893211914,
+                "comet-ref": 82.6177179813385,
+                "comet-noref": 81.48778676986694
+            }
+        }
+    },
+    {
+        "index": 5,
+        "ST": {
+            "en": "A recent Missouri law making it harder for people to win discrimination lawsuits, as well as the state's law enforcement disproportionately targeting minorities prompted the group to issue the travel alert, the NAACP said.",
+            "zh": "NAACP 指出，最近通过的一项密苏里州法律使得人们更难赢得歧视诉讼，该州执法也一定程度上针对少数群体，这些现象促使该组织发布了旅行警告。"
+        },
+        "TT1": {
+            "text": "The NAACP pointed out that a recently passed Missouri law makes it more difficult for people to win discrimination lawsuits, and that law enforcement in the state also somewhat targets minority groups. These phenomena prompted the organization to issue a travel advisory.",
+            "scores": {
+                "bleu": 16.348308524076327,
+                "chrf": 51.2758672762461,
+                "comet-ref": 87.36465573310852,
+                "comet-noref": 85.29481291770935
+            }
+        },
+        "TT2": {
+            "text": "The NAACP pointed out that a recently passed Missouri law makes it harder for people to win discrimination lawsuits, and the state's law enforcement also targets minority groups to some extent. These phenomena prompted the organization to issue a travel warning.",
+            "scores": {
+                "bleu": 22.508851390525145,
+                "chrf": 55.666389128787195,
+                "comet-ref": 87.11674809455872,
+                "comet-noref": 85.70009469985962
+            }
+        },
+        "TT3": {
+            "text": "The NAACP pointed out that a recently passed Missouri law makes it more difficult for people to win discrimination lawsuits, and that law enforcement in the state also targets minority groups to some extent, prompting the organization to issue a travel advisory.",
+            "scores": {
+                "bleu": 15.648719232095795,
+                "chrf": 51.91040792585186,
+                "comet-ref": 88.31731677055359,
+                "comet-noref": 85.8345627784729
+            }
+        }
+    },
+    {
+        "index": 6,
+        "ST": {
+            "en": "\"You have violations of civil rights that are happening to people.",
+            "zh": "侵犯公民权利的行为正发生在人们身上。"
+        },
+        "TT1": {
+            "text": "Acts that violate citizens' rights are happening to people.",
+            "scores": {
+                "bleu": 21.401603033752977,
+                "chrf": 60.0177263668316,
+                "comet-ref": 88.65600228309631,
+                "comet-noref": 82.74268507957458
+            }
+        },
+        "TT2": {
+            "text": "Acts that violate citizens' rights are happening to people.",
+            "scores": {
+                "bleu": 21.401603033752977,
+                "chrf": 60.0177263668316,
+                "comet-ref": 88.65600228309631,
+                "comet-noref": 82.74268507957458
+            }
+        },
+        "TT3": {
+            "text": "Acts of infringing on citizens' rights are happening to people.",
+            "scores": {
+                "bleu": 21.401603033752977,
+                "chrf": 47.928882607938064,
+                "comet-ref": 84.77233648300171,
+                "comet-noref": 80.69897294044495
+            }
+        }
+    },
+    {
+        "index": 7,
+        "ST": {
+            "en": "They're being pulled over because of their skin color, they're being beaten up or killed,\" the president of the Missouri NAACP, Rod Chapel, told The Kansas City Star.",
+            "zh": "他们因肤色被停车盘问，被殴打或被杀害，”密苏里州 NAACP 主席罗德·查培尔告诉堪萨斯城星报 (The Kansas City Star)。"
+        },
+        "TT1": {
+            "text": "\"They are stopped and questioned, beaten, or killed because of their skin color,\" Missouri NAACP President Rod Chapel told The Kansas City Star.",
+            "scores": {
+                "bleu": 25.199218936327227,
+                "chrf": 63.584157312844134,
+                "comet-ref": 89.3056571483612,
+                "comet-noref": 84.49826240539551
+            }
+        },
+        "TT2": {
+            "text": "\"They are stopped, questioned, beaten, or killed because of their skin color,\" Missouri NAACP President Rod Chapel told The Kansas City Star.",
+            "scores": {
+                "bleu": 25.199218936327227,
+                "chrf": 64.75810996321918,
+                "comet-ref": 89.17668461799622,
+                "comet-noref": 84.44311022758484
+            }
+        },
+        "TT3": {
+            "text": "\"They are being stopped, questioned, beaten, or killed because of their skin color,\" Rod Chapel, president of the Missouri NAACP, told The Kansas City Star.",
+            "scores": {
+                "bleu": 34.55883870626298,
+                "chrf": 70.43064862225555,
+                "comet-ref": 90.15268683433533,
+                "comet-noref": 84.03441309928894
+            }
+        }
+    },
+    {
+        "index": 8,
+        "ST": {
+            "en": "\"We are hearing complaints at a rate we haven't heard before.\"",
+            "zh": "“我们收到了许多投诉，数量前所未有。”"
+        },
+        "TT1": {
+            "text": "\"We have received numerous complaints, an unprecedented number.\"",
+            "scores": {
+                "bleu": 3.377156414337854,
+                "chrf": 29.59100688841106,
+                "comet-ref": 87.0003342628479,
+                "comet-noref": 83.95481705665588
+            }
+        },
+        "TT2": {
+            "text": "\"We have received numerous complaints, an unprecedented number.\"",
+            "scores": {
+                "bleu": 3.377156414337854,
+                "chrf": 29.59100688841106,
+                "comet-ref": 87.0003342628479,
+                "comet-noref": 83.95481705665588
+            }
+        },
+        "TT3": {
+            "text": "\"We have received many complaints, an unprecedented number.\"",
+            "scores": {
+                "bleu": 3.377156414337854,
+                "chrf": 31.227812033828435,
+                "comet-ref": 87.02557682991028,
+                "comet-noref": 84.44849848747253
+            }
+        }
+    },
+    {
+        "index": 9,
+        "ST": {
+            "en": "It is the first such warning that the organization has issued for a state in the US.",
+            "zh": "这是该组织在美国针对某个州发布的第一个此类警告。"
+        },
+        "TT1": {
+            "text": "This is the first such warning issued by the organization for a state in the United States.",
+            "scores": {
+                "bleu": 44.21973227177668,
+                "chrf": 68.96178910501062,
+                "comet-ref": 93.38619709014893,
+                "comet-noref": 84.45354104042053
+            }
+        },
+        "TT2": {
+            "text": "This is the first warning of its kind issued by the organization in a specific state in the United States.",
+            "scores": {
+                "bleu": 14.80309624838491,
+                "chrf": 48.92805864037395,
+                "comet-ref": 91.61562323570251,
+                "comet-noref": 84.02475714683533
+            }
+        },
+        "TT3": {
+            "text": "This is the first warning of its kind issued by the organization for a specific state in the United States.",
+            "scores": {
+                "bleu": 15.834159473854962,
+                "chrf": 50.49618698623964,
+                "comet-ref": 92.1430766582489,
+                "comet-noref": 84.74336862564087
+            }
+        }
+    },
+    {
+        "index": 10,
+        "ST": {
+            "en": "The group cited incidents such as racial slurs against black students at the University of Missouri and the death of Tory Sanders, 28, a black man from Tennessee.",
+            "zh": "该组织援引了密苏里大学对黑人学生的种族诽谤以及 28 岁田纳西州黑人男性托利·桑德斯的死亡事件。"
+        },
+        "TT1": {
+            "text": "The organization cited racial slurs directed at Black students at the University of Missouri and the death of Tori Sanders, a 28-year-old Black man from Tennessee.",
+            "scores": {
+                "bleu": 37.137195565054576,
+                "chrf": 67.56388108167361,
+                "comet-ref": 89.20546174049377,
+                "comet-noref": 84.41898822784424
+            }
+        },
+        "TT2": {
+            "text": "The organization cited racial slurs against Black students at the University of Missouri and the death of Tori Sanders, a 28-year-old Black man from Tennessee.",
+            "scores": {
+                "bleu": 39.40107785584634,
+                "chrf": 73.08731358539009,
+                "comet-ref": 89.57061171531677,
+                "comet-noref": 84.42999720573425
+            }
+        },
+        "TT3": {
+            "text": "The organization cited incidents including racial slurs against Black students at the University of Missouri and the death of 28-year-old Black man Tory Sanders in Tennessee.",
+            "scores": {
+                "bleu": 38.376797444789126,
+                "chrf": 68.77090948396746,
+                "comet-ref": 90.90057015419006,
+                "comet-noref": 84.00794863700867
+            }
+        }
+    },
+    {
+        "index": 11,
+        "ST": {
+            "en": "Sanders died under questionable circumstances earlier this year after he ran out of gas while traveling through the state, and was taken into custody by Missouri police without being accused of a crime.",
+            "zh": "今年早些时候，桑德斯在可疑情况下死亡。他在密苏里州旅行时燃油耗尽，被密苏里州警方在无指控犯罪的情况下拘留。"
+        },
+        "TT1": {
+            "text": "Earlier this year, Sanders died under suspicious circumstances. He ran out of fuel while traveling in Missouri and was detained by Missouri police without being charged with a crime.",
+            "scores": {
+                "bleu": 20.90499608387982,
+                "chrf": 61.009931149629146,
+                "comet-ref": 87.17119097709656,
+                "comet-noref": 86.6897463798523
+            }
+        },
+        "TT2": {
+            "text": "Earlier this year, Sanders died under suspicious circumstances. While traveling in Missouri, he ran out of fuel and was detained by Missouri police without being charged with any crime.",
+            "scores": {
+                "bleu": 23.391171757581535,
+                "chrf": 60.15364711021019,
+                "comet-ref": 86.8979275226593,
+                "comet-noref": 86.66432499885559
+            }
+        },
+        "TT3": {
+            "text": "Earlier this year, Sanders died under suspicious circumstances. He ran out of gas while traveling in Missouri and was detained by Missouri police without any charges.",
+            "scores": {
+                "bleu": 26.33905721726426,
+                "chrf": 63.38542450885899,
+                "comet-ref": 85.93032360076904,
+                "comet-noref": 86.54049038887024
+            }
+        }
+    },
+    {
+        "index": 12,
+        "ST": {
+            "en": "The advisory also points to a recent report by the Missouri Attorney General's Office showing that black drivers in the state were 75 percent more likely to be pulled over than whites.",
+            "zh": "咨询中还指出，密苏里州总检察长办公室最近的一份报告显示，“与白人相比，该州的黑人司机被停车盘查的可能性要高出 75%”。"
+        },
+        "TT1": {
+            "text": "The consultation also indicated that a recent report from the Missouri Attorney General's Office shows that \"Black drivers in the state are 75% more likely to be stopped and searched compared to white drivers.\"",
+            "scores": {
+                "bleu": 21.57027365524893,
+                "chrf": 54.55241983029505,
+                "comet-ref": 87.84617781639099,
+                "comet-noref": 84.24688577651978
+            }
+        },
+        "TT2": {
+            "text": "The consultation also pointed out that a recent report from the Missouri Attorney General's Office showed that \"compared to white people, black drivers in the state are 75% more likely to be stopped and searched.\"",
+            "scores": {
+                "bleu": 24.951704832921575,
+                "chrf": 57.002701333212734,
+                "comet-ref": 87.92631030082703,
+                "comet-noref": 84.34010744094849
+            }
+        },
+        "TT3": {
+            "text": "The consultation also pointed out that a recent report from the Missouri Attorney General's Office showed that \"compared to white individuals, Black drivers in the state are 75% more likely to be stopped and questioned.\"",
+            "scores": {
+                "bleu": 20.926433421787557,
+                "chrf": 54.57089226507069,
+                "comet-ref": 87.34248876571655,
+                "comet-noref": 83.94082188606262
+            }
+        }
+    },
+    {
+        "index": 13,
+        "ST": {
+            "en": "\"The advisory is for people to be aware, and warn their families and friends and co-workers of what could happen in Missouri,\" Chapel said.",
+            "zh": "查培尔说：“该份咨询是为了提高人们的意识，警告他们的家人、朋友和同事在密苏里州可能发生的情况。”"
+        },
+        "TT1": {
+            "text": "Chappelle said, \"The advisory is to raise awareness and warn their family, friends, and colleagues about what might happen in Missouri.\"",
+            "scores": {
+                "bleu": 12.67231758411645,
+                "chrf": 56.623350390644426,
+                "comet-ref": 90.11995196342468,
+                "comet-noref": 82.86256194114685
+            }
+        },
+        "TT2": {
+            "text": "Chappelle said, \"The advisory is intended to raise awareness and warn their family, friends, and colleagues about the potential situations that might occur in Missouri.\"",
+            "scores": {
+                "bleu": 10.601317434781206,
+                "chrf": 44.26971650343162,
+                "comet-ref": 86.5674078464508,
+                "comet-noref": 82.62654542922974
+            }
+        },
+        "TT3": {
+            "text": "Chappelle said, \"This advisory is to raise awareness and warn their families, friends, and colleagues about what might happen in Missouri.\"",
+            "scores": {
+                "bleu": 15.070010234605377,
+                "chrf": 55.701407314625094,
+                "comet-ref": 89.17130827903748,
+                "comet-noref": 83.29746723175049
+            }
+        }
+    },
+    {
+        "index": 14,
+        "ST": {
+            "en": "\"People need to be ready, whether it's bringing bail money with them, or letting relatives know they are traveling through the state.\"",
+            "zh": "“人们需要做好准备，无论是携带保释金前往密苏里州，还是让亲属知道自己在州内旅行”。"
+        },
+        "TT1": {
+            "text": "\"People need to be prepared, whether it's bringing bail money to Missouri or letting their relatives know they are traveling within the state.\"",
+            "scores": {
+                "bleu": 29.898984447859593,
+                "chrf": 68.31169468550713,
+                "comet-ref": 90.6994879245758,
+                "comet-noref": 84.0344786643982
+            }
+        },
+        "TT2": {
+            "text": "\"People need to be prepared, whether it's bringing bail money when traveling to Missouri, or letting relatives know that they are traveling within the state.\"",
+            "scores": {
+                "bleu": 27.01678225298551,
+                "chrf": 64.88365362636546,
+                "comet-ref": 90.25750756263733,
+                "comet-noref": 83.11927914619446
+            }
+        },
+        "TT3": {
+            "text": "\"People need to be prepared, whether it's carrying bail money when traveling to Missouri or letting relatives know they are traveling within the state.\"",
+            "scores": {
+                "bleu": 34.77547633382432,
+                "chrf": 63.403617502679744,
+                "comet-ref": 89.70142006874084,
+                "comet-noref": 83.44928026199341
+            }
+        }
+    },
+    {
+        "index": 15,
+        "ST": {
+            "en": "Missouri recorded 100 hate crimes in 2015, according to the latest figures from the FBI's hate crime reporting program, ranking the state at 16th in the country in terms of the number of such violations.",
+            "zh": "根据联邦调查局仇恨犯罪报告计划的最新数据，密苏里州在 2015 年记录了 100 起仇恨罪行；根据罪行量，该州在全国排名第 16 位。"
+        },
+        "TT1": {
+            "text": "According to the latest data from the FBI Hate Crime Statistics Program, Missouri recorded 100 hate crimes in 2015; based on the number of crimes, the state ranked 16th in the nation.",
+            "scores": {
+                "bleu": 26.66785198355665,
+                "chrf": 61.83802373400839,
+                "comet-ref": 88.53190541267395,
+                "comet-noref": 87.00193166732788
+            }
+        },
+        "TT2": {
+            "text": "According to the latest data from the FBI's Hate Crime Statistics Program, Missouri recorded 100 hate crimes in 2015; based on the number of crimes, the state ranked 16th in the nation.",
+            "scores": {
+                "bleu": 26.66785198355665,
+                "chrf": 61.6191274614114,
+                "comet-ref": 88.66688013076782,
+                "comet-noref": 87.1746301651001
+            }
+        },
+        "TT3": {
+            "text": "According to the latest data from the FBI's Hate Crime Reporting Program, Missouri recorded 100 hate crimes in 2015; based on the volume of crimes, the state ranked 16th in the nation.",
+            "scores": {
+                "bleu": 24.501024982389293,
+                "chrf": 61.15655408710444,
+                "comet-ref": 89.17387127876282,
+                "comet-noref": 87.21269965171814
+            }
+        }
+    },
+    {
+        "index": 16,
+        "ST": {
+            "en": "The travel warning is also a response to a new Missouri law that would make it more difficult to sue a business for housing or employment discrimination.",
+            "zh": "旅行警告也是对密苏里州新法律的回应，该法律将使起诉住房或就业歧视企业变得更加困难。"
+        },
+        "TT1": {
+            "text": "The travel warning is also a response to the new law in Missouri, which will make it more difficult to sue businesses for housing or employment discrimination.",
+            "scores": {
+                "bleu": 55.2411506166109,
+                "chrf": 78.46110649329547,
+                "comet-ref": 92.58670806884766,
+                "comet-noref": 85.37105321884155
+            }
+        },
+        "TT2": {
+            "text": "The travel advisory is also a response to a new law in Missouri, which will make it more difficult to sue businesses for housing or employment discrimination.",
+            "scores": {
+                "bleu": 52.73911244475453,
+                "chrf": 74.59808808341599,
+                "comet-ref": 91.67797565460205,
+                "comet-noref": 85.20509004592896
+            }
+        },
+        "TT3": {
+            "text": "The travel warning is also a response to new laws in Missouri that will make it more difficult to sue businesses for housing or employment discrimination.",
+            "scores": {
+                "bleu": 55.2411506166109,
+                "chrf": 81.41643716402636,
+                "comet-ref": 92.72632598876953,
+                "comet-noref": 85.15220880508423
+            }
+        }
+    },
+    {
+        "index": 17,
+        "ST": {
+            "en": "Previously, the American Civil Liberties Union (ACLU) had issued travel advisories for Texas and Arizona after the states passed immigration enforcement laws requiring local law enforcement to detain people on immigration violations which the ACLU said would increase racial profiling.",
+            "zh": "此前，美国各州通过了移民执法法律，要求当地执法部门拘留移民违规人员，美国公民自由联盟 (ACLU) 表示此举会增加种族诉讼数量，并发布了针对德克萨斯州和亚利桑那州的旅行咨询。"
+        },
+        "TT1": {
+            "text": "Previously, states across the U.S. passed immigration enforcement laws that require local law enforcement to detain immigration violators. The American Civil Liberties Union (ACLU) stated that this move would increase the number of racial lawsuits and issued travel advisories for Texas and Arizona.",
+            "scores": {
+                "bleu": 34.71690238241926,
+                "chrf": 70.25115389021673,
+                "comet-ref": 85.88469624519348,
+                "comet-noref": 84.30013060569763
+            }
+        },
+        "TT2": {
+            "text": "Previously, various U.S. states passed immigration enforcement laws requiring local law enforcement agencies to detain individuals violating immigration regulations. The American Civil Liberties Union (ACLU) stated that this move would increase the number of racial profiling lawsuits and issued travel advisories for Texas and Arizona.",
+            "scores": {
+                "bleu": 40.115212201400446,
+                "chrf": 69.04978593203919,
+                "comet-ref": 86.13618016242981,
+                "comet-noref": 81.09973073005676
+            }
+        },
+        "TT3": {
+            "text": "Previously, various states in the United States passed immigration enforcement laws requiring local law enforcement agencies to detain individuals who violate immigration regulations. The American Civil Liberties Union (ACLU) stated that this move would increase the number of racial lawsuits and issued travel advisories for Texas and Arizona.",
+            "scores": {
+                "bleu": 34.983591383038565,
+                "chrf": 65.40390773826803,
+                "comet-ref": 85.32634377479553,
+                "comet-noref": 84.62198972702026
+            }
+        }
+    },
+    {
+        "index": 18,
+        "ST": {
+            "en": "Travel warnings are usually issued by the State Department for other countries, but lately, advocacy groups have resorted to the measure in response to certain laws and trends inside the US.",
+            "zh": "旅行警告通常是由美国政府针对其他国家发布的，但最近，咨询团体采取这一方式以应对美国境内的某些法律和趋势。"
+        },
+        "TT1": {
+            "text": "Travel warnings are typically issued by the U.S. government for other countries, but recently, advisory groups have adopted this approach in response to certain laws and trends within the United States.",
+            "scores": {
+                "bleu": 30.321326359419633,
+                "chrf": 61.05625743195004,
+                "comet-ref": 88.37922215461731,
+                "comet-noref": 85.32665967941284
+            }
+        },
+        "TT2": {
+            "text": "Travel warnings are typically issued by the U.S. government against other countries, but recently, advisory groups have adopted this approach in response to certain laws and trends within the United States.",
+            "scores": {
+                "bleu": 28.43850176363724,
+                "chrf": 57.66341887159925,
+                "comet-ref": 87.54876255989075,
+                "comet-noref": 85.23902893066406
+            }
+        },
+        "TT3": {
+            "text": "Travel warnings are usually issued by the US government for other countries, but recently, advisory groups have adopted this approach in response to certain laws and trends within the United States.",
+            "scores": {
+                "bleu": 40.84418189801528,
+                "chrf": 64.8723216343575,
+                "comet-ref": 88.98646235466003,
+                "comet-noref": 85.17038822174072
+            }
+        }
+    },
+    {
+        "index": 19,
+        "ST": {
+            "en": "After experiencing the “golden era” of a soaring box office in 2015, the film market retreated into a cooling-off period in 2016. Whether box office takings could surpass last year’s total of RMB44.069 billion is questionable.",
+            "zh": "经历2015年票房猛增的“黄金时代”后，2016年整体电影市场进入了冷静期，能否突破去年440.69亿元的总票房成绩都成为一个悬念。"
+        },
+        "TT1": {
+            "text": "After experiencing the \"golden age\" of a surge in box office sales in 2015, the overall film market entered a cooling period in 2016, and whether it could surpass last year's total box office revenue of 44.069 billion yuan remains a mystery.",
+            "scores": {
+                "bleu": 11.019919487234933,
+                "chrf": 54.72252044939066,
+                "comet-ref": 86.69576644897461,
+                "comet-noref": 83.64238739013672
+            }
+        },
+        "TT2": {
+            "text": "After experiencing the \"golden era\" of booming box office sales in 2015, the overall film market in 2016 entered a period of calm. Whether it can surpass last year's total box office revenue of 44.069 billion yuan has become a question.",
+            "scores": {
+                "bleu": 7.933378762305137,
+                "chrf": 54.404890602440545,
+                "comet-ref": 85.33739447593689,
+                "comet-noref": 82.64104723930359
+            }
+        },
+        "TT3": {
+            "text": "After experiencing the \"golden era\" of a surge in box office revenue in 2015, the overall film market in 2016 entered a period of calm, and whether it could surpass last year's total box office revenue of 44.069 billion yuan became a question.",
+            "scores": {
+                "bleu": 9.477017433263992,
+                "chrf": 53.9740641753097,
+                "comet-ref": 85.74324250221252,
+                "comet-noref": 82.65557289123535
+            }
+        }
+    },
+    {
+        "index": 20,
+        "ST": {
+            "en": "Data from the National Bureau of Statistics revealed that in October, prices of new and second-hand residential properties cooled, up 0.6% and 1.1% month-on-month, respectively.",
+            "zh": "从国家统计局公布的数据看，10月，北京新房和二手房价格双双降温，环比仅上涨0.6%和1.1%。"
+        },
+        "TT1": {
+            "text": "According to the data released by the National Bureau of Statistics, in October, the prices of new and second-hand houses in Beijing both cooled down, with month-on-month increases of only 0.6% and 1.1% respectively.",
+            "scores": {
+                "bleu": 19.71465029118037,
+                "chrf": 48.724635359454325,
+                "comet-ref": 85.39066910743713,
+                "comet-noref": 83.84712934494019
+            }
+        },
+        "TT2": {
+            "text": "According to data released by the National Bureau of Statistics, in October, both new and second-hand home prices in Beijing cooled down, with month-on-month increases of only 0.6% and 1.1%, respectively.",
+            "scores": {
+                "bleu": 16.073034972341446,
+                "chrf": 48.63871142851725,
+                "comet-ref": 87.35052943229675,
+                "comet-noref": 84.62097644805908
+            }
+        },
+        "TT3": {
+            "text": "According to data released by the National Bureau of Statistics, in October, prices for new and second-hand homes in Beijing both cooled down, with month-on-month increases of only 0.6% and 1.1% respectively.",
+            "scores": {
+                "bleu": 15.562823433937195,
+                "chrf": 47.9815577302661,
+                "comet-ref": 87.2585654258728,
+                "comet-noref": 84.28221344947815
+            }
+        }
+    },
+    {
+        "index": 21,
+        "ST": {
+            "en": "Lupekscu, the current Chief Technology Officer of UEFA, made a technical report on the 2016 UEFA Euro and the last season of European Champions League at the meeting.",
+            "zh": "现任欧足联首席技术官的卢佩斯库在本次大会上做了一份关于2016年欧锦赛以及上赛季欧冠联赛的技术报告。"
+        },
+        "TT1": {
+            "text": "At this conference, UEFA's current Chief Technical Officer, Lupescu, presented a technical report on the 2016 European Championship and last season's Champions League.",
+            "scores": {
+                "bleu": 19.865160852699827,
+                "chrf": 57.94774265467302,
+                "comet-ref": 83.93228650093079,
+                "comet-noref": 85.10935306549072
+            }
+        },
+        "TT2": {
+            "text": "At this conference, the current UEFA Chief Technical Officer, Lupescu, presented a technical report on the 2016 European Championship and last season's Champions League.",
+            "scores": {
+                "bleu": 20.539509719773484,
+                "chrf": 57.507355463127354,
+                "comet-ref": 84.35977101325989,
+                "comet-noref": 84.85308289527893
+            }
+        },
+        "TT3": {
+            "text": "At the conference, the current UEFA Chief Technical Officer, Lupescu, presented a technical report on the 2016 European Championship and last season's UEFA Champions League.",
+            "scores": {
+                "bleu": 21.15330363637516,
+                "chrf": 57.93973824017279,
+                "comet-ref": 85.34274101257324,
+                "comet-noref": 85.12173295021057
+            }
+        }
+    },
+    {
+        "index": 22,
+        "ST": {
+            "en": "BBC claims that Beijing has become the most exciting city: making foreigners feel like “living in a new age”",
+            "zh": "BBC称北京成最激动人心城市：让老外感觉“生活在新时代”"
+        },
+        "TT1": {
+            "text": "The BBC calls Beijing the most exciting city: making foreigners feel like they are \"living in a new era.\"",
+            "scores": {
+                "bleu": 30.752616970214337,
+                "chrf": 68.32324502055546,
+                "comet-ref": 91.82434678077698,
+                "comet-noref": 85.5776846408844
+            }
+        },
+        "TT2": {
+            "text": "The BBC calls Beijing the most exciting city: it makes foreigners feel like they are \"living in a new era\".",
+            "scores": {
+                "bleu": 23.185078121230152,
+                "chrf": 62.17615133204016,
+                "comet-ref": 91.81782603263855,
+                "comet-noref": 85.9681248664856
+            }
+        },
+        "TT3": {
+            "text": "The BBC calls Beijing the most exciting city: making foreigners feel like they are \"living in a new era.\"",
+            "scores": {
+                "bleu": 30.752616970214337,
+                "chrf": 68.32324502055546,
+                "comet-ref": 91.82434678077698,
+                "comet-noref": 85.5776846408844
+            }
+        }
+    },
+    {
+        "index": 23,
+        "ST": {
+            "en": "Reference News Network reported on January 18 that the British media organization has noticed that Beijing is rapidly transforming into a glamorous modern city in spite of the fact that it is 3000 years old.",
+            "zh": "参考消息网1月18日报道英媒称，北京或许有三千年的悠久历史，但它也在迅速变身为今天的现代魅力都市。"
+        },
+        "TT1": {
+            "text": "Reference News reported on January 18, citing British media, that although Beijing may have a long history of three thousand years, it is also rapidly transforming into a modern and charming metropolis of today.",
+            "scores": {
+                "bleu": 17.637241997851593,
+                "chrf": 50.69532868114079,
+                "comet-ref": 82.84325003623962,
+                "comet-noref": 77.59037613868713
+            }
+        },
+        "TT2": {
+            "text": "According to a report by Reference News Network on January 18, British media stated that Beijing may have a long history of three thousand years, but it is also rapidly transforming into a modern and charming city today.",
+            "scores": {
+                "bleu": 14.589962479058785,
+                "chrf": 53.29855691667269,
+                "comet-ref": 84.25806164741516,
+                "comet-noref": 78.22738885879517
+            }
+        },
+        "TT3": {
+            "text": "Reference News Network reported on January 18th, citing British media, that Beijing may have a long history of three thousand years, but it is also rapidly transforming into a modern and charming city of today.",
+            "scores": {
+                "bleu": 24.721090820433893,
+                "chrf": 59.156120781205246,
+                "comet-ref": 84.60221290588379,
+                "comet-noref": 77.9930830001831
+            }
+        }
+    },
+    {
+        "index": 24,
+        "ST": {
+            "en": "The Chinese capital is interconnected by amazingly high-speed Internet and has implemented cutting-edge technologies such as face recognition. It has invested heavily in artificial intelligence and has an unmatched capacity of internationalization. It is one of the most exciting cities for foreigners who are eager to explore the world.",
+            "zh": "这座中国首都拥有速度高得惊人的互联网，有人脸识别软件等尖端技术，在人工智能方面投入了巨资并且拥有无可匹敌的国际化能量，它对富于探索精神的外国人而言是最激动人心的城市之一。"
+        },
+        "TT1": {
+            "text": "This Chinese capital has astonishingly fast internet, cutting-edge technologies such as facial recognition software, has invested heavily in artificial intelligence, and possesses unmatched international energy. It is one of the most exciting cities for foreign explorers.",
+            "scores": {
+                "bleu": 30.058408189810244,
+                "chrf": 70.01968195874953,
+                "comet-ref": 82.41775631904602,
+                "comet-noref": 84.16019082069397
+            }
+        },
+        "TT2": {
+            "text": "This capital city of China boasts astonishingly high-speed internet, cutting-edge technology such as facial recognition software, significant investments in artificial intelligence, and unrivaled international prowess. It is one of the most exciting cities for foreigners with a spirit of exploration.",
+            "scores": {
+                "bleu": 23.483446415855866,
+                "chrf": 60.303354901362624,
+                "comet-ref": 82.59481191635132,
+                "comet-noref": 84.28943753242493
+            }
+        },
+        "TT3": {
+            "text": "This capital city of China boasts astonishingly high-speed internet, cutting-edge technology such as facial recognition software, and massive investments in artificial intelligence. It possesses unparalleled international vitality, making it one of the most exciting cities for adventurous foreigners.",
+            "scores": {
+                "bleu": 15.640357042673651,
+                "chrf": 55.64313982863961,
+                "comet-ref": 83.16954970359802,
+                "comet-noref": 83.85547399520874
+            }
+        }
+    },
+    {
+        "index": 25,
+        "ST": {
+            "en": "According to a report on the BBC website on January 16, the German expatriate Clemens Sage said: 'If I can succeed there, I can succeed anywhere.' He quoted a song written by singer Frank Sinatra to praise New York City.",
+            "zh": "据英国广播公司网站1月16日报道，德国侨民克莱门斯·塞希说：“如果我能在那儿成功，我以后在任何地方都能成功。”他引用的是歌手弗兰克·西纳特拉歌颂纽约市的歌词。"
+        },
+        "TT1": {
+            "text": "According to a report from the BBC website on January 16, German expatriate Clemens Sehi said, \"If I can make it there, I'll make it anywhere.\" He was quoting the lyrics sung by Frank Sinatra in praise of New York City.",
+            "scores": {
+                "bleu": 23.574233190935296,
+                "chrf": 60.153192757685815,
+                "comet-ref": 83.81575345993042,
+                "comet-noref": 79.31232452392578
+            }
+        },
+        "TT2": {
+            "text": "According to a report by the BBC website on January 16, German expatriate Clemens Sehi said, \"If I can make it there, I'll make it anywhere.\" He was quoting the lyrics of singer Frank Sinatra's song praising New York City.",
+            "scores": {
+                "bleu": 23.574233190935296,
+                "chrf": 62.02460271986069,
+                "comet-ref": 83.78459811210632,
+                "comet-noref": 79.1394591331482
+            }
+        },
+        "TT3": {
+            "text": "According to a report on the BBC's website on January 16, German expatriate Clemens Seiich said, \"If I can make it there, I'll make it anywhere.\" He was quoting the lyrics of singer Frank Sinatra's song praising New York City.",
+            "scores": {
+                "bleu": 23.352854373712763,
+                "chrf": 62.22411801673795,
+                "comet-ref": 84.02941823005676,
+                "comet-noref": 80.41236996650696
+            }
+        }
+    },
+    {
+        "index": 26,
+        "ST": {
+            "en": "Sage, who served as Creative Director of Traveler Archives, said: \"If Sinatra lives today, he is likely to sing a song for Beijing.\" He said that living in this city will make you feel like “living in a new age”, which means that you can always keep up with the trends.",
+            "zh": "在《旅行者档案》杂志担任创意总监的塞希说：“如果西纳特拉活到今天，他很可能会歌唱北京这样的城市。”他说，生活在这座城市会让你感觉“生活在新时代”，总是能跟上潮流。"
+        },
+        "TT1": {
+            "text": "Saixi, the creative director at Traveler's File magazine, said, \"If Sinatra were alive today, he would most likely be singing about cities like Beijing.\" He added that living in this city makes one feel like they are \"living in a new era,\" always keeping up with the trends.",
+            "scores": {
+                "bleu": 14.044999521916754,
+                "chrf": 50.23841962680804,
+                "comet-ref": 83.11169147491455,
+                "comet-noref": 81.62464499473572
+            }
+        },
+        "TT2": {
+            "text": "Sehi, the creative director at the magazine Traveler Files, said, \"If Sinatra were alive today, he would probably sing about cities like Beijing.\" He said that living in this city makes you feel like you are \"living in a new era\" and always able to keep up with the trends.",
+            "scores": {
+                "bleu": 21.731194507467166,
+                "chrf": 53.02253013876565,
+                "comet-ref": 84.98552441596985,
+                "comet-noref": 82.65637159347534
+            }
+        },
+        "TT3": {
+            "text": "Seth, the creative director at Traveler's Archive magazine, said, \"If Sinatra were alive today, he would probably be singing about a city like Beijing.\" He said that living in this city makes you feel like you are \"living in a new era\" and always able to stay trendy.",
+            "scores": {
+                "bleu": 15.8530913346305,
+                "chrf": 50.66278930120273,
+                "comet-ref": 83.70158672332764,
+                "comet-noref": 82.55671262741089
+            }
+        }
+    },
+    {
+        "index": 27,
+        "ST": {
+            "en": "Simon Norton, who originates from England had been living in Beijing in recent years, published an article on personal blog site 4Corners7Seas saying: “People generally have a feeling of being at the center of something grand. Although this feeling is hard to describe clearly, it is the reason why so many foreigners stay there for a long time. They want to see what it will become and hope to witness it. ”",
+            "zh": "老家位于英格兰、但最近生活在北京的西蒙·诺顿在个人博客网站4Corners7Seas上发表文章说：“人们总体上有一种处于某种宏大事物中心的感觉，这种感觉很难说清楚，但它让许多外国人长久留在那里。他们想看看它会变成什么样，并且希望亲眼见证。”"
+        },
+        "TT1": {
+            "text": "** Simon Norton, whose hometown is in England but now lives in Beijing, wrote in an article on his personal blog site 4Corners7Seas: \"There is generally a sense of being at the center of something grand. It's hard to describe, but it makes many foreigners stay there for a long time. They want to see what it will turn into and hope to witness it firsthand.\"",
+            "scores": {
+                "bleu": 36.7778250783852,
+                "chrf": 66.53888576119195,
+                "comet-ref": 86.91053986549377,
+                "comet-noref": 82.79417157173157
+            }
+        },
+        "TT2": {
+            "text": "Simon Norton, who is originally from England but has recently been living in Beijing, wrote an article on his personal blog site 4Corners7Seas, saying: \"There is generally a feeling among people of being at the center of something grand, which is hard to describe, but it keeps many foreigners there for a long time. They want to see what it will become and hope to witness it firsthand.\"",
+            "scores": {
+                "bleu": 43.04794462416259,
+                "chrf": 72.76775225422146,
+                "comet-ref": 88.70654702186584,
+                "comet-noref": 83.54220390319824
+            }
+        },
+        "TT3": {
+            "text": "Simon Norton, originally from England but currently living in Beijing, wrote in his personal blog 4Corners7Seas: “People generally have a feeling of being at the center of some grander scheme, a feeling that is hard to articulate, but it keeps many foreigners staying there long-term. They want to see what it will become and hope to witness it firsthand.”",
+            "scores": {
+                "bleu": 33.333212007183185,
+                "chrf": 67.64066116373864,
+                "comet-ref": 86.90972328186035,
+                "comet-noref": 83.60846042633057
+            }
+        }
+    },
+    {
+        "index": 28,
+        "ST": {
+            "en": "According to reports, the city's high-quality, high-speed Internet and technology-friendly environment make everyday life easier than ever before.",
+            "zh": "报道称，这座城市优质高速的互联网和对技术友好的环境使日常生活比以往任何时候都更容易。"
+        },
+        "TT1": {
+            "text": "According to reports, the city's high-quality and fast internet, along with its tech-friendly environment, have made daily life easier than ever before.",
+            "scores": {
+                "bleu": 23.47788342625025,
+                "chrf": 63.197542192059885,
+                "comet-ref": 92.39042401313782,
+                "comet-noref": 86.15537881851196
+            }
+        },
+        "TT2": {
+            "text": "According to reports, the city's high-quality and fast internet, along with its tech-friendly environment, has made daily life easier than ever before.",
+            "scores": {
+                "bleu": 23.47788342625025,
+                "chrf": 63.20804547622523,
+                "comet-ref": 92.29888319969177,
+                "comet-noref": 86.28261089324951
+            }
+        },
+        "TT3": {
+            "text": "According to reports, the city's high-quality high-speed internet and tech-friendly environment make everyday life easier than ever before.",
+            "scores": {
+                "bleu": 41.09080290971358,
+                "chrf": 81.81729983201875,
+                "comet-ref": 94.36784386634827,
+                "comet-noref": 86.3725483417511
+            }
+        }
+    },
+    {
+        "index": 29,
+        "ST": {
+            "en": "Andy Peñafuerte, who originates from Manila and is currently the deputy editor-in-chief of the website Beijing Children, said: \"Beijing is rapidly transforming into a cashless society. The Internet integrates the functions of traditional wallets into smart phones, making it easier for everyone to conduct various transactions.\"",
+            "zh": "来自马尼拉、目前在“北京儿童”网站担任副总编的安迪·佩尼亚富埃尔特说：“北京正在迅速转变为一个无现金社会，互联网把传统钱包的功能整合到智能手机上，使每个人都能更容易地进行许多交易。”"
+        },
+        "TT1": {
+            "text": "Andy Peñafuerte, from Manila and currently the deputy editor of the \"Beijing Children\" website, said: \"Beijing is rapidly transforming into a cashless society. The internet has integrated the functions of traditional wallets into smartphones, making it easier for everyone to conduct many transactions.\"",
+            "scores": {
+                "bleu": 39.70838168482866,
+                "chrf": 82.38933476962012,
+                "comet-ref": 88.09204697608948,
+                "comet-noref": 83.88854265213013
+            }
+        },
+        "TT2": {
+            "text": "Andy Peñafuerte, who is from Manila and currently serves as the deputy editor-in-chief at the \"Beijing Children's\" website, said: \"Beijing is rapidly transitioning into a cashless society. The internet integrates the functions of traditional wallets into smartphones, making it easier for everyone to carry out many transactions.\"",
+            "scores": {
+                "bleu": 31.515969509450244,
+                "chrf": 77.01610376593119,
+                "comet-ref": 88.21794390678406,
+                "comet-noref": 83.52793455123901
+            }
+        },
+        "TT3": {
+            "text": "Andy Peñafuerte, who is from Manila and currently serves as the deputy editor-in-chief of the \"Beijing Children\" website, said: \"Beijing is rapidly transforming into a cashless society, with the internet integrating the functions of traditional wallets into smartphones, making it easier for everyone to conduct numerous transactions.\"",
+            "scores": {
+                "bleu": 38.972945436917534,
+                "chrf": 80.40018645985373,
+                "comet-ref": 88.36572170257568,
+                "comet-noref": 84.10340547561646
+            }
+        }
+    },
+    {
+        "index": 30,
+        "ST": {
+            "en": "According to reports, smart phones are just the beginning of Beijing's technical ambitions. Face recognition technology is being widely used across the city. Many mobile phone applications use this technology to facilitate bank transfers and payments, grant people access apartments and offices, and even use it to verify identity of the drivers providing car-hailing service.",
+            "zh": "报道表示，但智能手机只是北京技术雄心的开始，面部识别软件已经十分普及，许多手机应用都使用这种技术来进行银行转账和支付、让人们进入公寓和办公室，甚至用它来核实网约车司机的身份。"
+        },
+        "TT1": {
+            "text": "According to the report, smartphones are only the beginning of Beijing's technological ambitions. Facial recognition software is already widespread, with many mobile applications using this technology for bank transfers and payments, to allow people to enter apartments and offices, and even to verify the identity of ride-hailing drivers.",
+            "scores": {
+                "bleu": 10.440239466800822,
+                "chrf": 64.81196166165614,
+                "comet-ref": 86.78712248802185,
+                "comet-noref": 85.05825400352478
+            }
+        },
+        "TT2": {
+            "text": "According to reports, smartphones are just the beginning of Beijing's technological ambitions. Facial recognition software is already very widespread, and many mobile applications use this technology for banking transfers and payments, allowing people to enter apartments and offices, and even to verify the identity of ride-hailing drivers.",
+            "scores": {
+                "bleu": 17.698237876486047,
+                "chrf": 67.48993091857089,
+                "comet-ref": 87.2056782245636,
+                "comet-noref": 85.17595529556274
+            }
+        },
+        "TT3": {
+            "text": "According to the report, smartphones are just the beginning of Beijing's technological ambitions; facial recognition software is already widespread. Many mobile apps use this technology for banking transactions and payments, to allow people to enter apartments and offices, and even to verify the identity of ride-hailing drivers.",
+            "scores": {
+                "bleu": 13.64369994436161,
+                "chrf": 64.50360776255853,
+                "comet-ref": 86.98685765266418,
+                "comet-noref": 85.13232469558716
+            }
+        }
+    },
+    {
+        "index": 31,
+        "ST": {
+            "en": "Beijing recently announced plans to invest 13.8 billion yuan in the construction of an artificial intelligence technology park. When it is completed, more than 400 companies will settle there. They will focus on the development of artificial intelligence technologies ranging from biometrics to self-driving cars.",
+            "zh": "北京最近还宣布计划斥资138亿元人民币修建一个人工智能科技园，建成后将有逾400家企业在那里落户，它们将专注于开发从生物测定到自动驾驶汽车的各种人工智能技术。"
+        },
+        "TT1": {
+            "text": "Beijing recently also announced plans to invest 13.8 billion yuan in building an artificial intelligence technology park, which will host over 400 companies once completed. These companies will focus on developing various AI technologies, ranging from biometrics to autonomous vehicles.",
+            "scores": {
+                "bleu": 26.045380867231437,
+                "chrf": 66.1262771053279,
+                "comet-ref": 86.97096705436707,
+                "comet-noref": 85.97049117088318
+            }
+        },
+        "TT2": {
+            "text": "Beijing recently also announced plans to invest 13.8 billion yuan to build an artificial intelligence technology park, which will house more than 400 companies once completed, focusing on developing various AI technologies ranging from biometrics to autonomous vehicles.",
+            "scores": {
+                "bleu": 26.21075667215305,
+                "chrf": 67.14018651045707,
+                "comet-ref": 85.94944477081299,
+                "comet-noref": 85.88911294937134
+            }
+        },
+        "TT3": {
+            "text": "Beijing recently also announced plans to invest 13.8 billion yuan to build an artificial intelligence technology park, which, upon completion, will host over 400 companies focusing on developing various AI technologies, ranging from biometrics to autonomous vehicles.",
+            "scores": {
+                "bleu": 22.186021279469905,
+                "chrf": 64.10151151639792,
+                "comet-ref": 86.58973574638367,
+                "comet-noref": 86.1184298992157
+            }
+        }
+    },
+    {
+        "index": 32,
+        "ST": {
+            "en": "Food plays a central role in China’s many major traditional festivals. Foreigners are enthusiastic about these festivals. The Spring Festival is the most important festival in both social and economic sense, and it is also one of the most enjoyable festivals for foreigners.",
+            "zh": "食品也是中国历年诸多重大节日的核心，参加这些庆祝活动受到外国人的推崇，春节是最重要的社会和经济节日，也是外国人最容易参与的节日之一。"
+        },
+        "TT1": {
+            "text": "Food is also at the core of many major annual festivals in China. Participating in these celebrations is highly regarded by foreigners. Chinese New Year is the most important social and economic festival and is also one of the easiest for foreigners to take part in.",
+            "scores": {
+                "bleu": 18.06001208545335,
+                "chrf": 50.83750922064647,
+                "comet-ref": 81.97057843208313,
+                "comet-noref": 84.15250182151794
+            }
+        },
+        "TT2": {
+            "text": "Food is also at the heart of many major traditional Chinese festivals. Participating in these celebrations is highly regarded by foreigners. The Chinese New Year is the most important social and economic festival and is one of the easiest for foreigners to engage in.",
+            "scores": {
+                "bleu": 13.387375794931774,
+                "chrf": 51.58030664712124,
+                "comet-ref": 81.51507377624512,
+                "comet-noref": 84.1399073600769
+            }
+        },
+        "TT3": {
+            "text": "Food is also central to many major annual festivals in China, and participation in these celebrations is highly esteemed by foreigners. The Spring Festival (Chinese New Year) is the most important social and economic festival and is also one of the easiest for foreigners to participate in.",
+            "scores": {
+                "bleu": 20.3704856382969,
+                "chrf": 53.952274183412996,
+                "comet-ref": 83.1535279750824,
+                "comet-noref": 84.48593616485596
+            }
+        }
+    },
+    {
+        "index": 33,
+        "ST": {
+            "en": "Sage said: “It's a pleasure for me to help Chinese friends prepare for the New Year. It is equally important to clean the apartment and paste the red spring couplets with blessing words on the door. On New Year’s eve, all family members must gather together to have a good meal and stay until midnight, and finally to celebrate the New Year with fireworks. For foreigners, spending the night with friends and their family is indeed an opportunity for blending. ”",
+            "zh": "塞希说：“我建议帮助中国朋友为过年做准备，打扫公寓和在家门贴上写有新年祝福语的红色春联同等重要，在除夕那一天，所有的家庭成员都要齐集一堂吃一顿丰盛的大餐，然后守岁到午夜，用绚丽响亮的焰火迎接新年。对外国人而言，与朋友和家人共度这个夜晚的确是一个融入的机会。”"
+        },
+        "TT1": {
+            "text": "Ceci said, \"I suggest helping Chinese friends prepare for the New Year; cleaning the apartment and putting up red couplets with New Year blessings on the door is equally important. On New Year's Eve, all family members gather together to enjoy a sumptuous feast and then stay up until midnight, welcoming the New Year with brilliant, loud fireworks. For foreigners, spending this evening with friends and family is indeed an opportunity to immerse themselves in the culture.\"",
+            "scores": {
+                "bleu": 23.058123104666226,
+                "chrf": 62.55263192072656,
+                "comet-ref": 82.28848576545715,
+                "comet-noref": 81.96402788162231
+            }
+        },
+        "TT2": {
+            "text": "Saixi said, \"I suggest helping Chinese friends prepare for the New Year. Cleaning the apartment and putting up red couplets with New Year blessings on the door are equally important. On New Year's Eve, all family members gather together to enjoy a sumptuous dinner, then stay up late to welcome the New Year with colorful and loud fireworks at midnight. For foreigners, spending this evening with friends and family is indeed an opportunity to integrate.\"",
+            "scores": {
+                "bleu": 22.065546602165785,
+                "chrf": 62.72883086299043,
+                "comet-ref": 82.73788094520569,
+                "comet-noref": 81.68250322341919
+            }
+        },
+        "TT3": {
+            "text": "Saixi said, \"I suggest that helping Chinese friends prepare for the New Year is equally important to cleaning the apartment and putting up red couplets with New Year blessings on their door. On New Year's Eve, all family members gather to enjoy a lavish dinner together and then stay up until midnight, welcoming the New Year with brilliant and loud fireworks. For foreigners, spending this evening with friends and family is indeed an opportunity to integrate.\"",
+            "scores": {
+                "bleu": 22.938598967454123,
+                "chrf": 64.23861390187126,
+                "comet-ref": 82.22820162773132,
+                "comet-noref": 81.23502731323242
+            }
+        }
+    },
+    {
+        "index": 34,
+        "ST": {
+            "en": "According to reports, a large number of foreigners are living in Beijing and the number is growing. However, the language barrier and the convenience of exchanges between the expatriates can easily become excuses for not fully integrating into the local culture.",
+            "zh": "报道称，北京的外国人数量众多而且在不断增长，但中国的语言障碍以及侨民之间交流的便利很容易成为他们不完全融入当地文化的借口。"
+        },
+        "TT1": {
+            "text": "Reports indicate that the number of foreigners in Beijing is substantial and continuously increasing, but the language barrier in China and the ease of communication among expatriates can easily become excuses for their incomplete integration into the local culture.",
+            "scores": {
+                "bleu": 23.82414840474507,
+                "chrf": 55.18875559987092,
+                "comet-ref": 87.05649971961975,
+                "comet-noref": 83.97465348243713
+            }
+        },
+        "TT2": {
+            "text": "Reports indicate that the number of foreigners in Beijing is large and continues to grow, but the language barrier in China and the convenience of communication among expatriates can easily become their excuse for not fully integrating into the local culture.",
+            "scores": {
+                "bleu": 33.72966184148606,
+                "chrf": 65.40192759676934,
+                "comet-ref": 88.0193293094635,
+                "comet-noref": 83.423912525177
+            }
+        },
+        "TT3": {
+            "text": "The report states that the number of foreigners in Beijing is large and continually growing, but the language barrier in China and the ease of communication among expatriates can easily become excuses for them not fully integrating into the local culture.",
+            "scores": {
+                "bleu": 32.56076298323397,
+                "chrf": 64.65786159893095,
+                "comet-ref": 87.45986819267273,
+                "comet-noref": 83.87246131896973
+            }
+        }
+    },
+    {
+        "index": 35,
+        "ST": {
+            "en": "Sage said: 'Some foreigners have lived in China for many years, but they have little experience with their host country. If your initial attempt to interact with the Chinese is not successful, then it is easy for you to feel more comfortable with other foreigners.",
+            "zh": "塞希说：“一些外国人已经在中国生活多年，但对他们的东道国几乎没有什么体验。如果你最初接触中国人的尝试不算成功，那么你很容易有还是与其他外国人相处更容易的感觉。"
+        },
+        "TT1": {
+            "text": "Sai Xi said, \"Some foreigners have already lived in China for many years but have barely any experience with their host country. If your initial attempts to engage with Chinese people aren't successful, it's easy to feel that interacting with other foreigners is still easier.\"",
+            "scores": {
+                "bleu": 24.60254087196001,
+                "chrf": 62.415402651135565,
+                "comet-ref": 86.09314560890198,
+                "comet-noref": 81.51212930679321
+            }
+        },
+        "TT2": {
+            "text": "Sai Xi said: \"Some foreigners have lived in China for many years but have had almost no experience with their host country. If your initial attempts to interact with Chinese people are not successful, it is easy to feel that it is still easier to get along with other foreigners.\"",
+            "scores": {
+                "bleu": 32.927488451404315,
+                "chrf": 67.24458559684768,
+                "comet-ref": 86.61366701126099,
+                "comet-noref": 81.8793535232544
+            }
+        },
+        "TT3": {
+            "text": "Cissy said, \"Some foreigners have lived in China for many years, but they have hardly any experience of their host country. If your initial attempts to interact with Chinese people are unsuccessful, it is easy to feel that it's still easier to get along with other foreigners.\"",
+            "scores": {
+                "bleu": 28.6424022785037,
+                "chrf": 65.91060607797505,
+                "comet-ref": 85.50307750701904,
+                "comet-noref": 80.11329770088196
+            }
+        }
+    },
+    {
+        "index": 36,
+        "ST": {
+            "en": "In these so-called 'foreign bubbles' ('Laowai bubble' refers to circles in which foreigners only mixed in with foreigners, without touching local people and local culture -- translator's note), foreigners mingle with each other in their own communities, eat in Western restaurants, and only make friends with foreigners.",
+            "zh": "”在这些所谓的“老外泡泡”中（“老外泡泡”是指外国人只在外国人中间混，而不接触当地人和当地文化——译者注），外国人在自己的社区里抱团，在西方餐馆吃饭，并且朋友中只有外国人。"
+        },
+        "TT1": {
+            "text": "\"In these so-called 'expat bubbles' (expat bubbles refer to situations where foreigners only socialize within their own groups and do not engage with local people or culture—translator's note), foreigners stick together within their communities, dine at Western restaurants, and have only foreign friends.\"",
+            "scores": {
+                "bleu": 3.536695072067071,
+                "chrf": 52.39435120008502,
+                "comet-ref": 80.35481572151184,
+                "comet-noref": 81.21005296707153
+            }
+        },
+        "TT2": {
+            "text": "\"In these so-called 'expat bubbles' (where 'expat bubble' refers to foreigners who only mingle among other foreigners and do not engage with the local people and culture—translator's note), foreigners stick together within their own communities, dine at Western restaurants, and have only foreigners as friends.\"",
+            "scores": {
+                "bleu": 6.859090501440616,
+                "chrf": 57.123558618602665,
+                "comet-ref": 81.84542655944824,
+                "comet-noref": 81.59352540969849
+            }
+        },
+        "TT3": {
+            "text": "\"In these so-called 'expat bubbles' (an 'expat bubble' refers to foreigners who only mingle among other foreigners and do not engage with locals or local culture - translator's note), foreigners stick together within their own communities, dine at Western restaurants, and have only other foreigners as friends.\"",
+            "scores": {
+                "bleu": 5.549736159983157,
+                "chrf": 56.425778634683496,
+                "comet-ref": 82.41639733314514,
+                "comet-noref": 81.94252252578735
+            }
+        }
+    },
+    {
+        "index": 37,
+        "ST": {
+            "en": "The easiest way to overcome problem is to learn a little bit of Mandarin – something easier than one might think.",
+            "zh": "克服这一点最简单的办法就是学习一点普通话——这比人们可能想象的要简单。"
+        },
+        "TT1": {
+            "text": "The easiest way to overcome this is to learn a bit of Mandarin — which is simpler than people might imagine.",
+            "scores": {
+                "bleu": 33.71354098335153,
+                "chrf": 61.13419337790117,
+                "comet-ref": 90.99417328834534,
+                "comet-noref": 85.6238842010498
+            }
+        },
+        "TT2": {
+            "text": "The easiest way to overcome this is to learn a bit of Mandarin—it’s simpler than people might think.",
+            "scores": {
+                "bleu": 32.21135973222974,
+                "chrf": 69.40563153884641,
+                "comet-ref": 90.72533249855042,
+                "comet-noref": 86.24688386917114
+            }
+        },
+        "TT3": {
+            "text": "The easiest way to overcome this is to learn a bit of Mandarin – it's easier than one might think.",
+            "scores": {
+                "bleu": 48.78595420976542,
+                "chrf": 80.6400411794496,
+                "comet-ref": 91.00690484046936,
+                "comet-noref": 85.99312901496887
+            }
+        }
+    },
+    {
+        "index": 38,
+        "ST": {
+            "en": "Sage said: “One or two hours of private lessons in Chinese every week or learning entry-level radio dramas should suit everyone’s busy schedule.”",
+            "zh": "塞希说：“每周上一两个小时的中文私教课或者学习入门级的广播剧应该会适合每个人的忙碌日程。”"
+        },
+        "TT1": {
+            "text": "Seshy said, \"Having one or two hours of private Chinese lessons per week or studying beginner-level radio dramas should fit everyone's busy schedule.\"",
+            "scores": {
+                "bleu": 22.743363869750482,
+                "chrf": 63.272887345414375,
+                "comet-ref": 89.3316388130188,
+                "comet-noref": 80.73985576629639
+            }
+        },
+        "TT2": {
+            "text": "Sai Xi said, \"Having one or two hours of private Chinese lessons per week or studying beginner-level radio dramas should fit into everyone’s busy schedule.\"",
+            "scores": {
+                "bleu": 22.743363869750482,
+                "chrf": 60.53783603391043,
+                "comet-ref": 88.74694108963013,
+                "comet-noref": 80.58695793151855
+            }
+        },
+        "TT3": {
+            "text": "Sashi said, \"Taking one or two hours of private Chinese lessons each week or learning beginner-level radio dramas should fit into everyone's busy schedules.\"",
+            "scores": {
+                "bleu": 24.04817938984655,
+                "chrf": 64.3447495544848,
+                "comet-ref": 89.5875871181488,
+                "comet-noref": 81.47523403167725
+            }
+        }
+    },
+    {
+        "index": 39,
+        "ST": {
+            "en": "Even learning a few classic phrases will help with shopping, ordering a meal in a restaurant, or chatting on a taxi.",
+            "zh": "哪怕学几句经典的短句也会对购物、在餐馆订餐或是在出租车上闲聊有帮助。"
+        },
+        "TT1": {
+            "text": "Even learning a few classic short phrases can be helpful for shopping, ordering food in a restaurant, or chatting in a taxi.",
+            "scores": {
+                "bleu": 24.76980256562108,
+                "chrf": 62.650268001212424,
+                "comet-ref": 92.06932187080383,
+                "comet-noref": 86.14888787269592
+            }
+        },
+        "TT2": {
+            "text": "Even learning a few classic phrases can be helpful for shopping, ordering in a restaurant, or chatting in a taxi.",
+            "scores": {
+                "bleu": 29.85114496930219,
+                "chrf": 70.13805857881984,
+                "comet-ref": 91.9839084148407,
+                "comet-noref": 85.49823760986328
+            }
+        },
+        "TT3": {
+            "text": "Even learning a few classic phrases can be helpful for shopping, ordering food in a restaurant, or chatting in a taxi.",
+            "scores": {
+                "bleu": 29.85114496930219,
+                "chrf": 67.72449174642337,
+                "comet-ref": 92.971271276474,
+                "comet-noref": 85.9282374382019
+            }
+        }
+    },
+    {
+        "index": 40,
+        "ST": {
+            "en": "According to reports, persistent air pollution is also a fact of daily life, but the government has tried to curb pollution in recent years.",
+            "zh": "报道称，顽固的空气污染也是日常生活中的一个事实，不过近年来的政府努力遏制了一些问题。"
+        },
+        "TT1": {
+            "text": "According to reports, persistent air pollution is also a fact of daily life, but government efforts in recent years have curbed some of the issues.",
+            "scores": {
+                "bleu": 45.01182872782869,
+                "chrf": 69.13454090538093,
+                "comet-ref": 90.76657295227051,
+                "comet-noref": 86.3248348236084
+            }
+        },
+        "TT2": {
+            "text": "According to reports, persistent air pollution is also a fact of daily life, but government efforts in recent years have curbed some of the problems.",
+            "scores": {
+                "bleu": 45.01182872782869,
+                "chrf": 68.20295170000657,
+                "comet-ref": 90.85644483566284,
+                "comet-noref": 86.45620346069336
+            }
+        },
+        "TT3": {
+            "text": "According to reports, persistent air pollution is also a fact of daily life, but government efforts in recent years have curbed some problems.",
+            "scores": {
+                "bleu": 44.40750605884706,
+                "chrf": 69.86346966508914,
+                "comet-ref": 90.91911911964417,
+                "comet-noref": 86.54170036315918
+            }
+        }
+    },
+    {
+        "index": 41,
+        "ST": {
+            "en": "Residents emphasize that outdoor activities are very important in warm months when pollution is often light. It is important to consider those blue sky days as opportunities for rambling in ancient encryptors or exploring the popular Ritan Park.",
+            "zh": "居民们强调，在污染往往较轻的温暖月份里到户外活动很重要，要把那些蓝天日当作在历史悠久的胡同里徜徉或是探索备受欢迎的日坛公园的机会。"
+        },
+        "TT1": {
+            "text": "The residents emphasized that it is important to engage in outdoor activities during the warmer months when pollution is often lighter, and to take those blue sky days as opportunities to stroll in the historic hutongs or explore the popular Ritan Park.",
+            "scores": {
+                "bleu": 29.96547966385583,
+                "chrf": 66.12815815969672,
+                "comet-ref": 78.5226583480835,
+                "comet-noref": 79.16262149810791
+            }
+        },
+        "TT2": {
+            "text": "The residents emphasized that it is important to engage in outdoor activities during the warmer months when pollution is often lighter and to take those blue-sky days as opportunities to stroll through the historic alleys or explore the popular Ritan Park.",
+            "scores": {
+                "bleu": 21.615740456633883,
+                "chrf": 64.72959137843974,
+                "comet-ref": 81.14615082740784,
+                "comet-noref": 80.14601469039917
+            }
+        },
+        "TT3": {
+            "text": "The residents emphasized that it is important to engage in outdoor activities during the warmer months when pollution is often lighter, and to take those blue-sky days as opportunities to stroll through the historic alleyways or explore the popular Ritan Park.",
+            "scores": {
+                "bleu": 21.615740456633883,
+                "chrf": 64.07771235812667,
+                "comet-ref": 80.74252605438232,
+                "comet-noref": 80.03392219543457
+            }
+        }
+    },
+    {
+        "index": 42,
+        "ST": {
+            "en": "Norton said: \"Beijing is a Chinese city that one can find most things below the surface. You can find very good arts and music activities, indulgent nightlife, historical wonders, ultra-modern business districts and ancient hutong areas.\"",
+            "zh": "诺顿说：“北京是能在表面以下发现最多东西的中国城市，你能发现很不错的艺术和音乐活动、纵情的夜生活、历史奇观、超现代的商业区和古老的胡同区。”"
+        },
+        "TT1": {
+            "text": "Norton said, \"Beijing is the Chinese city where you can discover the most things beneath the surface. You can find excellent art and music activities, indulgent nightlife, historical wonders, ultra-modern commercial areas, and ancient hutong districts.\"",
+            "scores": {
+                "bleu": 11.168977602573474,
+                "chrf": 63.11471681990886,
+                "comet-ref": 89.41470980644226,
+                "comet-noref": 83.84090065956116
+            }
+        },
+        "TT2": {
+            "text": "Norton said, \"Beijing is the city in China where you can discover the most beneath the surface. You can find excellent art and music events, indulgent nightlife, historical wonders, ultra-modern commercial areas, and ancient hutong districts.\"",
+            "scores": {
+                "bleu": 9.166285694759086,
+                "chrf": 55.98500947315026,
+                "comet-ref": 87.79075741767883,
+                "comet-noref": 82.85846710205078
+            }
+        },
+        "TT3": {
+            "text": "Norton said, \"Beijing is the Chinese city where you can discover the most beneath the surface. You can find great art and music events, indulgent nightlife, historical wonders, ultra-modern business districts, and ancient hutong areas.\"",
+            "scores": {
+                "bleu": 20.03554941023862,
+                "chrf": 66.20640484232507,
+                "comet-ref": 88.29041719436646,
+                "comet-noref": 82.6203465461731
+            }
+        }
+    },
+    {
+        "index": 43,
+        "ST": {
+            "en": "The report believed that the hindrance to growth in human capital as a result of aging has become increasingly apparent. This was particularly the case in the Northeast, where the annual average contribution of aging to human capital growth was -1.28%.",
+            "zh": "报告认为，老龄化对人力资本增长的阻碍作用日益明显，尤其在东北地区，老龄化对人力资本增长的年均贡献率为-1.28%。"
+        },
+        "TT1": {
+            "text": "The report suggests that the hindrance of aging on human capital growth is becoming increasingly evident, especially in the northeastern region, where the annual average contribution rate of aging to human capital growth is -1.28%.",
+            "scores": {
+                "bleu": 25.1909698991208,
+                "chrf": 64.38922854559837,
+                "comet-ref": 88.39917778968811,
+                "comet-noref": 85.64375638961792
+            }
+        },
+        "TT2": {
+            "text": "The report suggests that the hindrance of aging on human capital growth is becoming increasingly evident, particularly in the northeastern region where the annual average contribution rate of aging to human capital growth is -1.28%.",
+            "scores": {
+                "bleu": 25.449372629507852,
+                "chrf": 67.55510400764335,
+                "comet-ref": 88.47847580909729,
+                "comet-noref": 85.41427850723267
+            }
+        },
+        "TT3": {
+            "text": "The report suggests that the hindrance of aging on the growth of human capital is becoming increasingly evident, especially in the northeastern region, where the annual average contribution rate of aging to human capital growth is -1.28%.",
+            "scores": {
+                "bleu": 25.449372629507852,
+                "chrf": 63.0776454685303,
+                "comet-ref": 88.36552500724792,
+                "comet-noref": 85.60835719108582
+            }
+        }
+    },
+    {
+        "index": 44,
+        "ST": {
+            "en": "Pan Gongsheng said that the present of risk of cross-border capital flows can be controlled. The fundamental factors underpinning international balance of payments will still exist over the longer term.",
+            "zh": "潘功胜指出，目前跨境资本流动风险可控，支撑国际收支平衡的根本性因素仍然长期存在。"
+        },
+        "TT1": {
+            "text": "Pan Gongsheng pointed out that the current risks of cross-border capital flows are manageable, and the fundamental factors supporting the balance of international payments still exist in the long term.",
+            "scores": {
+                "bleu": 6.199687726913964,
+                "chrf": 59.086861399653465,
+                "comet-ref": 87.29917407035828,
+                "comet-noref": 82.54414796829224
+            }
+        },
+        "TT2": {
+            "text": "Pan Gongsheng pointed out that the risks of cross-border capital flows are currently controllable, and the fundamental factors supporting the balance of international payments still exist in the long term.",
+            "scores": {
+                "bleu": 6.199687726913964,
+                "chrf": 60.61705580276694,
+                "comet-ref": 87.53682971000671,
+                "comet-noref": 82.92180895805359
+            }
+        },
+        "TT3": {
+            "text": "Pan Gongsheng pointed out that the current risks associated with cross-border capital flows are manageable, and the fundamental factors supporting the balance of international payments still exist in the long term.",
+            "scores": {
+                "bleu": 6.106432774355543,
+                "chrf": 55.40981698104706,
+                "comet-ref": 86.96209788322449,
+                "comet-noref": 82.68699645996094
+            }
+        }
+    },
+    {
+        "index": 45,
+        "ST": {
+            "en": "China News Service Beijing December 17 wire (Reporter: Gao Kai) Heritage makes the world resplendent - The opening ceremony of the 2016 International Summit for the Authentication, Restoration and Protection of Ancient Chinese Calligraphy and Painting was held at Renmin University of China on December 17.",
+            "zh": "中新网北京12月17日电 (记者 高凯)世界因遗产而璀璨——2016中国古书画鉴定修复与保护国际高峰论坛于12月17日在中国人民大学开幕。"
+        },
+        "TT1": {
+            "text": "BEIJING, Dec. 17 (Xinhua) -- (Reporter Gao Kai) The world shines because of heritage - The 2016 International Summit Forum on the Appraisal, Restoration, and Protection of Ancient Chinese Calligraphy and Paintings opened at Renmin University of China on December 17.",
+            "scores": {
+                "bleu": 31.582364025070504,
+                "chrf": 67.50947625761347,
+                "comet-ref": 77.99128890037537,
+                "comet-noref": 79.45676445960999
+            }
+        },
+        "TT2": {
+            "text": "Beijing, Dec. 17 (Chinanews) (Reporter Gao Kai) The world is brightened by its heritage - The 2016 International Summit Forum on the Appraisal, Restoration, and Protection of Ancient Chinese Paintings and Calligraphy opened on December 17 at Renmin University of China.",
+            "scores": {
+                "bleu": 23.07712507814924,
+                "chrf": 65.46724988894512,
+                "comet-ref": 80.55582642555237,
+                "comet-noref": 78.70538830757141
+            }
+        },
+        "TT3": {
+            "text": "China News Service, Beijing, December 17 (Reporter Gao Kai) The world shines because of heritage—the 2016 International Summit Forum on the Authentication, Restoration, and Protection of Ancient Chinese Calligraphy and Paintings opened on December 17 at Renmin University of China.",
+            "scores": {
+                "bleu": 36.70815826573937,
+                "chrf": 78.22927666256678,
+                "comet-ref": 81.39496445655823,
+                "comet-noref": 78.46980094909668
+            }
+        }
+    },
+    {
+        "index": 46,
+        "ST": {
+            "en": "In April this year, the European Commission accused Google of coercing mobile phone manufacturers into installing software such as the Google search engine and Chrome web browser, or they would not be allowed to use other Google applications.",
+            "zh": "欧盟委员会今年4月指控谷歌强迫手机厂商预装谷歌搜索和Chrome浏览器等软件，否则便不允许其使用其他谷歌应用。"
+        },
+        "TT1": {
+            "text": "In April this year, the European Commission accused Google of forcing phone manufacturers to pre-install Google Search, Chrome browser, and other software, otherwise they would not be allowed to use other Google applications.",
+            "scores": {
+                "bleu": 41.89056660542122,
+                "chrf": 74.48995687114484,
+                "comet-ref": 89.39695358276367,
+                "comet-noref": 86.25489473342896
+            }
+        },
+        "TT2": {
+            "text": "In April this year, the European Commission accused Google of forcing phone manufacturers to pre-install Google Search and Chrome browser, among other software, or else they would not be allowed to use other Google applications.",
+            "scores": {
+                "bleu": 42.84844595357462,
+                "chrf": 75.35745301081968,
+                "comet-ref": 89.41641449928284,
+                "comet-noref": 85.49327850341797
+            }
+        },
+        "TT3": {
+            "text": "In April this year, the European Commission accused Google of forcing mobile manufacturers to pre-install Google Search and Chrome browser, among other software, or else they would not be allowed to use other Google applications.",
+            "scores": {
+                "bleu": 42.27316856644704,
+                "chrf": 75.9186771305022,
+                "comet-ref": 89.39961791038513,
+                "comet-noref": 85.41461229324341
+            }
+        }
+    },
+    {
+        "index": 47,
+        "ST": {
+            "en": "The European Commission believed that this harmed consumer interests and hindered competition.",
+            "zh": "欧盟委员会认为此举有损消费者的利益，并且阻碍了竞争。"
+        },
+        "TT1": {
+            "text": "The European Commission believes this action harms consumers' interests and hinders competition.",
+            "scores": {
+                "bleu": 15.727800941615358,
+                "chrf": 72.64083816326928,
+                "comet-ref": 93.34811568260193,
+                "comet-noref": 87.85579204559326
+            }
+        },
+        "TT2": {
+            "text": "The European Commission believes that this move harms consumer interests and hinders competition.",
+            "scores": {
+                "bleu": 22.62944003945279,
+                "chrf": 79.56041736429131,
+                "comet-ref": 94.25264000892639,
+                "comet-noref": 87.76844143867493
+            }
+        },
+        "TT3": {
+            "text": "The European Commission believes that this move is detrimental to the interests of consumers and hinders competition.",
+            "scores": {
+                "bleu": 11.954651475848712,
+                "chrf": 63.90616792997596,
+                "comet-ref": 92.90837049484253,
+                "comet-noref": 87.50028014183044
+            }
+        }
+    },
+    {
+        "index": 48,
+        "ST": {
+            "en": "EU regulators initially requested that Google make a response prior to July 27.",
+            "zh": "欧盟监管者最初要求谷歌在7月27日之前作出回应。"
+        },
+        "TT1": {
+            "text": "EU regulators initially requested Google to respond by July 27.",
+            "scores": {
+                "bleu": 22.718709780542323,
+                "chrf": 72.16282270196754,
+                "comet-ref": 94.46980953216553,
+                "comet-noref": 87.37122416496277
+            }
+        },
+        "TT2": {
+            "text": "EU regulators initially required Google to respond by July 27.",
+            "scores": {
+                "bleu": 14.458924666162856,
+                "chrf": 65.24458473557738,
+                "comet-ref": 93.67313981056213,
+                "comet-noref": 87.44959831237793
+            }
+        },
+        "TT3": {
+            "text": "European Union regulators initially required Google to respond by July 27th.",
+            "scores": {
+                "bleu": 7.141816289329644,
+                "chrf": 54.40113185751164,
+                "comet-ref": 92.86877512931824,
+                "comet-noref": 87.24607229232788
+            }
+        }
+    },
+    {
+        "index": 49,
+        "ST": {
+            "en": "If found guilty of violating antitrust rules, Google could face a maximum fine of 10% of its global turnover, or approximately US$7.4 billion.",
+            "zh": "倘若反垄断罪名成立，谷歌最高面临其全球营收10%的罚款，约为74亿美元。"
+        },
+        "TT1": {
+            "text": "If convicted of antitrust charges, Google could face a maximum fine of 10% of its global revenue, which is approximately 7.4 billion dollars.",
+            "scores": {
+                "bleu": 30.664391340430605,
+                "chrf": 57.76609431032148,
+                "comet-ref": 91.99041724205017,
+                "comet-noref": 85.96575260162354
+            }
+        },
+        "TT2": {
+            "text": "If found guilty of antitrust charges, Google could face a fine of up to 10% of its global revenue, about $7.4 billion.",
+            "scores": {
+                "bleu": 22.419056820298177,
+                "chrf": 57.152801916725835,
+                "comet-ref": 92.46771335601807,
+                "comet-noref": 86.77635192871094
+            }
+        },
+        "TT3": {
+            "text": "If found guilty of antitrust charges, Google could face a fine of up to 10% of its global revenue, approximately $7.4 billion.",
+            "scores": {
+                "bleu": 22.761431518822885,
+                "chrf": 62.968621139351924,
+                "comet-ref": 92.55788326263428,
+                "comet-noref": 86.82231903076172
+            }
+        }
+    },
+    {
+        "index": 50,
+        "ST": {
+            "en": "Google has not made immediate comment on this.",
+            "zh": "谷歌尚未立刻对此置评。"
+        },
+        "TT1": {
+            "text": "Google has not immediately commented on this.",
+            "scores": {
+                "bleu": 22.31618068926664,
+                "chrf": 67.33492722606981,
+                "comet-ref": 96.95030450820923,
+                "comet-noref": 85.57283282279968
+            }
+        },
+        "TT2": {
+            "text": "Google has not immediately commented on this.",
+            "scores": {
+                "bleu": 22.31618068926664,
+                "chrf": 67.33492722606981,
+                "comet-ref": 96.95030450820923,
+                "comet-noref": 85.57283282279968
+            }
+        },
+        "TT3": {
+            "text": "Google has not immediately commented on this.",
+            "scores": {
+                "bleu": 22.31618068926664,
+                "chrf": 67.33492722606981,
+                "comet-ref": 96.95030450820923,
+                "comet-noref": 85.57283282279968
+            }
+        }
+    },
+    {
+        "index": 51,
+        "ST": {
+            "en": "Google also faced EU investigations over giving prominent placement to its own shopping services in search results.",
+            "zh": "谷歌还因为在搜索结果中偏向自家购物服务而面临欧盟的调查。"
+        },
+        "TT1": {
+            "text": "Google is also facing an EU investigation for favoring its own shopping service in search results.",
+            "scores": {
+                "bleu": 14.879641171245488,
+                "chrf": 65.85436434495944,
+                "comet-ref": 87.99839615821838,
+                "comet-noref": 85.99525690078735
+            }
+        },
+        "TT2": {
+            "text": "Google is also facing an investigation by the European Union for favoring its own shopping services in search results.",
+            "scores": {
+                "bleu": 32.9416463622159,
+                "chrf": 59.87842355090142,
+                "comet-ref": 87.33000159263611,
+                "comet-noref": 85.96904277801514
+            }
+        },
+        "TT3": {
+            "text": "Google is also under investigation by the European Union for favoring its own shopping service in search results.",
+            "scores": {
+                "bleu": 14.44788670919441,
+                "chrf": 55.803525020251456,
+                "comet-ref": 86.00471615791321,
+                "comet-noref": 86.47205233573914
+            }
+        }
+    },
+    {
+        "index": 52,
+        "ST": {
+            "en": "Zhang Yuning's stay-abroad is a real one. It can be said that his achievement of “jumping level” from the national youth to the national Olympics is by no means accidental, and his leap-forward growth is still surprising.",
+            "zh": "张玉宁的留洋是实打实的，可以说他实现从国青到国奥的“跳级”并不是偶然的，而他飞跃成长的幅度依然令人惊讶。"
+        },
+        "TT1": {
+            "text": "Zhang Yuning's experience playing abroad is genuine. It can be said that his \"skip\" from the national youth team to the Olympic team was not accidental, and the extent of his rapid growth continues to be surprising.",
+            "scores": {
+                "bleu": 21.066551867537065,
+                "chrf": 52.15757015346261,
+                "comet-ref": 82.61722922325134,
+                "comet-noref": 79.99061346054077
+            }
+        },
+        "TT2": {
+            "text": "Zhang Yuning's overseas experience is genuine. It can be said that his \"advancement\" from the national youth team to the national Olympic team is not accidental, and the extent of his rapid growth continues to surprise people.",
+            "scores": {
+                "bleu": 22.754476677177927,
+                "chrf": 52.1269639791424,
+                "comet-ref": 83.13891291618347,
+                "comet-noref": 79.70881462097168
+            }
+        },
+        "TT3": {
+            "text": "Zhang Yuning's experience abroad is genuine. It can be said that his \"skipping a grade\" from the national youth team to the national Olympic team was not a coincidence, and the extent of his rapid growth still surprises people.",
+            "scores": {
+                "bleu": 22.754476677177927,
+                "chrf": 54.198563756292415,
+                "comet-ref": 81.72999024391174,
+                "comet-noref": 78.32127809524536
+            }
+        }
+    },
+    {
+        "index": 53,
+        "ST": {
+            "en": "Understand through a picture: Bitcoin's legal status around the world",
+            "zh": "一张图看懂：比特币在世界各地的法律地位"
+        },
+        "TT1": {
+            "text": "Understand at a glance: The legal status of Bitcoin around the world",
+            "scores": {
+                "bleu": 17.423472443716534,
+                "chrf": 60.64793341888305,
+                "comet-ref": 89.14681077003479,
+                "comet-noref": 82.67574310302734
+            }
+        },
+        "TT2": {
+            "text": "Understand at a glance: The legal status of Bitcoin around the world",
+            "scores": {
+                "bleu": 17.423472443716534,
+                "chrf": 60.64793341888305,
+                "comet-ref": 89.14681673049927,
+                "comet-noref": 82.67574310302734
+            }
+        },
+        "TT3": {
+            "text": "Understand with one picture: The legal status of Bitcoin around the world",
+            "scores": {
+                "bleu": 17.423472443716534,
+                "chrf": 63.60650906022391,
+                "comet-ref": 89.30765986442566,
+                "comet-noref": 80.34430146217346
+            }
+        }
+    },
+    {
+        "index": 54,
+        "ST": {
+            "en": "Abstract: A part from the price correction which is natural in speculation, the current round of digital currency tumble has also to do with the 'sworn enemy'—regulation.",
+            "zh": "摘要：除了投机属性天然引发的价格回调，本轮数字货币惨跌也与“宿敌”——监管风险不无关系。"
+        },
+        "TT1": {
+            "text": "Summary: In addition to the price corrections naturally triggered by speculative properties, the current sharp decline in digital currencies is also not unrelated to its \"nemesis\"—regulatory risks.",
+            "scores": {
+                "bleu": 4.300662553696791,
+                "chrf": 42.34592155467262,
+                "comet-ref": 81.6556990146637,
+                "comet-noref": 79.42875027656555
+            }
+        },
+        "TT2": {
+            "text": "Abstract: In addition to the natural price correction triggered by speculative attributes, this round of digital currency crash is also not unrelated to its \"archenemy\"—regulatory risk.",
+            "scores": {
+                "bleu": 10.991514729498917,
+                "chrf": 47.05618523263272,
+                "comet-ref": 80.52963614463806,
+                "comet-noref": 77.51173377037048
+            }
+        },
+        "TT3": {
+            "text": "Summary: In addition to the natural price correction triggered by speculative attributes, the recent plunge in digital currencies is also not unrelated to their \"arch-enemy\"—regulatory risks.",
+            "scores": {
+                "bleu": 3.712934101015684,
+                "chrf": 39.6234022263797,
+                "comet-ref": 83.54981541633606,
+                "comet-noref": 80.75932264328003
+            }
+        }
+    },
+    {
+        "index": 55,
+        "ST": {
+            "en": "From the visualized maps, the attitude of the eastern countries towards Bitcoin is more conservative than that of the West. Most countries in the world are still indecisive about the legitimacy of digital currencies, indicating that the “risk of the black swan” is still looming large.",
+            "zh": "从可视化地图看，东方国家对比特币的态度比西方更为保守，占全球主体的国家仍在观望数字货币合法性，代表“黑天鹅风险”依旧很大。"
+        },
+        "TT1": {
+            "text": "From the visualization map, Eastern countries have a more conservative attitude towards Bitcoin compared to Western countries, and the majority of countries around the world are still observing the legality of digital currencies, indicating that the \"black swan risk\" is still significant.",
+            "scores": {
+                "bleu": 12.138611630770823,
+                "chrf": 60.5246097421987,
+                "comet-ref": 79.23936247825623,
+                "comet-noref": 80.43125867843628
+            }
+        },
+        "TT2": {
+            "text": "From the perspective of a visual map, Eastern countries have a more conservative attitude towards Bitcoin compared to Western countries. The majority of countries globally are still observing the legality of digital currencies, indicating that the \"black swan risk\" remains significant.",
+            "scores": {
+                "bleu": 7.646965945321635,
+                "chrf": 55.09565643242221,
+                "comet-ref": 78.9616048336029,
+                "comet-noref": 78.91207933425903
+            }
+        },
+        "TT3": {
+            "text": "From the visualized map, it can be seen that Eastern countries have a more conservative attitude towards Bitcoin compared to Western countries. The majority of countries worldwide are still observing the legality of digital currencies, indicating that the \"black swan risk\" remains significant.",
+            "scores": {
+                "bleu": 8.79026949557174,
+                "chrf": 58.347898105038944,
+                "comet-ref": 80.54916858673096,
+                "comet-noref": 81.47469758987427
+            }
+        }
+    },
+    {
+        "index": 56,
+        "ST": {
+            "en": "*This article is taken from Wallstreetcn (WeChat ID: wallstreetcn), editor Wang Mu. For more exciting information, visit wallstreetcn.com or download the Wallstreetcn APP. *",
+            "zh": "*本文来自华尔街见闻（微信ID：wallstreetcn），编辑王穆。更多精彩资讯请登陆wallstreetcn.com，或下载华尔街见闻APP。*"
+        },
+        "TT1": {
+            "text": "*This article is from WallStreetCn (WeChat ID: wallstreetcn), edited by Wang Mu. For more exciting news, please visit wallstreetcn.com or download the WallStreetCn app.*",
+            "scores": {
+                "bleu": 11.460384138378831,
+                "chrf": 63.65157375001137,
+                "comet-ref": 88.61834406852722,
+                "comet-noref": 81.90412521362305
+            }
+        },
+        "TT2": {
+            "text": "*This article is from Wallstreetcn (WeChat ID: wallstreetcn), edited by Wang Mu. For more exciting news, please visit wallstreetcn.com or download the Wallstreetcn app.*",
+            "scores": {
+                "bleu": 15.948028086520061,
+                "chrf": 71.27437698811178,
+                "comet-ref": 90.73388576507568,
+                "comet-noref": 81.27679228782654
+            }
+        },
+        "TT3": {
+            "text": "*This article is from Wall Street Insights (WeChat ID: wallstreetcn), edited by Wang Mu. For more exciting news, please visit wallstreetcn.com or download the Wall Street Insights app.*",
+            "scores": {
+                "bleu": 11.460384138378831,
+                "chrf": 59.922992487701386,
+                "comet-ref": 87.45153546333313,
+                "comet-noref": 83.52628946304321
+            }
+        }
+    },
+    {
+        "index": 57,
+        "ST": {
+            "en": "As the authorities in major markets of Bitcoin -- such as China, South Korea and the European Union -- take decisive regulatory measures, the digital currency market dominated by Bitcoin has experienced major bloodshed this week. The price of Bitcoin has fallen below 10,000 dollar, recording the biggest one-day drop.",
+            "zh": "随着中国、韩国和欧盟等比特币主要市场的监管风暴迭起，以比特币为首的全球数字货币本周以来惨遭血洗，比特币价格周二起跌破1万美元心理整数位，并创三年以来最大单日跌幅。"
+        },
+        "TT1": {
+            "text": "As regulatory crackdowns arise in major Bitcoin markets such as China, South Korea, and the European Union, global digital currencies led by Bitcoin have suffered a severe sell-off this week. The price of Bitcoin fell below the psychological integer mark of $10,000 on Tuesday, marking the largest single-day drop in three years.",
+            "scores": {
+                "bleu": 18.950293023896176,
+                "chrf": 51.30917923931355,
+                "comet-ref": 79.96585369110107,
+                "comet-noref": 82.94119834899902
+            }
+        },
+        "TT2": {
+            "text": "As regulatory storms rise in major Bitcoin markets such as China, South Korea, and the European Union, global digital currencies led by Bitcoin have been severely hit this week. Bitcoin's price fell below the psychological threshold of $10,000 on Tuesday, marking the largest single-day drop in three years.",
+            "scores": {
+                "bleu": 14.77431098014116,
+                "chrf": 51.25170544090765,
+                "comet-ref": 79.74392771720886,
+                "comet-noref": 82.7332854270935
+            }
+        },
+        "TT3": {
+            "text": "With regulatory storms arising in major Bitcoin markets such as China, South Korea, and the European Union, the global digital currencies led by Bitcoin have been severely hit this week. The price of Bitcoin fell below the psychological threshold of $10,000 on Tuesday, marking its largest single-day drop in three years.",
+            "scores": {
+                "bleu": 18.784772429229324,
+                "chrf": 51.610515093875875,
+                "comet-ref": 80.78420162200928,
+                "comet-noref": 82.51285552978516
+            }
+        }
+    },
+    {
+        "index": 58,
+        "ST": {
+            "en": "A part from the price correction which is natural in speculation, the current round of digital currency tumble has also to do with the 'sworn enemy'—regulation.",
+            "zh": "除了投机属性天然引发的价格回调，本轮数字货币惨跌也与一直以来的“宿敌”——监管风险不无关系。"
+        },
+        "TT1": {
+            "text": "In addition to the price corrections naturally triggered by speculative properties, this round of drastic falls in digital currencies is also closely related to their long-standing nemesis—regulatory risk.",
+            "scores": {
+                "bleu": 4.625799890348224,
+                "chrf": 39.432842056726614,
+                "comet-ref": 81.90521597862244,
+                "comet-noref": 80.2666187286377
+            }
+        },
+        "TT2": {
+            "text": "In addition to the price correction naturally triggered by speculative attributes, the sharp decline in digital currencies this time is also related to their long-standing \"nemesis\" — regulatory risk.",
+            "scores": {
+                "bleu": 6.541868941754435,
+                "chrf": 38.06108641593686,
+                "comet-ref": 83.93874764442444,
+                "comet-noref": 82.95600414276123
+            }
+        },
+        "TT3": {
+            "text": "In addition to the price correction naturally triggered by speculative attributes, this round of catastrophic decline in digital currencies is also not unrelated to their long-standing \"nemesis\" - regulatory risks.",
+            "scores": {
+                "bleu": 7.172218462728085,
+                "chrf": 38.28793225570093,
+                "comet-ref": 82.75958299636841,
+                "comet-noref": 82.41887092590332
+            }
+        }
+    },
+    {
+        "index": 59,
+        "ST": {
+            "en": "At this important juncture, HowMuch.net, a visualization big data website, produced a map showing the legitimacy of Bitcoin and regulation measure in place in countries around the world.",
+            "zh": "在这个重要的关口，可视化大数据网站HowMuch.net制作了一份图谱，展现比特币在全球各国的合法性地位和受监管程度。"
+        },
+        "TT1": {
+            "text": "At this critical juncture, the visual big data website HowMuch.net has created a map showing the legal status and regulatory oversight of Bitcoin in various countries around the world.",
+            "scores": {
+                "bleu": 20.053583653512707,
+                "chrf": 57.93174243797859,
+                "comet-ref": 87.11494207382202,
+                "comet-noref": 85.65888404846191
+            }
+        },
+        "TT2": {
+            "text": "At this critical juncture, the data visualization website HowMuch.net has created a chart illustrating the legality and regulatory status of Bitcoin in countries around the world.",
+            "scores": {
+                "bleu": 15.08271374297332,
+                "chrf": 54.98550868887359,
+                "comet-ref": 87.19152212142944,
+                "comet-noref": 86.21509075164795
+            }
+        },
+        "TT3": {
+            "text": "At this critical juncture, the data visualization website HowMuch.net has created a chart to illustrate the legality and regulatory status of Bitcoin in various countries around the world.",
+            "scores": {
+                "bleu": 10.949741420907312,
+                "chrf": 50.43428643752394,
+                "comet-ref": 87.08581328392029,
+                "comet-noref": 86.16575598716736
+            }
+        }
+    },
+    {
+        "index": 60,
+        "ST": {
+            "en": "As shown in the figure below, green represents the legal market for Bitcoin, and orange represents the neutral market. Although there is no place where Bitcoin is acknowledged a legal currency, there are no major restrictions on the use it. The pale pink represents the restricted market, i.e. the local government tries to the use of the digital currency pass by drawing a red line or taking regulatory measures. The deep pink represents countries where Bitcoin is declared as illegal. The gray represents countries that have not yet been rated.",
+            "zh": "如下图所示，绿色代表比特币的合法市场；橘黄色代表中性市场，虽尚未公开合法化比特币地位，但也没有主要的使用限制；淡粉色代表受限制的市场，即当地政府尝试通过红线政策或监管来方法数字货币的使用；深粉色代表比特币被定义为非法的国家；灰色是尚未置评的国家。"
+        },
+        "TT1": {
+            "text": "As shown in the figure below, green denotes legal markets for Bitcoin; orange represents neutral markets, which have not publicly legalized Bitcoin but also do not have major usage restrictions; light pink indicates restricted markets, where local governments try to control the use of digital currency through redline policies or regulations; dark pink signifies countries where Bitcoin is defined as illegal; gray represents countries that have not yet commented.",
+            "scores": {
+                "bleu": 16.66794605906177,
+                "chrf": 59.82664292672787,
+                "comet-ref": 82.15122818946838,
+                "comet-noref": 83.71506929397583
+            }
+        },
+        "TT2": {
+            "text": "As shown in the figure below, green represents legal markets for Bitcoin; orange represents neutral markets, which have not officially legalized Bitcoin but also do not have major restrictions on its use; light pink represents restricted markets, where local governments attempt to control the use of digital currencies through red line policies or regulations; dark pink represents countries where Bitcoin is defined as illegal; and gray represents countries that have not yet commented.",
+            "scores": {
+                "bleu": 20.69842385666878,
+                "chrf": 64.8697763652666,
+                "comet-ref": 82.88547396659851,
+                "comet-noref": 84.36166048049927
+            }
+        },
+        "TT3": {
+            "text": "As shown in the figure below, green represents legal markets for Bitcoin; orange represents neutral markets, which have not yet openly legalized Bitcoin but also do not have major usage restrictions; light pink represents restricted markets, where the local government attempts to regulate the use of digital currency through red-line policies or regulations; dark pink represents countries where Bitcoin is defined as illegal; gray represents countries that have not yet commented.",
+            "scores": {
+                "bleu": 20.479362086738984,
+                "chrf": 65.37616525733867,
+                "comet-ref": 82.6505720615387,
+                "comet-noref": 83.89528393745422
+            }
+        }
+    },
+    {
+        "index": 61,
+        "ST": {
+            "en": "(The above figure was drawn by the HowMuch.Net visualization team on January 15th)",
+            "zh": "（上图来自HowMuch.Net可视化团队在1月15日制图）"
+        },
+        "TT1": {
+            "text": "(The image above was created by the visualization team at HowMuch.Net on January 15)",
+            "scores": {
+                "bleu": 8.767411578311545,
+                "chrf": 57.42465680854932,
+                "comet-ref": 90.61591029167175,
+                "comet-noref": 85.16106009483337
+            }
+        },
+        "TT2": {
+            "text": "(The above image was created by the HowMuch.Net visualization team on January 15th)",
+            "scores": {
+                "bleu": 28.175950490399515,
+                "chrf": 72.82767276417309,
+                "comet-ref": 91.57260060310364,
+                "comet-noref": 85.4761004447937
+            }
+        },
+        "TT3": {
+            "text": "(The above image was created by the HowMuch.Net visualization team on January 15)",
+            "scores": {
+                "bleu": 19.923405658137927,
+                "chrf": 71.77137058520559,
+                "comet-ref": 91.5116548538208,
+                "comet-noref": 85.60309410095215
+            }
+        }
+    },
+    {
+        "index": 62,
+        "ST": {
+            "en": "The article points out that from the distribution of non-green color patches in the graph, it can be seen that the oriental countries in the traditional sense are more conservative towards Bitcoin than the West.",
+            "zh": "文章指出，从图中非绿色的色块分布可以看出，传统意义上的东方国家对比特币的态度比西方更为保守。"
+        },
+        "TT1": {
+            "text": "The article points out that, as can be seen from the distribution of the non-green color blocks in the chart, traditional Eastern countries have a more conservative attitude towards Bitcoin compared to the West.",
+            "scores": {
+                "bleu": 24.397424247820837,
+                "chrf": 64.34307500512132,
+                "comet-ref": 88.21951746940613,
+                "comet-noref": 83.80633592605591
+            }
+        },
+        "TT2": {
+            "text": "The article points out that, judging from the distribution of non-green-colored blocks in the chart, traditionally defined Eastern countries have a more conservative attitude towards Bitcoin compared to Western countries.",
+            "scores": {
+                "bleu": 19.726044743329734,
+                "chrf": 57.852912999499885,
+                "comet-ref": 85.6659471988678,
+                "comet-noref": 83.45873951911926
+            }
+        },
+        "TT3": {
+            "text": "The article points out that the distribution of non-green color blocks in the chart shows that the attitude towards Bitcoin in traditionally Eastern countries is more conservative compared to the West.",
+            "scores": {
+                "bleu": 18.478328994266686,
+                "chrf": 63.69851609637922,
+                "comet-ref": 87.02527284622192,
+                "comet-noref": 83.31718444824219
+            }
+        }
+    },
+    {
+        "index": 63,
+        "ST": {
+            "en": "Russia is currently the largest country that defines Bitcoin as illegal. China is one of the largest restricted markets for Bitcoin. India is one of the largest countries that have not commented on Bitcoin and have not made relevant policies.",
+            "zh": "俄罗斯是目前定义比特币为非法的最大国家，中国是比特币最大的受限市场之一，印度是对比特币尚不予置评、还没有出台相关政策的最大国家之一。"
+        },
+        "TT1": {
+            "text": "Russia is currently the largest country to define Bitcoin as illegal, China is one of the largest restricted markets for Bitcoin, and India is one of the largest countries that has yet to comment on Bitcoin or introduce relevant policies.",
+            "scores": {
+                "bleu": 53.19265258801301,
+                "chrf": 82.3698686090016,
+                "comet-ref": 88.79038691520691,
+                "comet-noref": 84.64668989181519
+            }
+        },
+        "TT2": {
+            "text": "Russia is currently the largest country to define Bitcoin as illegal, China is one of the largest restricted markets for Bitcoin, and India is one of the largest countries that has not yet commented on Bitcoin or issued any related policies.",
+            "scores": {
+                "bleu": 54.295237495345205,
+                "chrf": 81.18641987125623,
+                "comet-ref": 89.2949640750885,
+                "comet-noref": 84.73000526428223
+            }
+        },
+        "TT3": {
+            "text": "Russia is currently the largest country to define Bitcoin as illegal, China is one of the largest restricted markets for Bitcoin, and India is one of the largest countries that has not yet commented on Bitcoin or issued related policies.",
+            "scores": {
+                "bleu": 54.295237495345205,
+                "chrf": 81.93473117349707,
+                "comet-ref": 89.3599808216095,
+                "comet-noref": 84.72737073898315
+            }
+        }
+    },
+    {
+        "index": 64,
+        "ST": {
+            "en": "North America and Western Europe are the regions that have highest level of tolerance to Bitcoin i.e. where green patches are concentrated.",
+            "zh": "北美和西欧是对比特币接受程度最高的地区，即绿色块的分布更为集中。"
+        },
+        "TT1": {
+            "text": "North America and Western Europe are the regions with the highest acceptance of Bitcoin, indicated by the more concentrated distribution of the green blocks.",
+            "scores": {
+                "bleu": 29.534359244592498,
+                "chrf": 56.523236491799324,
+                "comet-ref": 87.00193762779236,
+                "comet-noref": 85.55377721786499
+            }
+        },
+        "TT2": {
+            "text": "North America and Western Europe are the regions with the highest acceptance of Bitcoin, where the distribution of green blocks is more concentrated.",
+            "scores": {
+                "bleu": 30.08664238820569,
+                "chrf": 58.70880772296867,
+                "comet-ref": 87.47281432151794,
+                "comet-noref": 86.08860373497009
+            }
+        },
+        "TT3": {
+            "text": "North America and Western Europe are the regions with the highest acceptance of Bitcoin, where the distribution of green blocks is more concentrated.",
+            "scores": {
+                "bleu": 30.08664238820569,
+                "chrf": 58.70880772296867,
+                "comet-ref": 87.47281432151794,
+                "comet-noref": 86.08860373497009
+            }
+        }
+    },
+    {
+        "index": 65,
+        "ST": {
+            "en": "The views of the countries in the Middle East and Latin America on Bitcoin are clearly divided, so, the distribution of color patches in these areas is more mixed.",
+            "zh": "中东和拉丁美洲各国对比特币的看法呈现明显分化，上述地区的色块分布更为混杂。"
+        },
+        "TT1": {
+            "text": "The opinions on Bitcoin in Middle Eastern and Latin American countries show obvious divergence, and the distribution of opinions in these regions is more mixed.",
+            "scores": {
+                "bleu": 10.67325227157467,
+                "chrf": 52.699948058981505,
+                "comet-ref": 85.75283885002136,
+                "comet-noref": 82.94963836669922
+            }
+        },
+        "TT2": {
+            "text": "The views on Bitcoin in various countries in the Middle East and Latin America are distinctly polarized, and the distribution of color blocks in these regions is more mixed.",
+            "scores": {
+                "bleu": 37.90698066390677,
+                "chrf": 64.52740276014785,
+                "comet-ref": 88.98122906684875,
+                "comet-noref": 84.31107997894287
+            }
+        },
+        "TT3": {
+            "text": "The views on Bitcoin in Middle Eastern and Latin American countries show a clear division, with the distribution of colored blocks in these regions being more mixed.",
+            "scores": {
+                "bleu": 8.975099574265705,
+                "chrf": 59.32539347045326,
+                "comet-ref": 88.03998827934265,
+                "comet-noref": 84.39989686012268
+            }
+        }
+    },
+    {
+        "index": 66,
+        "ST": {
+            "en": "Among them, Iraq, Iran, Turkey and Brazil are all legitimate Bitcoin markets. Afghanistan, Pakistan, Saudi Arabia, Egypt, and Bolivia have some restrictions on the trading and use of Bitcoin. Most Latin American countries have not made any comments about Bitcoin.",
+            "zh": "其中伊拉克、伊朗、土耳其、巴西都是合法的比特币市场，阿富汗、巴基斯坦、沙特、埃及、玻利维亚等对其交易和使用有一定程度的限制，更多的拉美国家对比特币还没有发声。"
+        },
+        "TT1": {
+            "text": "Among them, Iraq, Iran, Turkey, and Brazil all have legal Bitcoin markets, while Afghanistan, Pakistan, Saudi Arabia, Egypt, Bolivia, and others have certain restrictions on its trading and usage. Moreover, more Latin American countries have yet to speak out on Bitcoin.",
+            "scores": {
+                "bleu": 11.002590761783907,
+                "chrf": 59.06558403828153,
+                "comet-ref": 88.20284008979797,
+                "comet-noref": 84.01368856430054
+            }
+        },
+        "TT2": {
+            "text": "Among them, Iraq, Iran, Turkey, and Brazil are legal markets for Bitcoin, while Afghanistan, Pakistan, Saudi Arabia, Egypt, and Bolivia have certain restrictions on its trading and use. More Latin American countries have yet to speak out about Bitcoin.",
+            "scores": {
+                "bleu": 17.23060493449378,
+                "chrf": 65.07953256141184,
+                "comet-ref": 89.36739563941956,
+                "comet-noref": 85.72198748588562
+            }
+        },
+        "TT3": {
+            "text": "Among them, Iraq, Iran, Turkey, and Brazil are all legal Bitcoin markets, while Afghanistan, Pakistan, Saudi Arabia, Egypt, and Bolivia impose certain restrictions on its trading and usage. More Latin American countries have yet to express their stance on Bitcoin.",
+            "scores": {
+                "bleu": 17.56803948875899,
+                "chrf": 62.40202014532924,
+                "comet-ref": 88.94287943840027,
+                "comet-noref": 84.75456833839417
+            }
+        }
+    },
+    {
+        "index": 67,
+        "ST": {
+            "en": "From the above data, it can be seen that of the 246 countries that have been rated, a total of 99 countries (or 40% of the total) haven't imposed any restrictions on the transactions and use of Bitcoin. They are represented by green and orange patches.",
+            "zh": "综合上述数据可知，在全球受统计的246个国家中，共有99个国家（或占比40%）对比特币的交易和使用不施加限制，即绿色和橘黄色的地区。"
+        },
+        "TT1": {
+            "text": "Based on the above data, it can be concluded that among the 246 countries globally that are statistically accounted for, a total of 99 countries (or 40%) do not impose restrictions on the trading and use of Bitcoin, which are represented by the green and orange-yellow regions.",
+            "scores": {
+                "bleu": 22.392587966372854,
+                "chrf": 55.63473463241585,
+                "comet-ref": 83.82429480552673,
+                "comet-noref": 83.90039205551147
+            }
+        },
+        "TT2": {
+            "text": "Based on the above data, it is known that among the 246 countries globally that are statistically accounted for, a total of 99 countries (or 40%) impose no restrictions on the trading and use of Bitcoin, that is, the areas marked in green and orange.",
+            "scores": {
+                "bleu": 20.368338136177954,
+                "chrf": 53.57250592756739,
+                "comet-ref": 83.12716484069824,
+                "comet-noref": 84.5870852470398
+            }
+        },
+        "TT3": {
+            "text": "Based on the above data, it is known that out of the 246 countries globally recorded, a total of 99 countries (or 40% of them) do not impose restrictions on the trading and use of Bitcoin, which are represented by the green and orange areas.",
+            "scores": {
+                "bleu": 24.642634998184608,
+                "chrf": 61.331195224948885,
+                "comet-ref": 84.03077721595764,
+                "comet-noref": 83.73054265975952
+            }
+        }
+    },
+    {
+        "index": 68,
+        "ST": {
+            "en": "Seven countries (or 3%) are restricted markets (pale pink), 10 countries (or 4%) have defined Bitcoin as illegal (dark pink), and 130 countries (or 53) %) haven't given comments on digital currency (grey).",
+            "zh": "有7个国家（或占比3%）是受限市场（淡粉色），有10个国家（或占比4%）定义比特币为非法（深粉色），有130个国家（或占比53%）还没有更多的对待数字货币信息（灰色）。"
+        },
+        "TT1": {
+            "text": "There are 7 countries (or 3%) that are restricted markets (light pink), 10 countries (or 4%) that define Bitcoin as illegal (dark pink), and 130 countries (or 53%) that do not have additional information on the treatment of digital currencies (gray).",
+            "scores": {
+                "bleu": 9.014246335618818,
+                "chrf": 49.85366106791177,
+                "comet-ref": 85.71599125862122,
+                "comet-noref": 85.22551655769348
+            }
+        },
+        "TT2": {
+            "text": "There are 7 countries (or 3%) that are restricted markets (light pink), 10 countries (or 4%) that define Bitcoin as illegal (dark pink), and 130 countries (or 53%) that do not have further information on the treatment of digital currencies (grey).",
+            "scores": {
+                "bleu": 9.10671224204613,
+                "chrf": 50.77717618447115,
+                "comet-ref": 85.86344718933105,
+                "comet-noref": 85.1127564907074
+            }
+        },
+        "TT3": {
+            "text": "There are 7 countries (or 3%) that are restricted markets (light pink), 10 countries (or 4%) that define Bitcoin as illegal (dark pink), and 130 countries (or 53%) that don't have additional information on how they treat digital currencies (gray).",
+            "scores": {
+                "bleu": 9.014246335618818,
+                "chrf": 50.05222463725894,
+                "comet-ref": 85.75820326805115,
+                "comet-noref": 84.78084206581116
+            }
+        }
+    },
+    {
+        "index": 69,
+        "ST": {
+            "en": "This shows that countries that account for the global majority (53%, more than half) are still indecisive about the legitimacy of digital currencies represented by Bitcoin. This means that the “black swan risk” is still very large for Bitcoin, because some of these countries may ultimately make legislation that restrict the use of digital currencies.",
+            "zh": "这说明，占全球主体（53%，超过半数）的国家仍在观望以比特币为首的数字货币在境内的合法性，也代表了比特币的“黑天鹅风险”依旧很大，因为其中一部分国家最终可能会作出限制数字货币的立法决定。"
+        },
+        "TT1": {
+            "text": "This indicates that the majority of countries globally (53%, more than half) are still observing the legality of digital currencies, led by Bitcoin, within their own borders. It also signifies that the \"black swan risk\" for Bitcoin remains significant, as some of these countries may ultimately decide to enact legislation restricting digital currencies.",
+            "scores": {
+                "bleu": 15.665939071664958,
+                "chrf": 58.190634638589444,
+                "comet-ref": 83.06916952133179,
+                "comet-noref": 81.72385692596436
+            }
+        },
+        "TT2": {
+            "text": "This indicates that the majority of countries globally (53%, more than half) are still observing the legality of digital currencies, led by Bitcoin, within their jurisdictions. It also signifies that the \"black swan risk\" of Bitcoin remains substantial, as some of these countries might ultimately decide to enact restrictive legislation on digital currencies.",
+            "scores": {
+                "bleu": 9.96465543999252,
+                "chrf": 55.99258421934752,
+                "comet-ref": 82.89111256599426,
+                "comet-noref": 81.77559971809387
+            }
+        },
+        "TT3": {
+            "text": "This indicates that the majority of countries around the world (53%, over half) are still observing the legality of digital currencies, led by Bitcoin, within their borders. It also represents that the \"black swan risk\" of Bitcoin remains significant, as some of these countries might eventually decide to impose regulatory restrictions on digital currencies.",
+            "scores": {
+                "bleu": 8.590148772851542,
+                "chrf": 51.225126256979514,
+                "comet-ref": 82.48483538627625,
+                "comet-noref": 82.13406801223755
+            }
+        }
+    },
+    {
+        "index": 70,
+        "ST": {
+            "en": "The article believes that global regulators have not fully understood the digital currency as a new type of currency. This may be the main reason why most countries have not chosen a stance.",
+            "zh": "文章认为，全球监管机构对数字货币这个新兴类别还没有完全理解，可能是大部分国家还没有作出表态的主要原因。"
+        },
+        "TT1": {
+            "text": "The article believes that the reason most countries have not yet made a statement may be that global regulators do not fully understand this emerging category of digital currencies.",
+            "scores": {
+                "bleu": 19.71903602140518,
+                "chrf": 63.1000804991172,
+                "comet-ref": 88.59058022499084,
+                "comet-noref": 84.19466018676758
+            }
+        },
+        "TT2": {
+            "text": "The article believes that the primary reason most countries have not yet made a statement might be that global regulators do not fully understand this emerging category of digital currencies.",
+            "scores": {
+                "bleu": 18.94855225490222,
+                "chrf": 59.06061723690097,
+                "comet-ref": 88.6928915977478,
+                "comet-noref": 84.15089249610901
+            }
+        },
+        "TT3": {
+            "text": "The article suggests that the main reason most countries have yet to take a stance might be because global regulatory bodies do not yet fully understand this emerging category of digital currency.",
+            "scores": {
+                "bleu": 10.006677800048259,
+                "chrf": 54.194167699780195,
+                "comet-ref": 88.52879405021667,
+                "comet-noref": 84.83468294143677
+            }
+        }
+    },
+    {
+        "index": 71,
+        "ST": {
+            "en": "Although Bitcoin’s popularity has grown exponentially since last year, it does not necessarily mean that all countries are interested in it. It's probably that some countries are concerned that the local currency may be undermined by digital currencies or that digital currencies are used by criminal organizations.",
+            "zh": "尽管比特币的“人气”自去年以来呈指数级增长，并不代表所有国家都感兴趣，可能有些国家担心当地法币因此受到威胁，或更担心数字货币被犯罪组织利用。"
+        },
+        "TT1": {
+            "text": "Although Bitcoin's \"popularity\" has grown exponentially since last year, it doesn't mean that all countries are interested. Some countries may be concerned that their local currencies will be threatened or more worried that digital currencies will be used by criminal organizations.",
+            "scores": {
+                "bleu": 31.12002615311145,
+                "chrf": 75.49169920398901,
+                "comet-ref": 87.18406558036804,
+                "comet-noref": 85.01092791557312
+            }
+        },
+        "TT2": {
+            "text": "Even though the \"popularity\" of Bitcoin has grown exponentially since last year, it does not mean that all countries are interested. Some countries might be worried that their local currencies could be threatened as a result, or they might be more concerned about digital currencies being used by criminal organizations.",
+            "scores": {
+                "bleu": 28.59609266500803,
+                "chrf": 66.18756453640816,
+                "comet-ref": 87.02643513679504,
+                "comet-noref": 86.81504130363464
+            }
+        },
+        "TT3": {
+            "text": "Although the \"popularity\" of Bitcoin has grown exponentially since last year, it does not mean that all countries are interested. Some countries may be worried that their local currencies could be threatened, or more concerned that digital currencies might be used by criminal organizations.",
+            "scores": {
+                "bleu": 31.24355271628218,
+                "chrf": 72.5999402484817,
+                "comet-ref": 86.95409297943115,
+                "comet-noref": 85.90465784072876
+            }
+        }
+    },
+    {
+        "index": 72,
+        "ST": {
+            "en": "Wallstreetcn has published an article summarizing the news related to regulation measures against Bitcoin across the world since last week, including: China starts to crackdown on online platforms and mobile APPs of over-the-counter exchanges; South Korea is still considering to close the digital currency exchanges; the European Union holds the view that Bitcoin has not yet been widely accepted and warns investors of the risk of “losing everything”.",
+            "zh": "华尔街见闻曾撰文详细总结了上周以来针对比特币的国际监管新闻，包括中国开始打击场外类交易所的集中服务在线平台和移动App、韩国仍在考虑关闭数字货币交易所、欧盟认为比特币还没有被广泛接受并警告投资者“赔到血本无归”的风险等。"
+        },
+        "TT1": {
+            "text": "Wall Street Journal once wrote a detailed summary of the international regulatory news regarding Bitcoin over the past week, including China starting to crack down on centralized service online platforms and mobile apps of off-exchange trading, South Korea still considering closing digital currency exchanges, and the EU believes that Bitcoin has not been widely accepted and warns investors about the risk of \"losing everything.\"",
+            "scores": {
+                "bleu": 18.766501429556754,
+                "chrf": 61.672474883105835,
+                "comet-ref": 82.54587054252625,
+                "comet-noref": 80.7774007320404
+            }
+        },
+        "TT2": {
+            "text": "Wall Street Journal once published an article that detailed a summary of international regulatory news regarding Bitcoin since last week. This included China initiating a crackdown on online platforms and mobile apps offering centralized services for over-the-counter exchanges, South Korea still considering closing digital currency exchanges, and the European Union believing that Bitcoin has not yet been widely accepted and warning investors of the risk of \"losing everything.\"",
+            "scores": {
+                "bleu": 30.265668188405197,
+                "chrf": 64.18322940129416,
+                "comet-ref": 83.62078070640564,
+                "comet-noref": 81.18122816085815
+            }
+        },
+        "TT3": {
+            "text": "Wall Street Insights had previously written an article that detailed a summary of the international regulatory news regarding Bitcoin since last week. This included China's initiation of a crackdown on the centralized service online platforms and mobile apps of over-the-counter exchanges, South Korea still considering shutting down digital currency exchanges, and the European Union's view that Bitcoin has not yet been widely accepted and a warning to investors about the risk of \"losing everything.\"",
+            "scores": {
+                "bleu": 24.826831235235797,
+                "chrf": 60.6402935702827,
+                "comet-ref": 82.78131484985352,
+                "comet-noref": 80.3855299949646
+            }
+        }
+    },
+    {
+        "index": 73,
+        "ST": {
+            "en": "Wallstreetcn Editor's selection: Reading News | 2018: Global Central Banks Are Ushering Digital Currency? One article points out that 2018 is destined to be the first year of digital currency for central banks across the world, viewing from the perspectives of supervision, acceptance/criticism and adoption.",
+            "zh": "华尔街见闻主编精选《读要闻|2018：全球央妈开启数字货币元年？》曾提到，从监管、接受/批判、采纳的任一角度来看，2018年都将成为全球央行的数字货币元年。"
+        },
+        "TT1": {
+            "text": "The chief editor of Wall Street Journal Select mentioned in the article \"Top News | 2018: The Start of the Year of Digital Currency for Global Central Banks?\" that from any perspective of regulation, acceptance/criticism, or adoption, 2018 will become the year of digital currencies for global central banks.",
+            "scores": {
+                "bleu": 6.583224027103146,
+                "chrf": 51.06878535282121,
+                "comet-ref": 78.58378291130066,
+                "comet-noref": 75.66398978233337
+            }
+        },
+        "TT2": {
+            "text": "The selection of \"Reading News | 2018: The Year Central Banks Worldwide Begin Digital Currency?\" by the chief editor of Wall Street Insights and Wisdom once mentioned that from any perspective—regulation, acceptance/criticism, or adoption—2018 would become the inaugural year of digital currency for central banks worldwide.",
+            "scores": {
+                "bleu": 15.228884803717701,
+                "chrf": 51.002108064509834,
+                "comet-ref": 77.8879463672638,
+                "comet-noref": 73.0725347995758
+            }
+        },
+        "TT3": {
+            "text": "The chief editor of Wallstreetcn selected \"Read the News | 2018: The Year of Digital Currencies by Global Central Banks?\" and mentioned that, from any perspective of regulation, acceptance/criticism, or adoption, 2018 will become the year of digital currencies for global central banks.",
+            "scores": {
+                "bleu": 6.217166186788853,
+                "chrf": 53.718587086927236,
+                "comet-ref": 77.51485705375671,
+                "comet-noref": 72.96069860458374
+            }
+        }
+    },
+    {
+        "index": 74,
+        "ST": {
+            "en": "The act of questioning the legal status of Bitcoin by big countries such as Russia is actually meant to make way for the official issuance of digital currencies.",
+            "zh": "俄罗斯等大国批评比特币合法性地位的做法，其实也是为了给官方发行数字货币让路。"
+        },
+        "TT1": {
+            "text": "The practice of major countries like Russia criticizing the legitimacy of Bitcoin is actually to pave the way for the issuance of official digital currencies.",
+            "scores": {
+                "bleu": 9.865637517691194,
+                "chrf": 55.367074660713854,
+                "comet-ref": 88.60545754432678,
+                "comet-noref": 83.88209342956543
+            }
+        },
+        "TT2": {
+            "text": "The actions of major countries like Russia in criticizing the legality of Bitcoin are actually to make way for the official issuance of digital currencies.",
+            "scores": {
+                "bleu": 36.46631235926789,
+                "chrf": 67.64492955115163,
+                "comet-ref": 88.3483350276947,
+                "comet-noref": 83.81721377372742
+            }
+        },
+        "TT3": {
+            "text": "The criticism by major countries like Russia of the legitimacy of Bitcoin is actually to pave the way for the issuance of official digital currencies.",
+            "scores": {
+                "bleu": 9.999894739612103,
+                "chrf": 55.656275987949364,
+                "comet-ref": 87.22455501556396,
+                "comet-noref": 82.90203809738159
+            }
+        }
+    },
+    {
+        "index": 75,
+        "ST": {
+            "en": "On January 8th, the Barcelona new aid Philippe Coutinho showed up for the first time in Camp Nou with his Barcelona shirt, the Xinhua News Agency reported in Madrid by reporter Xie Yuzhi.",
+            "zh": "新华社马德里1月8日电（报道员谢宇智）巴塞罗那新援库蒂尼奥8日在诺坎普首次身披巴萨球衣亮相。"
+        },
+        "TT1": {
+            "text": "Xinhua News Agency, Madrid, January 8 (Reporter Xie Yuzhi) — Barcelona's new signing Coutinho made his debut at Camp Nou, wearing the Barcelona jersey for the first time on the 8th.",
+            "scores": {
+                "bleu": 13.574363003136735,
+                "chrf": 58.230316973079624,
+                "comet-ref": 76.69581174850464,
+                "comet-noref": 78.52531671524048
+            }
+        },
+        "TT2": {
+            "text": "Madrid, January 8, Xinhua News Agency (reporter Xie Yuzhi) - Barcelona's new signing Coutinho made his debut at Camp Nou on the 8th wearing the Barca jersey for the first time.",
+            "scores": {
+                "bleu": 14.586602326828647,
+                "chrf": 58.37162656670494,
+                "comet-ref": 77.15827226638794,
+                "comet-noref": 78.48010063171387
+            }
+        },
+        "TT3": {
+            "text": "Xinhua News Agency, Madrid, January 8 (Reporter Xie Yuzhi) – Barcelona's new signing Coutinho made his first appearance in a Barcelona jersey on the 8th at Camp Nou.",
+            "scores": {
+                "bleu": 7.00291538299407,
+                "chrf": 52.52479236374329,
+                "comet-ref": 76.56612992286682,
+                "comet-noref": 79.46360111236572
+            }
+        }
+    },
+    {
+        "index": 76,
+        "ST": {
+            "en": "Coutinho passed a physical examination of Barcelona early that morning and signed with Barcelona president Bartomeu a contract that will expire in the summer of 2023.",
+            "zh": "库蒂尼奥当日上午通过了巴萨的体检，并与巴萨主席巴托梅乌在一份将于2023年夏天到期的合同上签了字。"
+        },
+        "TT1": {
+            "text": "Coutinho passed his medical examination with Barcelona that morning and signed a contract with Barcelona’s president Bartomeu, which will expire in the summer of 2023.",
+            "scores": {
+                "bleu": 38.33877722985342,
+                "chrf": 76.7295497317609,
+                "comet-ref": 87.8747820854187,
+                "comet-noref": 83.26330184936523
+            }
+        },
+        "TT2": {
+            "text": "On the morning of that day, Coutinho passed the medical examination for Barcelona and signed a contract with Barcelona's president Bartomeu, set to expire in the summer of 2023.",
+            "scores": {
+                "bleu": 24.849713474453363,
+                "chrf": 69.11495666555052,
+                "comet-ref": 85.93972325325012,
+                "comet-noref": 83.44097137451172
+            }
+        },
+        "TT3": {
+            "text": "Coutinho passed the medical examination with Barcelona in the morning and signed a contract with Barcelona's president Bartomeu that will expire in the summer of 2023.",
+            "scores": {
+                "bleu": 38.33877722985342,
+                "chrf": 76.48836575703754,
+                "comet-ref": 87.64678239822388,
+                "comet-noref": 82.86877870559692
+            }
+        }
+    },
+    {
+        "index": 77,
+        "ST": {
+            "en": "Then he appeared in the face of nearly 7,000 Camp Nou fans as a Barcelona player.",
+            "zh": "随后他作为巴萨球员，在诺坎普近7000名球迷面前亮相。"
+        },
+        "TT1": {
+            "text": "Afterwards, he made his appearance as a Barcelona player in front of nearly 7,000 fans at Camp Nou.",
+            "scores": {
+                "bleu": 19.7516957569183,
+                "chrf": 48.996431686141065,
+                "comet-ref": 86.51770949363708,
+                "comet-noref": 84.54184532165527
+            }
+        },
+        "TT2": {
+            "text": "Later, as a Barcelona player, he made his appearance in front of nearly 7,000 fans at Camp Nou.",
+            "scores": {
+                "bleu": 19.7516957569183,
+                "chrf": 51.544605398654454,
+                "comet-ref": 82.86893367767334,
+                "comet-noref": 83.73773694038391
+            }
+        },
+        "TT3": {
+            "text": "Later, as a Barcelona player, he made an appearance in front of nearly 7,000 fans at Camp Nou.",
+            "scores": {
+                "bleu": 19.7516957569183,
+                "chrf": 52.139938073675495,
+                "comet-ref": 83.15959572792053,
+                "comet-noref": 84.6085786819458
+            }
+        }
+    },
+    {
+        "index": 78,
+        "ST": {
+            "en": "According to a Spanish media, Coutinho's transfer fee may amount to 160 million euros (1 euro≈ 1.77 Chinese yuan), being the highest paid player in the history of Barcelona and La Liga.",
+            "zh": "据西班牙媒体透露，库蒂尼奥的转会费总额或达到1.6亿欧元（1欧元约合7.77元人民币），是巴萨俱乐部及西甲历史第一身价。"
+        },
+        "TT1": {
+            "text": "According to Spanish media, Coutinho's total transfer fee might reach 160 million euros (1 euro is approximately 7.77 yuan), making it the highest in the history of both FC Barcelona and La Liga.",
+            "scores": {
+                "bleu": 19.968127388777596,
+                "chrf": 58.8285357223821,
+                "comet-ref": 87.736576795578,
+                "comet-noref": 83.30389857292175
+            }
+        },
+        "TT2": {
+            "text": "According to Spanish media, Coutinho's transfer fee may total 160 million euros (1 euro is approximately 7.77 yuan), making it the highest transfer fee in the history of both FC Barcelona and La Liga.",
+            "scores": {
+                "bleu": 21.571185982210345,
+                "chrf": 59.75831973550119,
+                "comet-ref": 88.7686014175415,
+                "comet-noref": 83.70453119277954
+            }
+        },
+        "TT3": {
+            "text": "According to Spanish media, Coutinho's total transfer fee could reach 160 million euros (1 euro is approximately 7.77 yuan), making it the highest in the history of Barcelona club and La Liga.",
+            "scores": {
+                "bleu": 19.968127388777596,
+                "chrf": 59.11328258316156,
+                "comet-ref": 87.71852254867554,
+                "comet-noref": 82.82573819160461
+            }
+        }
+    },
+    {
+        "index": 79,
+        "ST": {
+            "en": "As Coutinho is still injured at the moment, he still need recuperate for nearly 20 days before ushering in his debut in the Barcelona shirt.",
+            "zh": "由于眼下库蒂尼奥仍有伤在身，他还需休整近20日才能迎来自己身披巴萨球衣的处子秀。"
+        },
+        "TT1": {
+            "text": "Due to Coutinho currently being injured, he will need nearly 20 days of rest before making his debut in a Barcelona jersey.",
+            "scores": {
+                "bleu": 10.332090908268508,
+                "chrf": 49.795602394882614,
+                "comet-ref": 84.71972346305847,
+                "comet-noref": 83.0082654953003
+            }
+        },
+        "TT2": {
+            "text": "Since Coutinho is currently still injured, he will need nearly 20 more days of rest before making his debut in a Barcelona jersey.",
+            "scores": {
+                "bleu": 9.547615491387056,
+                "chrf": 51.47203958111034,
+                "comet-ref": 86.34797930717468,
+                "comet-noref": 83.85671377182007
+            }
+        },
+        "TT3": {
+            "text": "Since Coutinho is still injured, he will need nearly 20 more days of recovery before he can make his debut in a Barcelona jersey.",
+            "scores": {
+                "bleu": 15.639686545296048,
+                "chrf": 52.6435971846538,
+                "comet-ref": 86.45544052124023,
+                "comet-noref": 83.72831344604492
+            }
+        }
+    },
+    {
+        "index": 80,
+        "ST": {
+            "en": "Is nothing sacred?",
+            "zh": "还有什么神圣的东西？"
+        },
+        "TT1": {
+            "text": "What else is sacred?",
+            "scores": {
+                "bleu": 15.97357760615681,
+                "chrf": 28.873210123210125,
+                "comet-ref": 87.47264742851257,
+                "comet-noref": 86.62816286087036
+            }
+        },
+        "TT2": {
+            "text": "What else is sacred?",
+            "scores": {
+                "bleu": 15.97357760615681,
+                "chrf": 28.873210123210125,
+                "comet-ref": 87.47264742851257,
+                "comet-noref": 86.62816286087036
+            }
+        },
+        "TT3": {
+            "text": "What else is sacred?",
+            "scores": {
+                "bleu": 15.97357760615681,
+                "chrf": 28.873210123210125,
+                "comet-ref": 87.47264742851257,
+                "comet-noref": 86.62816286087036
+            }
+        }
+    },
+    {
+        "index": 81,
+        "ST": {
+            "en": "Now Trump's White House is targeting the Statue of Liberty",
+            "zh": "现在特朗普的白宫正在瞄准自由女神像"
+        },
+        "TT1": {
+            "text": "The Trump White House is now targeting the Statue of Liberty.",
+            "scores": {
+                "bleu": 47.53852732567741,
+                "chrf": 77.88674443898898,
+                "comet-ref": 94.75831389427185,
+                "comet-noref": 84.49404239654541
+            }
+        },
+        "TT2": {
+            "text": "The Trump White House is now targeting the Statue of Liberty.",
+            "scores": {
+                "bleu": 47.53852732567741,
+                "chrf": 77.88674443898898,
+                "comet-ref": 94.75831389427185,
+                "comet-noref": 84.49404239654541
+            }
+        },
+        "TT3": {
+            "text": "The Trump White House is now targeting the Statue of Liberty.",
+            "scores": {
+                "bleu": 47.53852732567741,
+                "chrf": 77.88674443898898,
+                "comet-ref": 94.75831389427185,
+                "comet-noref": 84.49404239654541
+            }
+        }
+    },
+    {
+        "index": 82,
+        "ST": {
+            "en": "The surest mark of regime change is when they start attacking the statues.",
+            "zh": "政权更迭最确定的标志是他们开始攻击雕像之时。"
+        },
+        "TT1": {
+            "text": "The most certain sign of a regime change is when they start attacking statues.",
+            "scores": {
+                "bleu": 47.27526606311562,
+                "chrf": 67.09379913185325,
+                "comet-ref": 94.48491930961609,
+                "comet-noref": 85.79453229904175
+            }
+        },
+        "TT2": {
+            "text": "The most definite sign of a regime change is when they start attacking statues.",
+            "scores": {
+                "bleu": 47.27526606311562,
+                "chrf": 66.49247662894588,
+                "comet-ref": 94.39536929130554,
+                "comet-noref": 85.98122596740723
+            }
+        },
+        "TT3": {
+            "text": "The most certain sign of a regime change is when they begin attacking statues.",
+            "scores": {
+                "bleu": 30.79300751569293,
+                "chrf": 56.05815482577295,
+                "comet-ref": 94.11044120788574,
+                "comet-noref": 85.61170101165771
+            }
+        }
+    },
+    {
+        "index": 83,
+        "ST": {
+            "en": "Americans appreciate this as well as anyone - hence the carefully stage-manged toppling of Saddam Hussein in Firdos square in Baghdad in 2003.",
+            "zh": "美国人和任何人一样都赞同这一点。 因此，2003 年巴格达天堂广场的萨达姆?侯赛因被精心策划地推倒了。"
+        },
+        "TT1": {
+            "text": "Americans, like everyone else, agree on this point. Therefore, in 2003, Saddam Hussein was deliberately toppled in Baghdad's Paradise Square.",
+            "scores": {
+                "bleu": 5.118164602105637,
+                "chrf": 40.4847798257028,
+                "comet-ref": 84.20108556747437,
+                "comet-noref": 84.42615270614624
+            }
+        },
+        "TT2": {
+            "text": "Americans, like everyone else, agree with this point. Therefore, in 2003, Saddam Hussein was meticulously toppled in Baghdad's Paradise Square.",
+            "scores": {
+                "bleu": 5.118164602105637,
+                "chrf": 40.492145174534315,
+                "comet-ref": 83.88654589653015,
+                "comet-noref": 83.67670774459839
+            }
+        },
+        "TT3": {
+            "text": "Americans, like anyone else, agree with this point. Therefore, in 2003, Saddam Hussein was meticulously brought down in Baghdad's Paradise Square.",
+            "scores": {
+                "bleu": 5.291907393644996,
+                "chrf": 40.08869828300184,
+                "comet-ref": 82.3687195777893,
+                "comet-noref": 83.4657371044159
+            }
+        }
+    },
+    {
+        "index": 84,
+        "ST": {
+            "en": "Stephen Miller, one of the key ideologues of the Trump regime, surely knew what he was doing when he took a symbolic axe to the Statue of Liberty in a heated argument with CNN's Jim Acosta over the president's proposals to drastically limit legal immigration.",
+            "zh": "斯蒂芬?米勒 (Stephen Miller) 作为特朗普政府的关键智囊之一，在与美国有线电视新闻网 (CNN) 的吉姆?阿科斯塔 (Jim Acosta) 就总统关于严格限制合法移民的提议进行激烈争论时,他肯定知道自己对自由女神像砍出象征性的一斧会发生什么事情。"
+        },
+        "TT1": {
+            "text": "As one of the key strategists in the Trump administration, Stephen Miller was certainly aware of the consequences when he and CNN’s Jim Acosta engaged in a heated debate over the president’s proposal to strictly limit legal immigration, making a symbolic strike at the Statue of Liberty.",
+            "scores": {
+                "bleu": 18.865993528939747,
+                "chrf": 53.00926466375919,
+                "comet-ref": 77.24814414978027,
+                "comet-noref": 76.14089250564575
+            }
+        },
+        "TT2": {
+            "text": "Stephen Miller, as one of the key advisors in the Trump administration, certainly knew what would happen when he took a symbolic axe to the Statue of Liberty during a heated debate with CNN's Jim Acosta about the President's proposal to strictly limit legal immigration.",
+            "scores": {
+                "bleu": 34.879766761619074,
+                "chrf": 61.16164136142701,
+                "comet-ref": 84.35695767402649,
+                "comet-noref": 81.21135830879211
+            }
+        },
+        "TT3": {
+            "text": "As one of the key strategists in the Trump administration, Stephen Miller certainly knew what would happen when he symbolically took an axe to the Statue of Liberty during a heated debate with CNN's Jim Acosta over the President's proposal to severely restrict legal immigration.",
+            "scores": {
+                "bleu": 25.708703861712245,
+                "chrf": 57.791161045150574,
+                "comet-ref": 84.28191542625427,
+                "comet-noref": 82.12409019470215
+            }
+        }
+    },
+    {
+        "index": 85,
+        "ST": {
+            "en": "In fairness, Miller did not attack the statue itself.",
+            "zh": "公平地说，米勒并没有攻击雕像本身。"
+        },
+        "TT1": {
+            "text": "To be fair, Miller did not attack the statue itself.",
+            "scores": {
+                "bleu": 57.067457770559976,
+                "chrf": 82.05214779426365,
+                "comet-ref": 94.718337059021,
+                "comet-noref": 86.14404201507568
+            }
+        },
+        "TT2": {
+            "text": "To be fair, Miller did not attack the statue itself.",
+            "scores": {
+                "bleu": 57.067457770559976,
+                "chrf": 82.05214779426365,
+                "comet-ref": 94.718337059021,
+                "comet-noref": 86.14404201507568
+            }
+        },
+        "TT3": {
+            "text": "To be fair, Miller did not attack the statue itself.",
+            "scores": {
+                "bleu": 57.067457770559976,
+                "chrf": 82.05214779426365,
+                "comet-ref": 94.718337059021,
+                "comet-noref": 86.14404201507568
+            }
+        }
+    },
+    {
+        "index": 86,
+        "ST": {
+            "en": "A horde of boat-trip owners and Liberty impersonators would have lynched him if he did.",
+            "zh": "如果他这样做了，那么一群游船业主和自由主义的追随者一定会将他生吞活剥。"
+        },
+        "TT1": {
+            "text": "If he did this, then a group of boat owners and liberal followers would certainly tear him apart.",
+            "scores": {
+                "bleu": 7.0210496550195325,
+                "chrf": 35.51284561495238,
+                "comet-ref": 72.43124842643738,
+                "comet-noref": 80.11046648025513
+            }
+        },
+        "TT2": {
+            "text": "If he does this, then a group of boat owners and liberal followers will definitely tear him apart.",
+            "scores": {
+                "bleu": 5.427658774617041,
+                "chrf": 30.020233524548118,
+                "comet-ref": 70.00380158424377,
+                "comet-noref": 79.44959998130798
+            }
+        },
+        "TT3": {
+            "text": "If he does that, a bunch of yacht owners and liberal followers will surely eat him alive.",
+            "scores": {
+                "bleu": 5.777712690476738,
+                "chrf": 27.972935424668872,
+                "comet-ref": 69.7111189365387,
+                "comet-noref": 81.56919479370117
+            }
+        }
+    },
+    {
+        "index": 87,
+        "ST": {
+            "en": "But he did attack its meaning, and in particular the meaning ascribed to it when Emma Lazarus's famous poem was added to its base in 1903, 17 years after the monument itself was completed.",
+            "zh": "但是他确实攻击了塑像的意义，尤其是在 1903 年埃玛?拉撒路的着名诗歌被刻在基座上时（这座纪念碑在此后17年方建成）而具有的意义。"
+        },
+        "TT1": {
+            "text": "However, he did attack the significance of the statue, especially when Emma Lazarus's famous poem was inscribed on the pedestal in 1903 (the monument was completed 17 years later).",
+            "scores": {
+                "bleu": 9.91197187680042,
+                "chrf": 50.37360587267933,
+                "comet-ref": 83.09540152549744,
+                "comet-noref": 83.14919471740723
+            }
+        },
+        "TT2": {
+            "text": "However, he did attack the significance of the statue, especially when Emma Lazarus's famous poem was inscribed on the pedestal in 1903 (the monument was built 17 years later).",
+            "scores": {
+                "bleu": 9.479593093001112,
+                "chrf": 46.79480490101625,
+                "comet-ref": 82.65002965927124,
+                "comet-noref": 82.83182382583618
+            }
+        },
+        "TT3": {
+            "text": "However, he did indeed attack the significance of the statue, especially in 1903 when Emma Lazarus's famous poem was engraved on the pedestal (the monument was built 17 years later) and took on its meaning.",
+            "scores": {
+                "bleu": 8.321288925445822,
+                "chrf": 44.31515302993315,
+                "comet-ref": 81.24046921730042,
+                "comet-noref": 80.1434338092804
+            }
+        }
+    },
+    {
+        "index": 88,
+        "ST": {
+            "en": "As Miller scolded Acosta: \"I don't want to get off into a whole thing about history here, but the Statue of Liberty is ... a symbol of American liberty lighting the world.",
+            "zh": "正如米勒斥责阿科斯塔所说：“我不想在这里谈论历史的全部事实，但自由女神像是美国自由照亮世界的象征......。"
+        },
+        "TT1": {
+            "text": "As Miller rebuked Acosta, he said: \"I don't want to get into all the historical facts here, but the Statue of Liberty is a symbol of American liberty illuminating the world...\"",
+            "scores": {
+                "bleu": 28.34768117735043,
+                "chrf": 61.0003438620022,
+                "comet-ref": 83.56010317802429,
+                "comet-noref": 80.86010217666626
+            }
+        },
+        "TT2": {
+            "text": "As Miller rebuked Acosta, \"I don't want to get into the whole history here, but the Statue of Liberty is a symbol of America lighting the world with freedom...\"",
+            "scores": {
+                "bleu": 24.39965323914169,
+                "chrf": 65.95661687220104,
+                "comet-ref": 84.61351990699768,
+                "comet-noref": 80.62376379966736
+            }
+        },
+        "TT3": {
+            "text": "As Miller rebuked Acosta, \"I don't want to get into a whole history debate here, but the Statue of Liberty is a symbol of American liberty lighting the world...\"",
+            "scores": {
+                "bleu": 39.34000485198066,
+                "chrf": 73.80846143047387,
+                "comet-ref": 84.57831740379333,
+                "comet-noref": 78.74507904052734
+            }
+        }
+    },
+    {
+        "index": 89,
+        "ST": {
+            "en": "The poem that you're referring to, that was added later and is not part of the original Statue of Liberty.\"",
+            "zh": "你所指的那首诗，那是后来又加上去的，不是原始自由女神像的一部分。”"
+        },
+        "TT1": {
+            "text": "\"The poem you referred to was added later, it was not part of the original Statue of Liberty.\"",
+            "scores": {
+                "bleu": 38.9671881244909,
+                "chrf": 74.77568586198853,
+                "comet-ref": 91.62267446517944,
+                "comet-noref": 84.48436260223389
+            }
+        },
+        "TT2": {
+            "text": "\"The poem you are referring to was added later, it is not part of the original Statue of Liberty.\"",
+            "scores": {
+                "bleu": 45.633698079947855,
+                "chrf": 80.60063361119477,
+                "comet-ref": 92.04630255699158,
+                "comet-noref": 84.84543561935425
+            }
+        },
+        "TT3": {
+            "text": "\"The poem you are referring to was added later and is not part of the original Statue of Liberty.\"",
+            "scores": {
+                "bleu": 59.24373883217674,
+                "chrf": 86.77519311525687,
+                "comet-ref": 92.12424159049988,
+                "comet-noref": 85.71665287017822
+            }
+        }
+    },
+    {
+        "index": 90,
+        "ST": {
+            "en": "Miller is factually correct, but as he put it himself, this is not really about history.",
+            "zh": "事实上，米勒是正确的，但是正如他自己所说的，这不是真正关于历史。"
+        },
+        "TT1": {
+            "text": "In fact, Miller is correct, but as he himself said, this is not really about history.",
+            "scores": {
+                "bleu": 35.98590234416894,
+                "chrf": 69.73127128959055,
+                "comet-ref": 91.67175889015198,
+                "comet-noref": 86.39581203460693
+            }
+        },
+        "TT2": {
+            "text": "In fact, Miller is correct, but as he himself said, this is not really about history.",
+            "scores": {
+                "bleu": 35.98590234416894,
+                "chrf": 69.73127128959055,
+                "comet-ref": 91.67175889015198,
+                "comet-noref": 86.39581203460693
+            }
+        },
+        "TT3": {
+            "text": "In fact, Miller is correct, but as he himself said, this is not really about history.",
+            "scores": {
+                "bleu": 35.98590234416894,
+                "chrf": 69.73127128959055,
+                "comet-ref": 91.67176485061646,
+                "comet-noref": 86.39581203460693
+            }
+        }
+    },
+    {
+        "index": 91,
+        "ST": {
+            "en": "It is about the contemporary resonance of Lazarus's startling words, the only ones in which a state has appeared to invite not just any old immigrants, but the poorest of the poor: \"Your tired, your poor, / Your huddled masses yearning to breathe free, / The wretched refuse of your teeming shore.\"",
+            "zh": "这涉及到拉撒路惊世之语的现代回音，唯一一个国家似乎不仅邀请任何老移民，而且还邀请穷人中最贫穷的人：“你的疲惫、你的穷困、或者你的挤作一团的民众渴望自由呼吸，/苦难的人拒绝你拥挤的海滩。”"
+        },
+        "TT1": {
+            "text": "This pertains to the modern echoes of Lazarus' world-shaking words, the only country that seems to not only invite any old immigrants but also the poorest of the poor: \"Your tired, your poor, or your huddled masses yearning to breathe free, / The wretched refuse of your teeming shore.\"",
+            "scores": {
+                "bleu": 28.231465365661922,
+                "chrf": 63.63094033358958,
+                "comet-ref": 78.00320982933044,
+                "comet-noref": 70.08528709411621
+            }
+        },
+        "TT2": {
+            "text": "This involves the modern echo of Lazarus's astounding words, the only country that seems to not only invite any old immigrants but also the poorest of the poor: \"Your tired, your poor, your huddled masses yearning to breathe free, / The wretched refuse of your teeming shore.\"",
+            "scores": {
+                "bleu": 28.231465365661922,
+                "chrf": 64.78330173481234,
+                "comet-ref": 78.54743599891663,
+                "comet-noref": 69.39339637756348
+            }
+        },
+        "TT3": {
+            "text": "This involves the modern echo of the astonishing words of Lazarus, the only nation that seems to not only invite any old immigrant but also invite the poorest of the poor: \"Your tired, your poor, or your huddled masses yearning to breathe free, / The wretched refuse of your teeming shore.\"",
+            "scores": {
+                "bleu": 27.116432453396207,
+                "chrf": 62.7558367849627,
+                "comet-ref": 76.40325427055359,
+                "comet-noref": 71.90526723861694
+            }
+        }
+    },
+    {
+        "index": 92,
+        "ST": {
+            "en": "There has never been a time when the \"wretched refuse\" has been more visible on our screens.",
+            "zh": "不存在“苦难的人拒绝”在我们的屏幕变得更刺眼的一刻。"
+        },
+        "TT1": {
+            "text": "There is no \"rejection by the suffering person\" at the moment our screens become more glaring.",
+            "scores": {
+                "bleu": 4.814971807094068,
+                "chrf": 28.73934647555138,
+                "comet-ref": 54.778265953063965,
+                "comet-noref": 77.61342525482178
+            }
+        },
+        "TT2": {
+            "text": "\"There is no 'refusal of suffering people' at the moment when our screens become more glaring.\"",
+            "scores": {
+                "bleu": 5.039518688486958,
+                "chrf": 32.93759591622296,
+                "comet-ref": 59.419602155685425,
+                "comet-noref": 74.33823347091675
+            }
+        },
+        "TT3": {
+            "text": "\"There is no such thing as 'the suffering people refuse' at the moment our screens become more glaring.\"",
+            "scores": {
+                "bleu": 5.039518688486958,
+                "chrf": 30.806449568170475,
+                "comet-ref": 55.64911961555481,
+                "comet-noref": 73.13016653060913
+            }
+        }
+    },
+    {
+        "index": 93,
+        "ST": {
+            "en": "Miller was not engaging in literary criticism - he was making it clear that these people are not welcome in Trump's USA.",
+            "zh": "米勒并没有从事过文学评论工作，他清楚地表明，这些人在特朗普时代的美国不会受到欢迎。"
+        },
+        "TT1": {
+            "text": "Miller has not engaged in literary criticism, and he made it clear that these people would not be welcomed in Trump-era America.",
+            "scores": {
+                "bleu": 23.278028502053264,
+                "chrf": 59.3017585935493,
+                "comet-ref": 86.77745461463928,
+                "comet-noref": 85.89656352996826
+            }
+        },
+        "TT2": {
+            "text": "Miller has never engaged in literary criticism, and he made it clear that these people would not be welcome in Trump's America.",
+            "scores": {
+                "bleu": 24.192619393259786,
+                "chrf": 58.77439168544447,
+                "comet-ref": 87.48371005058289,
+                "comet-noref": 86.34132146835327
+            }
+        },
+        "TT3": {
+            "text": "Miller has never engaged in literary criticism; he clearly indicated that these people would not be welcomed in Trump's America.",
+            "scores": {
+                "bleu": 11.71291646655074,
+                "chrf": 50.80101806862538,
+                "comet-ref": 87.68633604049683,
+                "comet-noref": 85.76803803443909
+            }
+        }
+    },
+    {
+        "index": 94,
+        "ST": {
+            "en": "This conflict about the meaning of a statue is part of a wider political and cultural war: it is really a conflict about the meaning of America.",
+            "zh": "这种关于雕像意义的冲突是更广泛的政治和文化战争的一部分：这实际上是与美国精神相冲突。"
+        },
+        "TT1": {
+            "text": "This kind of conflict over the meaning of statues is part of a broader political and cultural war: it is essentially at odds with the American spirit.",
+            "scores": {
+                "bleu": 22.761431518822885,
+                "chrf": 53.66784710793888,
+                "comet-ref": 89.42702412605286,
+                "comet-noref": 86.00963354110718
+            }
+        },
+        "TT2": {
+            "text": "This kind of conflict over the meaning of statues is part of a broader political and cultural war: it is essentially in conflict with the American spirit.",
+            "scores": {
+                "bleu": 23.089018317918473,
+                "chrf": 55.54142605593799,
+                "comet-ref": 89.89823460578918,
+                "comet-noref": 85.98453998565674
+            }
+        },
+        "TT3": {
+            "text": "This kind of conflict over the meaning of statues is part of a broader political and cultural war: it is actually in conflict with the American spirit.",
+            "scores": {
+                "bleu": 23.089018317918473,
+                "chrf": 56.92653105228602,
+                "comet-ref": 89.41863775253296,
+                "comet-noref": 85.98203659057617
+            }
+        }
+    },
+    {
+        "index": 95,
+        "ST": {
+            "en": "Lazarus - and her friends who campaigned to place her words at the base after her death - knew very well that they were engaging in a highly political act.",
+            "zh": "拉扎鲁斯 (Lazarus) ，以及她的、在她去世后举行活动将她的诗句铭刻在基座上的朋友们，很清楚他们正在参与的行为具有高度政治性。"
+        },
+        "TT1": {
+            "text": "Lazarus, along with her friends, who engraved her verses on the pedestal after her death, were well aware that their actions were highly political.",
+            "scores": {
+                "bleu": 9.812163258584556,
+                "chrf": 48.28662977379462,
+                "comet-ref": 81.04611039161682,
+                "comet-noref": 78.95271182060242
+            }
+        },
+        "TT2": {
+            "text": "Lazarus and her friends, who held events to inscribe her verses on the pedestal after her death, were well aware that their actions were highly political.",
+            "scores": {
+                "bleu": 13.974567555957229,
+                "chrf": 48.31785358379108,
+                "comet-ref": 80.01554608345032,
+                "comet-noref": 83.26889276504517
+            }
+        },
+        "TT3": {
+            "text": "Lazarus, and her friends who held events to inscribe her verses on the pedestal after her death, were well aware that their actions were highly political.",
+            "scores": {
+                "bleu": 13.974567555957229,
+                "chrf": 48.31785358379108,
+                "comet-ref": 80.7992160320282,
+                "comet-noref": 83.17326307296753
+            }
+        }
+    },
+    {
+        "index": 96,
+        "ST": {
+            "en": "The sculpture was intended to mark the connections between French and American republicanism by representing in a well-worn classical trope, the female embodiment of Liberty.",
+            "zh": "该雕塑的目的是通过作为自由女神的女性化身的、古老的经典比喻来表达法国和美国共和主义之间的联系。"
+        },
+        "TT1": {
+            "text": "The purpose of the sculpture is to express the connection between French and American republicanism through the ancient classical metaphor of a female figure embodying the Statue of Liberty.",
+            "scores": {
+                "bleu": 16.788468346795913,
+                "chrf": 54.106532235285385,
+                "comet-ref": 87.3458206653595,
+                "comet-noref": 84.35676693916321
+            }
+        },
+        "TT2": {
+            "text": "The purpose of the sculpture is to express the connection between French and American republicanism through the ancient classical metaphor of a woman embodying the Statue of Liberty.",
+            "scores": {
+                "bleu": 17.124001261648747,
+                "chrf": 53.90166425514615,
+                "comet-ref": 87.16244697570801,
+                "comet-noref": 84.37018394470215
+            }
+        },
+        "TT3": {
+            "text": "The purpose of the sculpture is to express the connection between French and American republicanism through the ancient classical metaphor of a woman personifying the Statue of Liberty.",
+            "scores": {
+                "bleu": 17.124001261648747,
+                "chrf": 52.08204466729257,
+                "comet-ref": 87.10154294967651,
+                "comet-noref": 84.35637354850769
+            }
+        }
+    },
+    {
+        "index": 97,
+        "ST": {
+            "en": "Lazarus changed that meaning: in her poem the female figure is no longer abstract - she has a voice.",
+            "zh": "拉撒路改变了这个意思：在她的诗中，女性形象不再抽象,她要发声。"
+        },
+        "TT1": {
+            "text": "Lazarus changed this meaning: in her poems, the female image is no longer abstract, she wants to speak out.",
+            "scores": {
+                "bleu": 17.79392574533939,
+                "chrf": 61.17178183521358,
+                "comet-ref": 91.32854342460632,
+                "comet-noref": 84.63162183761597
+            }
+        },
+        "TT2": {
+            "text": "Lazarus changed this meaning: In her poems, the female image is no longer abstract, she wants to have a voice.",
+            "scores": {
+                "bleu": 18.153580712996767,
+                "chrf": 62.57257618070964,
+                "comet-ref": 91.17173552513123,
+                "comet-noref": 84.59984064102173
+            }
+        },
+        "TT3": {
+            "text": "Lazarus changed the meaning: in her poetry, the image of women is no longer abstract; she seeks to voice her thoughts.",
+            "scores": {
+                "bleu": 17.001078098404236,
+                "chrf": 51.89295210816752,
+                "comet-ref": 86.76774501800537,
+                "comet-noref": 82.78571963310242
+            }
+        }
+    },
+    {
+        "index": 98,
+        "ST": {
+            "en": "And she gives herself a very different name: Mother of Exiles.",
+            "zh": "她给自己起了一个非常不同的名字：流放之母。"
+        },
+        "TT1": {
+            "text": "She gave herself a very different name: Mother of Exile.",
+            "scores": {
+                "bleu": 33.260249505555045,
+                "chrf": 78.25454549998922,
+                "comet-ref": 93.45573782920837,
+                "comet-noref": 83.70572328567505
+            }
+        },
+        "TT2": {
+            "text": "She gave herself a very unique name: Mother of Exile.",
+            "scores": {
+                "bleu": 15.133218633429316,
+                "chrf": 56.79130042334863,
+                "comet-ref": 91.48039221763611,
+                "comet-noref": 82.47592449188232
+            }
+        },
+        "TT3": {
+            "text": "She gave herself a very different name: Mother of Exile.",
+            "scores": {
+                "bleu": 33.260249505555045,
+                "chrf": 78.25454549998922,
+                "comet-ref": 93.45573782920837,
+                "comet-noref": 83.70572328567505
+            }
+        }
+    },
+    {
+        "index": 99,
+        "ST": {
+            "en": "The marrying of the poem to the image is a brilliant feminist coup and a devastating attack on American nativism.",
+            "zh": "这首诗与这幅画的结合是一场成功的女权主义政变,并且是对美国本土主义的毁灭性打击。"
+        },
+        "TT1": {
+            "text": "The combination of this poem and this painting is a successful feminist coup and a devastating blow to American nativism.",
+            "scores": {
+                "bleu": 23.891455818410623,
+                "chrf": 50.36671960681732,
+                "comet-ref": 88.90920281410217,
+                "comet-noref": 84.73637104034424
+            }
+        },
+        "TT2": {
+            "text": "The combination of this poem and this painting is a successful feminist coup and a devastating blow to American nativism.",
+            "scores": {
+                "bleu": 23.891455818410623,
+                "chrf": 50.36671960681732,
+                "comet-ref": 88.90920281410217,
+                "comet-noref": 84.73637104034424
+            }
+        },
+        "TT3": {
+            "text": "The combination of this poem and this painting is a successful feminist coup and a devastating blow to American nativism.",
+            "scores": {
+                "bleu": 23.891455818410623,
+                "chrf": 50.36671960681732,
+                "comet-ref": 88.90920281410217,
+                "comet-noref": 84.73637104034424
+            }
+        }
+    },
+    {
+        "index": 100,
+        "ST": {
+            "en": "And just as Lazarus changed the meaning of the statue, rightwingers have long wanted to change it back.",
+            "zh": "就像拉撒路改变雕像的意义一样，右翼者一直想要把它改回原意。"
+        },
+        "TT1": {
+            "text": "Just as Lazarus changed the meaning of the statue, the right-wingers have always wanted to revert it to its original meaning.",
+            "scores": {
+                "bleu": 39.64932509748046,
+                "chrf": 61.29920536201677,
+                "comet-ref": 88.36711049079895,
+                "comet-noref": 84.74230766296387
+            }
+        },
+        "TT2": {
+            "text": "Just as Lazarus changed the meaning of the statue, the right-wingers have been trying to revert it to its original intent.",
+            "scores": {
+                "bleu": 37.73611111835998,
+                "chrf": 58.427048168656306,
+                "comet-ref": 86.81281208992004,
+                "comet-noref": 84.53545570373535
+            }
+        },
+        "TT3": {
+            "text": "Just as Lazarus changed the meaning of the statue, the right-wingers have always wanted to restore it to its original meaning.",
+            "scores": {
+                "bleu": 39.64932509748046,
+                "chrf": 61.134962605208464,
+                "comet-ref": 88.04345726966858,
+                "comet-noref": 85.04627346992493
+            }
+        }
+    }
+]

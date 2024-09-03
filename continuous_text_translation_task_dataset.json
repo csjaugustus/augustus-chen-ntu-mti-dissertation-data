@@ -1,0 +1,6910 @@
+[
+    {
+        "index": 1,
+        "ST": "Ooh, fuck. Yeah, it doesn't matter.",
+        "TT1": {
+            "text": "哦，操。无所谓了。",
+            "scores": {
+                "comet": 83.55995416641235
+            }
+        },
+        "TT2": {
+            "text": "哦，操。是啊，没关系。",
+            "scores": {
+                "comet": 85.60425043106079
+            }
+        },
+        "TT3": {
+            "text": "哦，见鬼。是的，没关系。",
+            "scores": {
+                "comet": 85.0568413734436
+            }
+        }
+    },
+    {
+        "index": 2,
+        "ST": "Whoa. You okay there, Richard?",
+        "TT1": {
+            "text": "哇哦，Richard，你还好吗？",
+            "scores": {
+                "comet": 85.09594202041626
+            }
+        },
+        "TT2": {
+            "text": "哇哦，理查德，你还好吗？",
+            "scores": {
+                "comet": 85.80445051193237
+            }
+        },
+        "TT3": {
+            "text": "哇哦。你没事吧，Richard？",
+            "scores": {
+                "comet": 86.48791313171387
+            }
+        }
+    },
+    {
+        "index": 3,
+        "ST": "Uh... Yeah, I'm fine.",
+        "TT1": {
+            "text": "呃... 是的，我没事。",
+            "scores": {
+                "comet": 87.65450716018677
+            }
+        },
+        "TT2": {
+            "text": "呃...是的，我很好。",
+            "scores": {
+                "comet": 86.632639169693
+            }
+        },
+        "TT3": {
+            "text": "呃……是的，我很好。",
+            "scores": {
+                "comet": 86.57320737838745
+            }
+        }
+    },
+    {
+        "index": 4,
+        "ST": "Sorry, I can't really throw it any slower.",
+        "TT1": {
+            "text": "抱歉，我实在扔不慢一点。",
+            "scores": {
+                "comet": 59.88558530807495
+            }
+        },
+        "TT2": {
+            "text": "抱歉，我真的不能扔得更慢了。",
+            "scores": {
+                "comet": 75.27701258659363
+            }
+        },
+        "TT3": {
+            "text": "抱歉，我真的不能扔得更慢了。",
+            "scores": {
+                "comet": 75.27701258659363
+            }
+        }
+    },
+    {
+        "index": 5,
+        "ST": "Give it another cut, Richard.",
+        "TT1": {
+            "text": "再来一刀，Richard。",
+            "scores": {
+                "comet": 65.679931640625
+            }
+        },
+        "TT2": {
+            "text": "再来一刀吧，理查德。",
+            "scores": {
+                "comet": 70.46409845352173
+            }
+        },
+        "TT3": {
+            "text": "再剪一次吧，Richard。",
+            "scores": {
+                "comet": 76.51019096374512
+            }
+        }
+    },
+    {
+        "index": 6,
+        "ST": "No, I'm fine. I don't want to.",
+        "TT1": {
+            "text": "不，我没事。我不想再来了。",
+            "scores": {
+                "comet": 82.72591829299927
+            }
+        },
+        "TT2": {
+            "text": "不，我没事。我不想。",
+            "scores": {
+                "comet": 87.07375526428223
+            }
+        },
+        "TT3": {
+            "text": "不，我没事。我不想再剪了。",
+            "scores": {
+                "comet": 80.69595098495483
+            }
+        }
+    },
+    {
+        "index": 7,
+        "ST": "Maybe someone else wants to. Who's next?",
+        "TT1": {
+            "text": "也许其他人想来。下一个是谁？",
+            "scores": {
+                "comet": 79.14904356002808
+            }
+        },
+        "TT2": {
+            "text": "也许其他人想来。下一个是谁？",
+            "scores": {
+                "comet": 79.14904356002808
+            }
+        },
+        "TT3": {
+            "text": "也许有人想剪。下一个是谁？",
+            "scores": {
+                "comet": 65.1599645614624
+            }
+        }
+    },
+    {
+        "index": 8,
+        "ST": "If someone has to go, I'll go,but it seems very frightening.",
+        "TT1": {
+            "text": "如果有人必须要来，我就来，但这看起来很吓人。",
+            "scores": {
+                "comet": 81.2821626663208
+            }
+        },
+        "TT2": {
+            "text": "如果一定要有人来，那我来吧，但这看起来真的很吓人。",
+            "scores": {
+                "comet": 81.79839849472046
+            }
+        },
+        "TT3": {
+            "text": "如果非要有人来，那我就来，不过这看起来很吓人。",
+            "scores": {
+                "comet": 81.86674118041992
+            }
+        }
+    },
+    {
+        "index": 9,
+        "ST": "You sure? You got us for the whole hour.",
+        "TT1": {
+            "text": "你确定吗？我们订了一整小时呢。",
+            "scores": {
+                "comet": 55.94145059585571
+            }
+        },
+        "TT2": {
+            "text": "你确定吗？我们还包了你一小时呢。",
+            "scores": {
+                "comet": 59.50620174407959
+            }
+        },
+        "TT3": {
+            "text": "你确定？我们包了你整整一个小时。",
+            "scores": {
+                "comet": 55.451500415802
+            }
+        }
+    },
+    {
+        "index": 10,
+        "ST": "- Anyone?- Would it hurt your feelings if no one went?",
+        "TT1": {
+            "text": "- 有人要来吗？- 如果没人来的话，你会介意吗？",
+            "scores": {
+                "comet": 82.54458904266357
+            }
+        },
+        "TT2": {
+            "text": "- 有没有人？- 如果没人想要的话，会伤害到你的感情吗？",
+            "scores": {
+                "comet": 63.063251972198486
+            }
+        },
+        "TT3": {
+            "text": "- 有人想来吗？- 如果没人来，会伤到你的感情吗？",
+            "scores": {
+                "comet": 80.99045753479004
+            }
+        }
+    },
+    {
+        "index": 11,
+        "ST": "Ladies and gentlemen, welcome to the annual Stern Taylor Fall Classic.",
+        "TT1": {
+            "text": "女士们先生们，欢迎来到每年一度的Stern Taylor秋季经典赛。",
+            "scores": {
+                "comet": 83.7796688079834
+            }
+        },
+        "TT2": {
+            "text": "女士们先生们，欢迎来到每年的斯特恩泰勒秋季经典赛。",
+            "scores": {
+                "comet": 84.28128957748413
+            }
+        },
+        "TT3": {
+            "text": "女士们先生们，欢迎参加一年一度的Stern Taylor 秋季经典赛。",
+            "scores": {
+                "comet": 83.63898396492004
+            }
+        }
+    },
+    {
+        "index": 12,
+        "ST": "I'd like to start by making a toast to our very special guest tonight, Richard Hendricks.",
+        "TT1": {
+            "text": "首先，我想向今晚的特别嘉宾敬酒，Richard Hendricks。",
+            "scores": {
+                "comet": 80.80707788467407
+            }
+        },
+        "TT2": {
+            "text": "我想先为今晚的特别嘉宾举杯，理查德·亨德里克斯。",
+            "scores": {
+                "comet": 83.57961177825928
+            }
+        },
+        "TT3": {
+            "text": "我想先举杯为今晚的特别来宾干杯，Richard Hendricks。",
+            "scores": {
+                "comet": 81.14292621612549
+            }
+        }
+    },
+    {
+        "index": 13,
+        "ST": "Richard, after your perfect game at TechCrunch Disrupt a few weeks ago, we fell in love with you and your tech.",
+        "TT1": {
+            "text": "Richard，在TechCrunch Disrupt几周前你的完美表现之后，我们爱上了你和你的技术。",
+            "scores": {
+                "comet": 78.01783084869385
+            }
+        },
+        "TT2": {
+            "text": "理查德，在几周前的TechCrunch Disrupt上，你表现完美，我们爱上了你和你的技术。",
+            "scores": {
+                "comet": 82.21694231033325
+            }
+        },
+        "TT3": {
+            "text": "Richard，在几周前的TechCrunch Disrupt 大会上，你打出了完美的一场比赛，我们爱上了你和你的技术。",
+            "scores": {
+                "comet": 83.22004079818726
+            }
+        }
+    },
+    {
+        "index": 14,
+        "ST": "Look, we know everyone in the Valley is after you, and we know that you're probably going to go with Peter Gregory, but we'd love to have you come play on our team.",
+        "TT1": {
+            "text": "看，我们知道整个硅谷都在追逐你，我们知道你可能会选择Peter Gregory，但我们希望你能加入我们的团队。",
+            "scores": {
+                "comet": 79.91633415222168
+            }
+        },
+        "TT2": {
+            "text": "听着，我们知道山谷里的每个人都在追你，我们也知道你可能会选择彼得·格雷戈里，但我们很想让你",
+            "scores": {
+                "comet": 64.60043787956238
+            }
+        },
+        "TT3": {
+            "text": "听着，我们知道整个硅谷都在争抢你，而且我们知道你可能会选择Peter Gregory，但我们真的很希望你能加入我们的团队。",
+            "scores": {
+                "comet": 78.82797718048096
+            }
+        }
+    },
+    {
+        "index": 15,
+        "ST": "Let Stern Taylor Capital Fund in on your Series A financing, because together, Richard, we'd be a home run!",
+        "TT1": {
+            "text": "让Stern Taylor资本基金参与你的A轮融资，因为Richard，我们会成为一支全垒打的队伍！",
+            "scores": {
+                "comet": 65.7277762889862
+            }
+        },
+        "TT2": {
+            "text": "让斯特恩泰勒资本基金参与你的A轮融资，因为在一起，理查德，我们会是本垒打！",
+            "scores": {
+                "comet": 71.16851210594177
+            }
+        },
+        "TT3": {
+            "text": "让 Stern Taylor Capital Fund参与你的 A 轮融资，因为 Richard，我们将会是一个全垒打！",
+            "scores": {
+                "comet": 61.90328598022461
+            }
+        }
+    },
+    {
+        "index": 16,
+        "ST": "- Oh, fight.- What do you say, Richard?",
+        "TT1": {
+            "text": "- 哦，好斗。- 你怎么说，Richard？",
+            "scores": {
+                "comet": 73.90969395637512
+            }
+        },
+        "TT2": {
+            "text": "- 哦，打起来了。 - 你怎么说，理查德？",
+            "scores": {
+                "comet": 83.64768028259277
+            }
+        },
+        "TT3": {
+            "text": "- 哦，来吧。- 你怎么说，Richard？",
+            "scores": {
+                "comet": 59.92386341094971
+            }
+        }
+    },
+    {
+        "index": 17,
+        "ST": "I'll do what I can.",
+        "TT1": {
+            "text": "我会尽力而为。",
+            "scores": {
+                "comet": 86.02348566055298
+            }
+        },
+        "TT2": {
+            "text": "我会尽力的。",
+            "scores": {
+                "comet": 85.61540842056274
+            }
+        },
+        "TT3": {
+            "text": "我会尽力的。",
+            "scores": {
+                "comet": 85.61540842056274
+            }
+        }
+    },
+    {
+        "index": 18,
+        "ST": "All right. Have fun, everybody.",
+        "TT1": {
+            "text": "好吧，大家玩得开心。",
+            "scores": {
+                "comet": 80.04135489463806
+            }
+        },
+        "TT2": {
+            "text": "好的。大家玩得开心。",
+            "scores": {
+                "comet": 80.65594434738159
+            }
+        },
+        "TT3": {
+            "text": "好吧。大家玩得开心点。",
+            "scores": {
+                "comet": 83.07541012763977
+            }
+        }
+    },
+    {
+        "index": 19,
+        "ST": "I don't know, man.",
+        "TT1": {
+            "text": "我不知道，伙计。",
+            "scores": {
+                "comet": 84.7373902797699
+            }
+        },
+        "TT2": {
+            "text": "我不知道，伙计。",
+            "scores": {
+                "comet": 84.7373902797699
+            }
+        },
+        "TT3": {
+            "text": "我不知道，伙计。",
+            "scores": {
+                "comet": 84.7373902797699
+            }
+        }
+    },
+    {
+        "index": 20,
+        "ST": "It's starting to feel weird letting all these firms suck up to us, even though we're not gonna take their money.",
+        "TT1": {
+            "text": "让这些公司讨好我们感觉有点奇怪，虽然我们不会接受他们的资金。",
+            "scores": {
+                "comet": 75.50525069236755
+            }
+        },
+        "TT2": {
+            "text": "让这些公司讨好我们，虽然我们不会拿他们的钱，这感觉越来越奇怪了。",
+            "scores": {
+                "comet": 81.70325756072998
+            }
+        },
+        "TT3": {
+            "text": "让这些公司拍我们马屁，即使我们不打算拿他们的钱，这感觉越来越奇怪了。",
+            "scores": {
+                "comet": 80.74142932891846
+            }
+        }
+    },
+    {
+        "index": 21,
+        "ST": "Richard, Peter Gregory hasn't officiallygiven us the term sheet yet.",
+        "TT1": {
+            "text": "Richard，Peter Gregory还没有正式给我们提供条款清单。",
+            "scores": {
+                "comet": 82.31583833694458
+            }
+        },
+        "TT2": {
+            "text": "理查德，彼得·格雷戈里还没正式给我们条款清单呢。",
+            "scores": {
+                "comet": 83.46438407897949
+            }
+        },
+        "TT3": {
+            "text": "Richard，Peter Gregory 还没有正式给我们条款清单。",
+            "scores": {
+                "comet": 75.72087049484253
+            }
+        }
+    },
+    {
+        "index": 22,
+        "ST": "Yes, but he will tomorrowwhen he gets back.",
+        "TT1": {
+            "text": "是的，但他明天回来时就会给的。",
+            "scores": {
+                "comet": 70.40618658065796
+            }
+        },
+        "TT2": {
+            "text": "是的，但他明天回来时会给的。",
+            "scores": {
+                "comet": 70.38257718086243
+            }
+        },
+        "TT3": {
+            "text": "是的，但他会在明天回来后给我们。",
+            "scores": {
+                "comet": 67.67919659614563
+            }
+        }
+    },
+    {
+        "index": 23,
+        "ST": "If you can't enjoy this many people kissing our ass at this level, then I feel sorry for you.",
+        "TT1": {
+            "text": "如果你不能享受这么多人在这种级别上拍我们马屁，那我真为你感到遗憾。",
+            "scores": {
+                "comet": 73.72620701789856
+            }
+        },
+        "TT2": {
+            "text": "如果你不能享受这么多人在这种程度上奉承我们，那我真的为你感到遗憾。",
+            "scores": {
+                "comet": 62.37565279006958
+            }
+        },
+        "TT3": {
+            "text": "如果你不能享受这么多人拍我们马屁，那我真为你感到遗憾。",
+            "scores": {
+                "comet": 70.94640731811523
+            }
+        }
+    },
+    {
+        "index": 24,
+        "ST": "Would you just relaxand take it in for a second?",
+        "TT1": {
+            "text": "你能不能放松一下，享受这一刻？",
+            "scores": {
+                "comet": 85.00422239303589
+            }
+        },
+        "TT2": {
+            "text": "你能不能放松一下，享受片刻？",
+            "scores": {
+                "comet": 83.93305540084839
+            }
+        },
+        "TT3": {
+            "text": "你就放松一下，享受这一刻吧。",
+            "scores": {
+                "comet": 84.61475372314453
+            }
+        }
+    },
+    {
+        "index": 25,
+        "ST": "I mean, we are getting our dicks suckedat the AT&T Park.",
+        "TT1": {
+            "text": "我的意思是，我们在AT&T公园享受VIP待遇呢。",
+            "scores": {
+                "comet": 65.44524431228638
+            }
+        },
+        "TT2": {
+            "text": "我的意思是，我们正在AT&T公园里享受这种待遇。",
+            "scores": {
+                "comet": 61.36220693588257
+            }
+        },
+        "TT3": {
+            "text": "我们在 AT&T 公园正被人奉为上宾。",
+            "scores": {
+                "comet": 41.75392687320709
+            }
+        }
+    },
+    {
+        "index": 26,
+        "ST": "We're standing on the field ofthe World Series champions.",
+        "TT1": {
+            "text": "我们站在世界系列赛冠军的赛场上。",
+            "scores": {
+                "comet": 79.2959213256836
+            }
+        },
+        "TT2": {
+            "text": "我们站在世界大赛冠军的球场上。",
+            "scores": {
+                "comet": 81.15891218185425
+            }
+        },
+        "TT3": {
+            "text": "我们站在世界系列赛冠军的场地上。",
+            "scores": {
+                "comet": 79.69992160797119
+            }
+        }
+    },
+    {
+        "index": 27,
+        "ST": "It's totally lost on me.",
+        "TT1": {
+            "text": "我完全无法感受到。",
+            "scores": {
+                "comet": 61.72809600830078
+            }
+        },
+        "TT2": {
+            "text": "这对我来说完全没有意义。",
+            "scores": {
+                "comet": 79.92357611656189
+            }
+        },
+        "TT3": {
+            "text": "我完全没感觉。",
+            "scores": {
+                "comet": 57.99914002418518
+            }
+        }
+    },
+    {
+        "index": 28,
+        "ST": "Yeah, I don't give a shit, either.",
+        "TT1": {
+            "text": "是啊，我也不在乎。",
+            "scores": {
+                "comet": 85.83697080612183
+            }
+        },
+        "TT2": {
+            "text": "是啊，我也不在乎。",
+            "scores": {
+                "comet": 85.83697080612183
+            }
+        },
+        "TT3": {
+            "text": "是啊，我也毫不在意。",
+            "scores": {
+                "comet": 84.97291803359985
+            }
+        }
+    },
+    {
+        "index": 29,
+        "ST": "Hey! I'm Nicole Stein.",
+        "TT1": {
+            "text": "嘿！我是Nicole Stein。",
+            "scores": {
+                "comet": 87.78535723686218
+            }
+        },
+        "TT2": {
+            "text": "嘿！我是妮可·斯坦。",
+            "scores": {
+                "comet": 87.26990222930908
+            }
+        },
+        "TT3": {
+            "text": "嘿！我是 Nicole Stein。",
+            "scores": {
+                "comet": 87.40507364273071
+            }
+        }
+    },
+    {
+        "index": 30,
+        "ST": "I lead the Growth Team at Stern Taylor.",
+        "TT1": {
+            "text": "我是Stern Taylor的增长团队负责人。",
+            "scores": {
+                "comet": 84.64518189430237
+            }
+        },
+        "TT2": {
+            "text": "我在斯特恩泰勒负责增长团队。",
+            "scores": {
+                "comet": 82.0199728012085
+            }
+        },
+        "TT3": {
+            "text": "我在 Stern Taylor 领导增长团队。",
+            "scores": {
+                "comet": 80.96250295639038
+            }
+        }
+    },
+    {
+        "index": 31,
+        "ST": "- Oh. I'm Dinesh.- I'm Gilfoyle.",
+        "TT1": {
+            "text": "- 哦。我是Dinesh。- 我是Gilfoyle。",
+            "scores": {
+                "comet": 85.9610378742218
+            }
+        },
+        "TT2": {
+            "text": "- 哦，我是迪内什。- 我是吉尔福伊尔。",
+            "scores": {
+                "comet": 87.15704679489136
+            }
+        },
+        "TT3": {
+            "text": "- 哦。我是 Dinesh。- 我是 Gilfoyle。",
+            "scores": {
+                "comet": 86.228346824646
+            }
+        }
+    },
+    {
+        "index": 32,
+        "ST": "I love it. So what do youtwo do at Pied Piper?",
+        "TT1": {
+            "text": "我喜欢。那么你们两个人在Pied Piper做什么？",
+            "scores": {
+                "comet": 78.90722155570984
+            }
+        },
+        "TT2": {
+            "text": "我喜欢。那你们两个在派派iper做什么？",
+            "scores": {
+                "comet": 59.15052890777588
+            }
+        },
+        "TT3": {
+            "text": "我喜欢这个。那你们两个在 Pied Piper 做什么？",
+            "scores": {
+                "comet": 79.56804037094116
+            }
+        }
+    },
+    {
+        "index": 33,
+        "ST": "I'm the CTO.",
+        "TT1": {
+            "text": "我是首席技术官。",
+            "scores": {
+                "comet": 87.02304363250732
+            }
+        },
+        "TT2": {
+            "text": "我是首席技术官。",
+            "scores": {
+                "comet": 87.02304363250732
+            }
+        },
+        "TT3": {
+            "text": "我是 CTO。",
+            "scores": {
+                "comet": 87.22870945930481
+            }
+        }
+    },
+    {
+        "index": 34,
+        "ST": "Ah, he's joking. I'm the CTO.",
+        "TT1": {
+            "text": "啊，他在开玩笑。其实我是首席技术官。",
+            "scores": {
+                "comet": 84.81348752975464
+            }
+        },
+        "TT2": {
+            "text": "啊，他在开玩笑。我才是首席技术官。",
+            "scores": {
+                "comet": 85.15517711639404
+            }
+        },
+        "TT3": {
+            "text": "啊，他在开玩笑。我才是 CTO。",
+            "scores": {
+                "comet": 84.33936834335327
+            }
+        }
+    },
+    {
+        "index": 35,
+        "ST": "Fuck you, I'm joking.",
+        "TT1": {
+            "text": "去你的，我才在开玩笑。",
+            "scores": {
+                "comet": 45.74451744556427
+            }
+        },
+        "TT2": {
+            "text": "去你妈的，我在开玩笑。",
+            "scores": {
+                "comet": 69.30451393127441
+            }
+        },
+        "TT3": {
+            "text": "去你的，我才在开玩笑。",
+            "scores": {
+                "comet": 45.74451744556427
+            }
+        }
+    },
+    {
+        "index": 36,
+        "ST": "Okay, how could you bethe Chief Technology Officer?",
+        "TT1": {
+            "text": "好吧，你怎么可能是首席技术官呢？",
+            "scores": {
+                "comet": 78.71830463409424
+            }
+        },
+        "TT2": {
+            "text": "好吧，你怎么可能是首席技术官？",
+            "scores": {
+                "comet": 76.23902559280396
+            }
+        },
+        "TT3": {
+            "text": "好吧，你怎么可能是首席技术官呢？",
+            "scores": {
+                "comet": 78.71830463409424
+            }
+        }
+    },
+    {
+        "index": 37,
+        "ST": "I get it. You hear the word \"chief,\"and you think \"Indian Chief.\"",
+        "TT1": {
+            "text": "我懂了。你听到“chief”这个词，就想到“酋长”。",
+            "scores": {
+                "comet": 77.2070050239563
+            }
+        },
+        "TT2": {
+            "text": "我明白了。你听到“chief”这个词，你想到的是“印第安酋长”。",
+            "scores": {
+                "comet": 81.27648830413818
+            }
+        },
+        "TT3": {
+            "text": "我懂了。你一听到“chief”这个词，就想到了“印第安酋长”。",
+            "scores": {
+                "comet": 83.3267092704773
+            }
+        }
+    },
+    {
+        "index": 38,
+        "ST": "But you're the other kind of Indian.",
+        "TT1": {
+            "text": "但你是另一种“印度人”。",
+            "scores": {
+                "comet": 82.13472366333008
+            }
+        },
+        "TT2": {
+            "text": "但你是另一种印度人。",
+            "scores": {
+                "comet": 82.92799592018127
+            }
+        },
+        "TT3": {
+            "text": "但你是另一种印度人。",
+            "scores": {
+                "comet": 82.92799592018127
+            }
+        }
+    },
+    {
+        "index": 39,
+        "ST": "Okay. One, fuck you. I'm Pakistani.",
+        "TT1": {
+            "text": "好吧。第一，去你的，我是巴基斯坦人。",
+            "scores": {
+                "comet": 49.193909764289856
+            }
+        },
+        "TT2": {
+            "text": "好吧，第一，去你妈的。我是巴基斯坦人。",
+            "scores": {
+                "comet": 66.78471565246582
+            }
+        },
+        "TT3": {
+            "text": "好吧。第一，去你的，我是巴基斯坦人。",
+            "scores": {
+                "comet": 49.193909764289856
+            }
+        }
+    },
+    {
+        "index": 40,
+        "ST": "And two, how could you be CTO of anything?",
+        "TT1": {
+            "text": "第二，你怎么可能是任何东西的首席技术官？",
+            "scores": {
+                "comet": 77.23742723464966
+            }
+        },
+        "TT2": {
+            "text": "第二，你怎么可能是任何东西的首席技术官？",
+            "scores": {
+                "comet": 77.23742127418518
+            }
+        },
+        "TT3": {
+            "text": "第二，你怎么可能成为任何公司的 CTO？",
+            "scores": {
+                "comet": 84.28357243537903
+            }
+        }
+    },
+    {
+        "index": 41,
+        "ST": "You have to be able to organize,",
+        "TT1": {
+            "text": "你必须能够组织，",
+            "scores": {
+                "comet": 83.45573544502258
+            }
+        },
+        "TT2": {
+            "text": "你必须能够组织，",
+            "scores": {
+                "comet": 83.45573544502258
+            }
+        },
+        "TT3": {
+            "text": "你得有能力组织，",
+            "scores": {
+                "comet": 83.84689092636108
+            }
+        }
+    },
+    {
+        "index": 42,
+        "ST": "you have to be able to delegate,you have to be...",
+        "TT1": {
+            "text": "你必须能够指挥，你必须...",
+            "scores": {
+                "comet": 73.20379614830017
+            }
+        },
+        "TT2": {
+            "text": "你必须能够委派，你必须...",
+            "scores": {
+                "comet": 80.17389178276062
+            }
+        },
+        "TT3": {
+            "text": "你得有能力分配任务，你得……",
+            "scores": {
+                "comet": 80.51207065582275
+            }
+        }
+    },
+    {
+        "index": 43,
+        "ST": "I delegate you to go get me a fucking beer while I talk to Nicole.",
+        "TT1": {
+            "text": "我命令你去帮我拿瓶啤酒，我这儿正要和Nicole聊呢。",
+            "scores": {
+                "comet": 83.52205753326416
+            }
+        },
+        "TT2": {
+            "text": "我委派你去给我拿瓶啤酒，我去跟妮可聊。",
+            "scores": {
+                "comet": 84.54581499099731
+            }
+        },
+        "TT3": {
+            "text": "我现在就委派你去给我拿杯啤酒，我来和 Nicole 聊聊。",
+            "scores": {
+                "comet": 82.81962871551514
+            }
+        }
+    },
+    {
+        "index": 44,
+        "ST": "George Silver,operating partner at Stern Taylor.",
+        "TT1": {
+            "text": "George Silver，Stern Taylor的运营合伙人。",
+            "scores": {
+                "comet": 86.01905107498169
+            }
+        },
+        "TT2": {
+            "text": "乔治·西尔弗，斯特恩泰勒的运营合伙人。",
+            "scores": {
+                "comet": 85.5034589767456
+            }
+        },
+        "TT3": {
+            "text": "我是 George Silver，Stern Taylor 的运营合伙人。",
+            "scores": {
+                "comet": 81.2498152256012
+            }
+        }
+    },
+    {
+        "index": 45,
+        "ST": "So, what do you do at Pied Piper?",
+        "TT1": {
+            "text": "那么，你在Pied Piper做什么？",
+            "scores": {
+                "comet": 80.79279065132141
+            }
+        },
+        "TT2": {
+            "text": "那么，你在派派iper做什么？",
+            "scores": {
+                "comet": 55.30629754066467
+            }
+        },
+        "TT3": {
+            "text": "那么，你在 Pied Piper 做什么？",
+            "scores": {
+                "comet": 81.13666772842407
+            }
+        }
+    },
+    {
+        "index": 46,
+        "ST": "He's the CTO.",
+        "TT1": {
+            "text": "他是首席技术官。",
+            "scores": {
+                "comet": 85.88460087776184
+            }
+        },
+        "TT2": {
+            "text": "他是首席技术官。",
+            "scores": {
+                "comet": 85.88460087776184
+            }
+        },
+        "TT3": {
+            "text": "他是 CTO。",
+            "scores": {
+                "comet": 85.25477051734924
+            }
+        }
+    },
+    {
+        "index": 47,
+        "ST": "That's Drew Houston.",
+        "TT1": {
+            "text": "那是Drew Houston。",
+            "scores": {
+                "comet": 85.02190113067627
+            }
+        },
+        "TT2": {
+            "text": "那是德鲁·休斯顿。",
+            "scores": {
+                "comet": 84.98991131782532
+            }
+        },
+        "TT3": {
+            "text": "那是 Drew Houston。",
+            "scores": {
+                "comet": 85.58751940727234
+            }
+        }
+    },
+    {
+        "index": 48,
+        "ST": "We've been circling each otherfor the last 20 minutes.",
+        "TT1": {
+            "text": "我们在这儿兜圈子已经20分钟了。",
+            "scores": {
+                "comet": 82.82366394996643
+            }
+        },
+        "TT2": {
+            "text": "我们在过去的20分钟里绕来绕去。",
+            "scores": {
+                "comet": 76.55697464942932
+            }
+        },
+        "TT3": {
+            "text": "我们已经互相瞄了20分钟了。",
+            "scores": {
+                "comet": 72.69609570503235
+            }
+        }
+    },
+    {
+        "index": 49,
+        "ST": "Ooh!",
+        "TT1": {
+            "text": "哦！",
+            "scores": {
+                "comet": 84.47893261909485
+            }
+        },
+        "TT2": {
+            "text": "哦！",
+            "scores": {
+                "comet": 84.47893261909485
+            }
+        },
+        "TT3": {
+            "text": "哦！",
+            "scores": {
+                "comet": 84.47893261909485
+            }
+        }
+    },
+    {
+        "index": 50,
+        "ST": "The Winklevoss twins.",
+        "TT1": {
+            "text": "Winklevoss双胞胎。",
+            "scores": {
+                "comet": 83.40044021606445
+            }
+        },
+        "TT2": {
+            "text": "温克尔沃斯兄弟。",
+            "scores": {
+                "comet": 86.01706027984619
+            }
+        },
+        "TT3": {
+            "text": "Winklevoss 双胞胎。",
+            "scores": {
+                "comet": 83.37722420692444
+            }
+        }
+    },
+    {
+        "index": 51,
+        "ST": "Look at them. They're liketwo genetically enhanced Ken dolls.",
+        "TT1": {
+            "text": "看看他们。他们就像两个基因改良版的Ken娃娃。",
+            "scores": {
+                "comet": 84.8229467868805
+            }
+        },
+        "TT2": {
+            "text": "看看他们。他们就像两个基因增强的肯娃娃。",
+            "scores": {
+                "comet": 84.25871729850769
+            }
+        },
+        "TT3": {
+            "text": "看看他们。他们像是两个人造基因改良的 Ken 娃娃。",
+            "scores": {
+                "comet": 67.9768443107605
+            }
+        }
+    },
+    {
+        "index": 52,
+        "ST": "Do you knowhow much Bitcoin they're worth?",
+        "TT1": {
+            "text": "你知道他们的比特币值多少钱吗？",
+            "scores": {
+                "comet": 87.44817972183228
+            }
+        },
+        "TT2": {
+            "text": "你知道他们的比特币值多少钱吗？",
+            "scores": {
+                "comet": 87.44817972183228
+            }
+        },
+        "TT3": {
+            "text": "你知道他们有多少比特币吗？",
+            "scores": {
+                "comet": 81.2217116355896
+            }
+        }
+    },
+    {
+        "index": 53,
+        "ST": "Oh, shit, they're splitting up.",
+        "TT1": {
+            "text": "哦，糟了，他们分开了。",
+            "scores": {
+                "comet": 85.05198955535889
+            }
+        },
+        "TT2": {
+            "text": "哦，见鬼，他们分开了。",
+            "scores": {
+                "comet": 84.20025110244751
+            }
+        },
+        "TT3": {
+            "text": "哦，糟了，他们分开了。",
+            "scores": {
+                "comet": 85.05198955535889
+            }
+        }
+    },
+    {
+        "index": 54,
+        "ST": "Cameron's the left dominant one, right?",
+        "TT1": {
+            "text": "Cameron是左边的主导者，对吗？",
+            "scores": {
+                "comet": 79.96234893798828
+            }
+        },
+        "TT2": {
+            "text": "卡梅隆是左撇子，对吧？",
+            "scores": {
+                "comet": 73.4359860420227
+            }
+        },
+        "TT3": {
+            "text": "Cameron 是那个左手优势的，对吧？",
+            "scores": {
+                "comet": 60.75264811515808
+            }
+        }
+    },
+    {
+        "index": 55,
+        "ST": "- I can't tell them apart.- I'm gonna come at him from the right side,",
+        "TT1": {
+            "text": "- 我分不清他们。- 我要从右边靠近他，",
+            "scores": {
+                "comet": 82.03074932098389
+            }
+        },
+        "TT2": {
+            "text": "- 我分不清他们。- 我要从右边接近他，",
+            "scores": {
+                "comet": 82.16478228569031
+            }
+        },
+        "TT3": {
+            "text": "- 我分不清他们。- 我要从右边接近他，",
+            "scores": {
+                "comet": 82.16478228569031
+            }
+        }
+    },
+    {
+        "index": 56,
+        "ST": "try and herd them back togetherwithout spooking them.",
+        "TT1": {
+            "text": "试图把他们赶在一起不让他们受到惊吓。",
+            "scores": {
+                "comet": 75.98140239715576
+            }
+        },
+        "TT2": {
+            "text": "试图让他们合体，别吓着他们。",
+            "scores": {
+                "comet": 73.87394905090332
+            }
+        },
+        "TT3": {
+            "text": "试着把他们赶回去，不要吓到他们。",
+            "scores": {
+                "comet": 80.6680679321289
+            }
+        }
+    },
+    {
+        "index": 57,
+        "ST": "Watch this.",
+        "TT1": {
+            "text": "看我的。",
+            "scores": {
+                "comet": 47.46551215648651
+            }
+        },
+        "TT2": {
+            "text": "看这个。",
+            "scores": {
+                "comet": 80.2484393119812
+            }
+        },
+        "TT3": {
+            "text": "看我的。",
+            "scores": {
+                "comet": 47.46551215648651
+            }
+        }
+    },
+    {
+        "index": 58,
+        "ST": "Cameron! Cameron!",
+        "TT1": {
+            "text": "Cameron！Cameron！",
+            "scores": {
+                "comet": 83.44699144363403
+            }
+        },
+        "TT2": {
+            "text": "卡梅隆！卡梅隆！",
+            "scores": {
+                "comet": 84.91941690444946
+            }
+        },
+        "TT3": {
+            "text": "Cameron！Cameron！",
+            "scores": {
+                "comet": 83.44699144363403
+            }
+        }
+    },
+    {
+        "index": 59,
+        "ST": "- Okay. - Well, well, well, look who's the big swinging dick.",
+        "TT1": {
+            "text": "- 好吧。- 噢，看这谁来了，大人物。",
+            "scores": {
+                "comet": 43.39438080787659
+            }
+        },
+        "TT2": {
+            "text": "- 好的。- 好了，好了，看看这是谁的大老二。",
+            "scores": {
+                "comet": 49.507662653923035
+            }
+        },
+        "TT3": {
+            "text": "- 好。- 哦，哦，哦，看看谁是大佬了。",
+            "scores": {
+                "comet": 49.991437792778015
+            }
+        }
+    },
+    {
+        "index": 60,
+        "ST": "Hey, Javeed, everything okay at Goolybib?",
+        "TT1": {
+            "text": "嘿，Javeed，一切都还好吗，Goolybib那边？",
+            "scores": {
+                "comet": 77.98212766647339
+            }
+        },
+        "TT2": {
+            "text": "嘿，贾维德，Goolybib那边怎么样？",
+            "scores": {
+                "comet": 81.69971704483032
+            }
+        },
+        "TT3": {
+            "text": "嘿，Javeed，Goolybib 那边还好吗？",
+            "scores": {
+                "comet": 79.89838123321533
+            }
+        }
+    },
+    {
+        "index": 61,
+        "ST": "You gotta ask them. They canned me.",
+        "TT1": {
+            "text": "你得问他们，他们解雇了我。",
+            "scores": {
+                "comet": 76.9933819770813
+            }
+        },
+        "TT2": {
+            "text": "你得问他们。他们炒了我。",
+            "scores": {
+                "comet": 78.21455001831055
+            }
+        },
+        "TT3": {
+            "text": "你得问他们。他们炒了我。",
+            "scores": {
+                "comet": 78.21455001831055
+            }
+        }
+    },
+    {
+        "index": 62,
+        "ST": "- What?- Yeah.",
+        "TT1": {
+            "text": "- 什么？- 是啊。",
+            "scores": {
+                "comet": 86.36678457260132
+            }
+        },
+        "TT2": {
+            "text": "- 什么？- 是啊。",
+            "scores": {
+                "comet": 86.36677265167236
+            }
+        },
+        "TT3": {
+            "text": "- 什么？- 是的。",
+            "scores": {
+                "comet": 85.78746318817139
+            }
+        }
+    },
+    {
+        "index": 63,
+        "ST": "Our investors got spooked by a possible down round, so they shoved an acquisition down my throat.",
+        "TT1": {
+            "text": "我们的投资者因为可能的降价感到恐慌，所以他们强迫我接受收购。",
+            "scores": {
+                "comet": 77.43909955024719
+            }
+        },
+        "TT2": {
+            "text": "我们的投资者被可能的降轮吓到了，所以他们把收购硬塞给我。",
+            "scores": {
+                "comet": 72.05075025558472
+            }
+        },
+        "TT3": {
+            "text": "我们的投资者被一个可能的低轮融资吓到了，所以他们强行把收购塞给我。",
+            "scores": {
+                "comet": 74.4349718093872
+            }
+        }
+    },
+    {
+        "index": 64,
+        "ST": "Yeah, an acquisition of$200 million, right?",
+        "TT1": {
+            "text": "是啊，价值两亿美元的收购，对吗？",
+            "scores": {
+                "comet": 84.08290147781372
+            }
+        },
+        "TT2": {
+            "text": "是的，2亿美元的收购，对吧？",
+            "scores": {
+                "comet": 84.53817963600159
+            }
+        },
+        "TT3": {
+            "text": "是啊，2000万美元的收购，对吧？",
+            "scores": {
+                "comet": 84.28283333778381
+            }
+        }
+    },
+    {
+        "index": 65,
+        "ST": "Yeah, they all made out.I had a reverse vest with no triggers,",
+        "TT1": {
+            "text": "是啊，他们都赚到了钱。我有一个逆向归属但没有触发条件，",
+            "scores": {
+                "comet": 43.40895712375641
+            }
+        },
+        "TT2": {
+            "text": "是啊，他们都赚了。我反向归属没触发条件，",
+            "scores": {
+                "comet": 40.65684974193573
+            }
+        },
+        "TT3": {
+            "text": "是的，他们都发了财。而我却因为没有触发条件而失去了所有股份，",
+            "scores": {
+                "comet": 44.69176232814789
+            }
+        }
+    },
+    {
+        "index": 66,
+        "ST": "then I lost all my shareswhen they fired me.",
+        "TT1": {
+            "text": "然后当他们解雇我时我失去了所有股份。",
+            "scores": {
+                "comet": 85.34936904907227
+            }
+        },
+        "TT2": {
+            "text": "然后他们炒了我，我失去了所有股份。",
+            "scores": {
+                "comet": 82.30472803115845
+            }
+        },
+        "TT3": {
+            "text": "当他们炒了我之后，我失去了所有股份。",
+            "scores": {
+                "comet": 81.30855560302734
+            }
+        }
+    },
+    {
+        "index": 67,
+        "ST": "I blew my whole signing bonusrenting that house.",
+        "TT1": {
+            "text": "我把签约奖金全花在租那栋房子上了。",
+            "scores": {
+                "comet": 80.94208240509033
+            }
+        },
+        "TT2": {
+            "text": "我把整个签约奖金都花在租房上了。",
+            "scores": {
+                "comet": 75.20301342010498
+            }
+        },
+        "TT3": {
+            "text": "我把整个签约奖金都花在租房子上了。",
+            "scores": {
+                "comet": 73.95501136779785
+            }
+        }
+    },
+    {
+        "index": 68,
+        "ST": "I'm looking into suing 'em.",
+        "TT1": {
+            "text": "我正考虑起诉他们。",
+            "scores": {
+                "comet": 87.55412101745605
+            }
+        },
+        "TT2": {
+            "text": "我正在考虑起诉他们。",
+            "scores": {
+                "comet": 87.16733455657959
+            }
+        },
+        "TT3": {
+            "text": "我正在考虑起诉他们。",
+            "scores": {
+                "comet": 87.16732859611511
+            }
+        }
+    },
+    {
+        "index": 69,
+        "ST": "Jeez.",
+        "TT1": {
+            "text": "天哪。",
+            "scores": {
+                "comet": 83.45434665679932
+            }
+        },
+        "TT2": {
+            "text": "天哪。",
+            "scores": {
+                "comet": 83.45434665679932
+            }
+        },
+        "TT3": {
+            "text": "天哪。",
+            "scores": {
+                "comet": 83.45434665679932
+            }
+        }
+    },
+    {
+        "index": 70,
+        "ST": "Look, all I can say is, don't get fucked, all right?",
+        "TT1": {
+            "text": "听着，我只能说，别被搞砸了，好吗？",
+            "scores": {
+                "comet": 75.37344098091125
+            }
+        },
+        "TT2": {
+            "text": "听着，我只想说，别让自己被操了，好吗？",
+            "scores": {
+                "comet": 76.66685581207275
+            }
+        },
+        "TT3": {
+            "text": "听着，我只能说，不要被坑，好吗？",
+            "scores": {
+                "comet": 80.81997632980347
+            }
+        }
+    },
+    {
+        "index": 71,
+        "ST": "You take money from the wrong dudes,and you'll get smoked as bad as I did.",
+        "TT1": {
+            "text": "你拿错了人的钱，会像我一样被搞得很惨。",
+            "scores": {
+                "comet": 70.55290937423706
+            }
+        },
+        "TT2": {
+            "text": "你从错误的人那里拿钱，你会被搞得像我一样惨。",
+            "scores": {
+                "comet": 73.60548973083496
+            }
+        },
+        "TT3": {
+            "text": "你要是从错的人那里拿钱，会像我一样被搞得很惨。",
+            "scores": {
+                "comet": 75.10523200035095
+            }
+        }
+    },
+    {
+        "index": 72,
+        "ST": "Just be careful.",
+        "TT1": {
+            "text": "小心点。",
+            "scores": {
+                "comet": 85.74672341346741
+            }
+        },
+        "TT2": {
+            "text": "一定要小心。",
+            "scores": {
+                "comet": 84.671151638031
+            }
+        },
+        "TT3": {
+            "text": "小心点。",
+            "scores": {
+                "comet": 85.74672341346741
+            }
+        }
+    },
+    {
+        "index": 73,
+        "ST": "Everyone is watching you now.",
+        "TT1": {
+            "text": "现在每个人都在看着你。",
+            "scores": {
+                "comet": 85.46476364135742
+            }
+        },
+        "TT2": {
+            "text": "现在每个人都在看你。",
+            "scores": {
+                "comet": 85.57496070861816
+            }
+        },
+        "TT3": {
+            "text": "现在所有人都在看着你。",
+            "scores": {
+                "comet": 85.85327863693237
+            }
+        }
+    },
+    {
+        "index": 74,
+        "ST": "Yeah. Totally. I know. Thanks, Javeed.",
+        "TT1": {
+            "text": "是的，完全知道。谢谢，Javeed。",
+            "scores": {
+                "comet": 82.91940093040466
+            }
+        },
+        "TT2": {
+            "text": "是的。完全。我知道。谢谢你，贾维德。",
+            "scores": {
+                "comet": 86.13823652267456
+            }
+        },
+        "TT3": {
+            "text": "是的，完全。我知道了。谢谢你，Javeed。",
+            "scores": {
+                "comet": 85.66368818283081
+            }
+        }
+    },
+    {
+        "index": 75,
+        "ST": "No. I mean, they're watching you right now.",
+        "TT1": {
+            "text": "不。我是说，他们现在就在看着你。",
+            "scores": {
+                "comet": 84.29540395736694
+            }
+        },
+        "TT2": {
+            "text": "不。我是说，他们现在正在看你。",
+            "scores": {
+                "comet": 84.43993330001831
+            }
+        },
+        "TT3": {
+            "text": "不。我是说，他们现在就在看着你。",
+            "scores": {
+                "comet": 84.29540395736694
+            }
+        }
+    },
+    {
+        "index": 76,
+        "ST": "Yeah.",
+        "TT1": {
+            "text": "是啊。",
+            "scores": {
+                "comet": 85.78157424926758
+            }
+        },
+        "TT2": {
+            "text": "是的。",
+            "scores": {
+                "comet": 86.25794053077698
+            }
+        },
+        "TT3": {
+            "text": "是的。",
+            "scores": {
+                "comet": 86.25794053077698
+            }
+        }
+    },
+    {
+        "index": 77,
+        "ST": "Damn it. Where is that camera?",
+        "TT1": {
+            "text": "该死。摄像头在哪？",
+            "scores": {
+                "comet": 85.09324789047241
+            }
+        },
+        "TT2": {
+            "text": "该死的。那相机在哪里？",
+            "scores": {
+                "comet": 84.72055792808533
+            }
+        },
+        "TT3": {
+            "text": "该死。那摄像头在哪？",
+            "scores": {
+                "comet": 85.06736755371094
+            }
+        }
+    },
+    {
+        "index": 78,
+        "ST": "I can't believehow many gifts we're getting.",
+        "TT1": {
+            "text": "我真不敢相信我们收到这么多礼物。",
+            "scores": {
+                "comet": 86.86275482177734
+            }
+        },
+        "TT2": {
+            "text": "我不敢相信我们收到这么多礼物。",
+            "scores": {
+                "comet": 86.82359457015991
+            }
+        },
+        "TT3": {
+            "text": "我不敢相信我们收到了这么多礼物。",
+            "scores": {
+                "comet": 86.91928386688232
+            }
+        }
+    },
+    {
+        "index": 79,
+        "ST": "Gifts I'm getting.That Oculus rig is addressed to the CTO.",
+        "TT1": {
+            "text": "这些礼物是寄给我的。那台Oculus是寄给首席技术官的。",
+            "scores": {
+                "comet": 70.46087980270386
+            }
+        },
+        "TT2": {
+            "text": "礼物是给我的。那套Oculus设备是给首席技术官的。",
+            "scores": {
+                "comet": 72.98871278762817
+            }
+        },
+        "TT3": {
+            "text": "这些礼物是给我的。那个 Oculus 是寄给 CTO 的。",
+            "scores": {
+                "comet": 64.34429287910461
+            }
+        }
+    },
+    {
+        "index": 80,
+        "ST": "No, I'm the CTO.",
+        "TT1": {
+            "text": "不，我才是首席技术官。",
+            "scores": {
+                "comet": 85.08610129356384
+            }
+        },
+        "TT2": {
+            "text": "不，我才是首席技术官。",
+            "scores": {
+                "comet": 85.08610129356384
+            }
+        },
+        "TT3": {
+            "text": "不，我才是 CTO。",
+            "scores": {
+                "comet": 84.14937853813171
+            }
+        }
+    },
+    {
+        "index": 81,
+        "ST": "As your superior,I order you to give me that Oculus.",
+        "TT1": {
+            "text": "作为你的上级，我命令你把那台Oculus给我。",
+            "scores": {
+                "comet": 83.99194478988647
+            }
+        },
+        "TT2": {
+            "text": "作为你的上级，我命令你把那个Oculus给我。",
+            "scores": {
+                "comet": 82.09078311920166
+            }
+        },
+        "TT3": {
+            "text": "作为你的上级，我命令你把 Oculus 给我。",
+            "scores": {
+                "comet": 82.74296522140503
+            }
+        }
+    },
+    {
+        "index": 82,
+        "ST": "You can't make me do stuff.You're not the boss of me.",
+        "TT1": {
+            "text": "你不能命令我做事。你不是我的老板。",
+            "scores": {
+                "comet": 86.9126558303833
+            }
+        },
+        "TT2": {
+            "text": "你不能让我干活。你不是我的老板。",
+            "scores": {
+                "comet": 85.57488322257996
+            }
+        },
+        "TT3": {
+            "text": "你不能让我做事。你不是我的老板。",
+            "scores": {
+                "comet": 85.3697419166565
+            }
+        }
+    },
+    {
+        "index": 83,
+        "ST": "- Actually, I am the boss of you.- Okay.",
+        "TT1": {
+            "text": "- 实际上，我就是你老板。- 好吧。",
+            "scores": {
+                "comet": 85.00891327857971
+            }
+        },
+        "TT2": {
+            "text": "- 其实，我就是你的老板。- 好吧。",
+            "scores": {
+                "comet": 86.03360652923584
+            }
+        },
+        "TT3": {
+            "text": "- 事实上，我是你的老板。- 好吧。",
+            "scores": {
+                "comet": 84.8893404006958
+            }
+        }
+    },
+    {
+        "index": 84,
+        "ST": "Richard, tell him I'm CTO.",
+        "TT1": {
+            "text": "Richard，告诉他我是首席技术官。",
+            "scores": {
+                "comet": 87.47541904449463
+            }
+        },
+        "TT2": {
+            "text": "理查德，告诉他我是首席技术官。",
+            "scores": {
+                "comet": 87.72911429405212
+            }
+        },
+        "TT3": {
+            "text": "Richard，告诉他我是 CTO。",
+            "scores": {
+                "comet": 87.19999194145203
+            }
+        }
+    },
+    {
+        "index": 85,
+        "ST": "No, you already told that fat guythat I'm the CTO.",
+        "TT1": {
+            "text": "不，你已经告诉那个胖子我是首席技术官了。",
+            "scores": {
+                "comet": 85.11667251586914
+            }
+        },
+        "TT2": {
+            "text": "不，你已经告诉那个胖子我是首席技术官了。",
+            "scores": {
+                "comet": 85.11667251586914
+            }
+        },
+        "TT3": {
+            "text": "不，你已经告诉那个胖子我是 CTO 了。",
+            "scores": {
+                "comet": 84.84351634979248
+            }
+        }
+    },
+    {
+        "index": 86,
+        "ST": "Stop, stop, stop. Please stop.",
+        "TT1": {
+            "text": "停下，停下，停下。拜托，停下。",
+            "scores": {
+                "comet": 85.24007797241211
+            }
+        },
+        "TT2": {
+            "text": "停，停，停。请停。",
+            "scores": {
+                "comet": 86.1474096775055
+            }
+        },
+        "TT3": {
+            "text": "停下来，停下来，拜托停下。",
+            "scores": {
+                "comet": 84.54490303993225
+            }
+        }
+    },
+    {
+        "index": 87,
+        "ST": "I have a ton of work to do.You have work to do.",
+        "TT1": {
+            "text": "我有一大堆工作要做。你也有工作要做。",
+            "scores": {
+                "comet": 87.1421754360199
+            }
+        },
+        "TT2": {
+            "text": "我有很多工作要做。你也有工作要做。",
+            "scores": {
+                "comet": 87.2324526309967
+            }
+        },
+        "TT3": {
+            "text": "我有一大堆工作要做。你也有工作要做。",
+            "scores": {
+                "comet": 87.1421754360199
+            }
+        }
+    },
+    {
+        "index": 88,
+        "ST": "Maybe let's do the work instead of that.",
+        "TT1": {
+            "text": "也许我们该做点正事而不是这样。",
+            "scores": {
+                "comet": 82.67499804496765
+            }
+        },
+        "TT2": {
+            "text": "也许我们应该去做工作，而不是搞这些。",
+            "scores": {
+                "comet": 81.10489249229431
+            }
+        },
+        "TT3": {
+            "text": "也许我们应该去工作，而不是在这里瞎折腾。",
+            "scores": {
+                "comet": 79.6408474445343
+            }
+        }
+    },
+    {
+        "index": 89,
+        "ST": "Jared, we were supposedto get a term sheet today.",
+        "TT1": {
+            "text": "Jared，我们今天应该拿到条款清单的。",
+            "scores": {
+                "comet": 81.46823644638062
+            }
+        },
+        "TT2": {
+            "text": "贾里德，我们今天应该收到条款清单的。",
+            "scores": {
+                "comet": 81.90800547599792
+            }
+        },
+        "TT3": {
+            "text": "Jared，我们今天应该收到条款清单的。",
+            "scores": {
+                "comet": 80.97565174102783
+            }
+        }
+    },
+    {
+        "index": 90,
+        "ST": "Have we heard from Peter Gregory?",
+        "TT1": {
+            "text": "我们从Peter Gregory那儿听到消息了吗？",
+            "scores": {
+                "comet": 83.0526351928711
+            }
+        },
+        "TT2": {
+            "text": "彼得·格雷戈里有消息吗？",
+            "scores": {
+                "comet": 79.48031425476074
+            }
+        },
+        "TT3": {
+            "text": "Peter Gregory 有没有消息？",
+            "scores": {
+                "comet": 77.32722163200378
+            }
+        }
+    },
+    {
+        "index": 91,
+        "ST": "Peter Gregory is dead.",
+        "TT1": {
+            "text": "Peter Gregory死了。",
+            "scores": {
+                "comet": 88.88503313064575
+            }
+        },
+        "TT2": {
+            "text": "彼得·格雷戈里死了。",
+            "scores": {
+                "comet": 88.5583221912384
+            }
+        },
+        "TT3": {
+            "text": "Peter Gregory 死了。",
+            "scores": {
+                "comet": 89.47817087173462
+            }
+        }
+    },
+    {
+        "index": 92,
+        "ST": "What?",
+        "TT1": {
+            "text": "什么？",
+            "scores": {
+                "comet": 83.0089271068573
+            }
+        },
+        "TT2": {
+            "text": "什么？",
+            "scores": {
+                "comet": 83.0089271068573
+            }
+        },
+        "TT3": {
+            "text": "什么？",
+            "scores": {
+                "comet": 83.0089271068573
+            }
+        }
+    },
+    {
+        "index": 93,
+        "ST": "Holy shit.",
+        "TT1": {
+            "text": "天啊。",
+            "scores": {
+                "comet": 86.11319065093994
+            }
+        },
+        "TT2": {
+            "text": "天哪。",
+            "scores": {
+                "comet": 85.31603217124939
+            }
+        },
+        "TT3": {
+            "text": "我的天哪。",
+            "scores": {
+                "comet": 84.549081325531
+            }
+        }
+    },
+    {
+        "index": 94,
+        "ST": "He was the smartest, shrewdest, strangest man I've ever known.",
+        "TT1": {
+            "text": "他是我认识的最聪明、最精明、最奇特的人。",
+            "scores": {
+                "comet": 83.48812460899353
+            }
+        },
+        "TT2": {
+            "text": "他是我所认识的最聪明、最精明、最奇怪的人。",
+            "scores": {
+                "comet": 84.22110080718994
+            }
+        },
+        "TT3": {
+            "text": "他是我见过最聪明、最精明、最古怪的人。",
+            "scores": {
+                "comet": 84.45221781730652
+            }
+        }
+    },
+    {
+        "index": 95,
+        "ST": "I can't believe that he's gone.",
+        "TT1": {
+            "text": "我真不敢相信他就这么走了。",
+            "scores": {
+                "comet": 85.63026189804077
+            }
+        },
+        "TT2": {
+            "text": "我不敢相信他已经走了。",
+            "scores": {
+                "comet": 87.54364252090454
+            }
+        },
+        "TT3": {
+            "text": "我无法相信他已经走了。",
+            "scores": {
+                "comet": 87.76699304580688
+            }
+        }
+    },
+    {
+        "index": 96,
+        "ST": "Can I ask what happened?",
+        "TT1": {
+            "text": "我可以问发生了什么吗？",
+            "scores": {
+                "comet": 88.06326389312744
+            }
+        },
+        "TT2": {
+            "text": "我能问问发生了什么事吗？",
+            "scores": {
+                "comet": 88.2900595664978
+            }
+        },
+        "TT3": {
+            "text": "我能问一下发生了什么事吗？",
+            "scores": {
+                "comet": 88.46608996391296
+            }
+        }
+    },
+    {
+        "index": 97,
+        "ST": "Yeah. Um...",
+        "TT1": {
+            "text": "是的，呃...",
+            "scores": {
+                "comet": 83.80465507507324
+            }
+        },
+        "TT2": {
+            "text": "是的。嗯...",
+            "scores": {
+                "comet": 84.8512589931488
+            }
+        },
+        "TT3": {
+            "text": "是的。嗯……",
+            "scores": {
+                "comet": 84.64622497558594
+            }
+        }
+    },
+    {
+        "index": 98,
+        "ST": "He was in the Serengeti on safari...",
+        "TT1": {
+            "text": "他在塞伦盖蒂进行狩猎旅行...",
+            "scores": {
+                "comet": 80.97205758094788
+            }
+        },
+        "TT2": {
+            "text": "他在塞伦盖蒂进行狩猎...",
+            "scores": {
+                "comet": 83.3269715309143
+            }
+        },
+        "TT3": {
+            "text": "他在塞伦盖蒂大草原上野生动物园……",
+            "scores": {
+                "comet": 64.45907354354858
+            }
+        }
+    },
+    {
+        "index": 99,
+        "ST": "- Ah. - ...and he had just gone into his tent when a hippo wandered into the camp.",
+        "TT1": {
+            "text": "- 啊。- 他刚刚进入帐篷，一头河马闯进了营地。",
+            "scores": {
+                "comet": 83.97454619407654
+            }
+        },
+        "TT2": {
+            "text": "- 啊。- ...他刚刚进了帐篷然后一头河马走进了营地。",
+            "scores": {
+                "comet": 80.41743040084839
+            }
+        },
+        "TT3": {
+            "text": "- 啊。- ……他刚进帐篷的时候一头河马闯进了营地。",
+            "scores": {
+                "comet": 84.63255763053894
+            }
+        }
+    },
+    {
+        "index": 100,
+        "ST": "Oh, wow.",
+        "TT1": {
+            "text": "哦，天哪。",
+            "scores": {
+                "comet": 86.05061173439026
+            }
+        },
+        "TT2": {
+            "text": "哦，哇。",
+            "scores": {
+                "comet": 86.47425770759583
+            }
+        },
+        "TT3": {
+            "text": "哦，天哪。",
+            "scores": {
+                "comet": 86.05061173439026
+            }
+        }
+    },
+    {
+        "index": 101,
+        "ST": "He was attacked by a hippo?",
+        "TT1": {
+            "text": "他被河马攻击了吗？",
+            "scores": {
+                "comet": 84.27139520645142
+            }
+        },
+        "TT2": {
+            "text": "他被河马袭击了吗？",
+            "scores": {
+                "comet": 84.25412178039551
+            }
+        },
+        "TT3": {
+            "text": "他是被河马袭击了？",
+            "scores": {
+                "comet": 81.0721218585968
+            }
+        }
+    },
+    {
+        "index": 102,
+        "ST": "No. No.",
+        "TT1": {
+            "text": "不。不。",
+            "scores": {
+                "comet": 85.2331280708313
+            }
+        },
+        "TT2": {
+            "text": "不。不。",
+            "scores": {
+                "comet": 85.2331280708313
+            }
+        },
+        "TT3": {
+            "text": "不。不是。",
+            "scores": {
+                "comet": 85.10035276412964
+            }
+        }
+    },
+    {
+        "index": 103,
+        "ST": "I guess the hippo started to charge when the guide grabbed his rifleand shot at it,",
+        "TT1": {
+            "text": "我猜那头河马开始冲锋时，向导抓起他的步枪朝它开枪，",
+            "scores": {
+                "comet": 80.27746677398682
+            }
+        },
+        "TT2": {
+            "text": "我猜河马开始冲锋时导游抓起了步枪向它开枪，",
+            "scores": {
+                "comet": 80.8707594871521
+            }
+        },
+        "TT3": {
+            "text": "我猜河马开始冲锋时，导游抓起步枪向它开枪，",
+            "scores": {
+                "comet": 78.31587791442871
+            }
+        }
+    },
+    {
+        "index": 104,
+        "ST": "but his aim was off, and...",
+        "TT1": {
+            "text": "但他的准头不准，然后...",
+            "scores": {
+                "comet": 42.09660589694977
+            }
+        },
+        "TT2": {
+            "text": "但他瞄准不准，结果...",
+            "scores": {
+                "comet": 74.7661828994751
+            }
+        },
+        "TT3": {
+            "text": "但他没瞄准好，结果……",
+            "scores": {
+                "comet": 79.24803495407104
+            }
+        }
+    },
+    {
+        "index": 105,
+        "ST": "And he shot Peter Gregory by accident?",
+        "TT1": {
+            "text": "他误射了Peter Gregory？",
+            "scores": {
+                "comet": 72.82863259315491
+            }
+        },
+        "TT2": {
+            "text": "他误杀了彼得·格雷戈里？",
+            "scores": {
+                "comet": 83.20841193199158
+            }
+        },
+        "TT3": {
+            "text": "他意外射中了 Peter Gregory？",
+            "scores": {
+                "comet": 79.3596625328064
+            }
+        }
+    },
+    {
+        "index": 106,
+        "ST": "- Yeah.- No, he missed...",
+        "TT1": {
+            "text": "- 是的。- 不，他没有打中...",
+            "scores": {
+                "comet": 72.69299030303955
+            }
+        },
+        "TT2": {
+            "text": "- 是的。- 不，他没打中...",
+            "scores": {
+                "comet": 78.07536125183105
+            }
+        },
+        "TT3": {
+            "text": "- 是的。- 不，他没打中……",
+            "scores": {
+                "comet": 76.80583000183105
+            }
+        }
+    },
+    {
+        "index": 107,
+        "ST": "But I guess the sound of the gun startled Peter, who ran out of his tent and...",
+        "TT1": {
+            "text": "但我猜枪声把Peter吓到了，他跑出了帐篷，然后…",
+            "scores": {
+                "comet": 84.94863510131836
+            }
+        },
+        "TT2": {
+            "text": "但我猜枪声吓到了彼得，他跑出了帐篷…",
+            "scores": {
+                "comet": 85.83387732505798
+            }
+        },
+        "TT3": {
+            "text": "但我猜枪声吓到了 Peter，他跑出了帐篷……",
+            "scores": {
+                "comet": 84.93943214416504
+            }
+        }
+    },
+    {
+        "index": 108,
+        "ST": "Ran right into the hippo?",
+        "TT1": {
+            "text": "直接撞上了河马？",
+            "scores": {
+                "comet": 78.26476097106934
+            }
+        },
+        "TT2": {
+            "text": "跑向了河马？",
+            "scores": {
+                "comet": 62.88189888000488
+            }
+        },
+        "TT3": {
+            "text": "直接撞上了河马？",
+            "scores": {
+                "comet": 78.26476097106934
+            }
+        }
+    },
+    {
+        "index": 109,
+        "ST": "No, the hippo was also startled by the noise and had run off prior to Peter exiting his tent.",
+        "TT1": {
+            "text": "不，那头河马也被枪声吓到了，在Peter出帐篷之前就已经跑掉了。",
+            "scores": {
+                "comet": 80.95287084579468
+            }
+        },
+        "TT2": {
+            "text": "不，河马也被枪声吓到了，在彼得出帐篷前就跑掉了。",
+            "scores": {
+                "comet": 80.74309825897217
+            }
+        },
+        "TT3": {
+            "text": "不，河马也被枪声吓到了，在 Peter 出帐篷之前就跑了。",
+            "scores": {
+                "comet": 80.156809091568
+            }
+        }
+    },
+    {
+        "index": 110,
+        "ST": "So, what happened to Peter?",
+        "TT1": {
+            "text": "那么，Peter发生了什么？",
+            "scores": {
+                "comet": 76.6770601272583
+            }
+        },
+        "TT2": {
+            "text": "所以彼得发生了什么事？",
+            "scores": {
+                "comet": 83.83059501647949
+            }
+        },
+        "TT3": {
+            "text": "那 Peter 怎么了？",
+            "scores": {
+                "comet": 87.48037815093994
+            }
+        }
+    },
+    {
+        "index": 111,
+        "ST": "He hadn't run in a long time, maybe ever, and you know, he just…",
+        "TT1": {
+            "text": "他很久没跑过步了，也许从来没有跑过，你知道的，他就…",
+            "scores": {
+                "comet": 81.453537940979
+            }
+        },
+        "TT2": {
+            "text": "他很久没跑步了，可能从未跑过，你知道，他就...",
+            "scores": {
+                "comet": 83.32215547561646
+            }
+        },
+        "TT3": {
+            "text": "他已经很久没跑步了，可能从未跑过，然后你知道的，他就……",
+            "scores": {
+                "comet": 82.41493701934814
+            }
+        }
+    },
+    {
+        "index": 112,
+        "ST": "That was it.",
+        "TT1": {
+            "text": "就这么完了。",
+            "scores": {
+                "comet": 86.08815670013428
+            }
+        },
+        "TT2": {
+            "text": "那就结束了。",
+            "scores": {
+                "comet": 83.98892879486084
+            }
+        },
+        "TT3": {
+            "text": "就这样了。",
+            "scores": {
+                "comet": 85.37077903747559
+            }
+        }
+    },
+    {
+        "index": 113,
+        "ST": "- Uh.- Uh.",
+        "TT1": {
+            "text": "- 呃。- 呃。",
+            "scores": {
+                "comet": 83.247309923172
+            }
+        },
+        "TT2": {
+            "text": "- 呃。- 呃。",
+            "scores": {
+                "comet": 83.247309923172
+            }
+        },
+        "TT3": {
+            "text": "- 呃。- 呃。",
+            "scores": {
+                "comet": 83.247309923172
+            }
+        }
+    },
+    {
+        "index": 114,
+        "ST": "That is so very strange.",
+        "TT1": {
+            "text": "真是非常奇怪。",
+            "scores": {
+                "comet": 85.5809211730957
+            }
+        },
+        "TT2": {
+            "text": "那真是太奇怪了。",
+            "scores": {
+                "comet": 86.77551746368408
+            }
+        },
+        "TT3": {
+            "text": "这真是太奇怪了。",
+            "scores": {
+                "comet": 87.45781183242798
+            }
+        }
+    },
+    {
+        "index": 115,
+        "ST": "- Very sad and tragic. Wow.- Very sad and strange.",
+        "TT1": {
+            "text": "- 非常悲伤和悲惨。哇。- 非常悲伤和奇怪。",
+            "scores": {
+                "comet": 82.17341303825378
+            }
+        },
+        "TT2": {
+            "text": "- 非常悲伤和悲惨。哇。- 非常悲伤和奇怪。",
+            "scores": {
+                "comet": 82.17341303825378
+            }
+        },
+        "TT3": {
+            "text": "- 非常悲伤和可悲。哇。- 非常悲伤和奇怪。",
+            "scores": {
+                "comet": 83.7394118309021
+            }
+        }
+    },
+    {
+        "index": 116,
+        "ST": "See you.",
+        "TT1": {
+            "text": "再见。",
+            "scores": {
+                "comet": 85.84041595458984
+            }
+        },
+        "TT2": {
+            "text": "再见。",
+            "scores": {
+                "comet": 85.84041595458984
+            }
+        },
+        "TT3": {
+            "text": "再见。",
+            "scores": {
+                "comet": 85.84041595458984
+            }
+        }
+    },
+    {
+        "index": 117,
+        "ST": "Man, that is so weird.",
+        "TT1": {
+            "text": "伙计，这真是太怪了。",
+            "scores": {
+                "comet": 85.17952561378479
+            }
+        },
+        "TT2": {
+            "text": "伙计，那真是太奇怪了。",
+            "scores": {
+                "comet": 84.9743664264679
+            }
+        },
+        "TT3": {
+            "text": "天哪，这太奇怪了。",
+            "scores": {
+                "comet": 87.0492696762085
+            }
+        }
+    },
+    {
+        "index": 118,
+        "ST": "I mean, one minute Peter Gregory is here,the next, he's just gone.",
+        "TT1": {
+            "text": "我意思是，Peter Gregory还在这儿，转眼间，他就消失了。",
+            "scores": {
+                "comet": 83.10065269470215
+            }
+        },
+        "TT2": {
+            "text": "我的意思是，一分钟前彼得·格雷戈里还在这里，下一分钟，他就走了。",
+            "scores": {
+                "comet": 85.39784550666809
+            }
+        },
+        "TT3": {
+            "text": "我是说，一分钟 Peter Gregory 还在，下一分钟，他就消失了。",
+            "scores": {
+                "comet": 83.5073709487915
+            }
+        }
+    },
+    {
+        "index": 119,
+        "ST": "Jared, it's Erlich.",
+        "TT1": {
+            "text": "Jared，是Erlich。",
+            "scores": {
+                "comet": 84.12152528762817
+            }
+        },
+        "TT2": {
+            "text": "贾里德，是艾利克。",
+            "scores": {
+                "comet": 85.87032556533813
+            }
+        },
+        "TT3": {
+            "text": "Jared，是 Erlich。",
+            "scores": {
+                "comet": 80.06380796432495
+            }
+        }
+    },
+    {
+        "index": 120,
+        "ST": "I need you to set upall the other VC meetings, ASAP.",
+        "TT1": {
+            "text": "我需要你尽快安排所有其他的VC会议。",
+            "scores": {
+                "comet": 83.04457664489746
+            }
+        },
+        "TT2": {
+            "text": "我需要你马上安排所有其他风险投资会议。",
+            "scores": {
+                "comet": 85.52491664886475
+            }
+        },
+        "TT3": {
+            "text": "我需要你立即安排所有的风投会议。",
+            "scores": {
+                "comet": 82.1434736251831
+            }
+        }
+    },
+    {
+        "index": 121,
+        "ST": "Line 'em up nuts to butts.",
+        "TT1": {
+            "text": "把他们一个一个排好。",
+            "scores": {
+                "comet": 42.880779504776
+            }
+        },
+        "TT2": {
+            "text": "安排得密不透风。",
+            "scores": {
+                "comet": 37.24642097949982
+            }
+        },
+        "TT3": {
+            "text": "一个接一个的排满。",
+            "scores": {
+                "comet": 46.38006389141083
+            }
+        }
+    },
+    {
+        "index": 122,
+        "ST": "Erlich, what are you doing? Monicajust said they're still gonna fund us.",
+        "TT1": {
+            "text": "Erlich，你在干什么？Monica刚说他们还会资助我们。",
+            "scores": {
+                "comet": 82.60449171066284
+            }
+        },
+        "TT2": {
+            "text": "艾利克，你在干嘛？莫妮卡刚刚说他们还是会资助我们。",
+            "scores": {
+                "comet": 85.69774627685547
+            }
+        },
+        "TT3": {
+            "text": "Erlich，你在干什么？Monica刚才说他们还是会资助我们的。",
+            "scores": {
+                "comet": 84.49621200561523
+            }
+        }
+    },
+    {
+        "index": 123,
+        "ST": "We should just sit tight.",
+        "TT1": {
+            "text": "我们应该稳住阵脚。",
+            "scores": {
+                "comet": 76.91640853881836
+            }
+        },
+        "TT2": {
+            "text": "我们应该静观其变。",
+            "scores": {
+                "comet": 72.57682681083679
+            }
+        },
+        "TT3": {
+            "text": "我们应该坐等事情明朗。",
+            "scores": {
+                "comet": 71.05777263641357
+            }
+        }
+    },
+    {
+        "index": 124,
+        "ST": "Look, I loved Peter Gregorymaybe even more than he loved me,",
+        "TT1": {
+            "text": "看，我可能比Peter Gregory更爱他，",
+            "scores": {
+                "comet": 80.50727248191833
+            }
+        },
+        "TT2": {
+            "text": "听着，我爱彼得·格雷戈里，也许他爱我更多，",
+            "scores": {
+                "comet": 81.43482208251953
+            }
+        },
+        "TT3": {
+            "text": "听着，我爱 Peter Gregory可能比他爱我还多，",
+            "scores": {
+                "comet": 77.52469182014465
+            }
+        }
+    },
+    {
+        "index": 125,
+        "ST": "but there's somethingyou need to know here,",
+        "TT1": {
+            "text": "但有件事你得知道，",
+            "scores": {
+                "comet": 84.78912115097046
+            }
+        },
+        "TT2": {
+            "text": "但有些事情你需要知道，",
+            "scores": {
+                "comet": 84.30557250976562
+            }
+        },
+        "TT3": {
+            "text": "但你需要知道一件事，",
+            "scores": {
+                "comet": 84.7013533115387
+            }
+        }
+    },
+    {
+        "index": 126,
+        "ST": "something that Monicaisn't exactly volunteering up,",
+        "TT1": {
+            "text": "Monica并没有明确提到这一点，",
+            "scores": {
+                "comet": 60.57206988334656
+            }
+        },
+        "TT2": {
+            "text": "莫妮卡不愿意直接告诉你，",
+            "scores": {
+                "comet": 50.576090812683105
+            }
+        },
+        "TT3": {
+            "text": "Monica 并没有主动告诉你，",
+            "scores": {
+                "comet": 53.699856996536255
+            }
+        }
+    },
+    {
+        "index": 127,
+        "ST": "and that's that all of these one-man firmshave a key-man clause.",
+        "TT1": {
+            "text": "那就是所有这些一人公司都有一个关键人物条款。",
+            "scores": {
+                "comet": 76.71407461166382
+            }
+        },
+        "TT2": {
+            "text": "那就是所有这些一人公司都有关键人条款。",
+            "scores": {
+                "comet": 75.01195073127747
+            }
+        },
+        "TT3": {
+            "text": "那就是这些独立风投公司都有一个关键人物条款。",
+            "scores": {
+                "comet": 72.71155118942261
+            }
+        }
+    },
+    {
+        "index": 128,
+        "ST": "- Do you know what that means?- No.",
+        "TT1": {
+            "text": "- 你知道那是什么意思吗？- 不。",
+            "scores": {
+                "comet": 88.31787109375
+            }
+        },
+        "TT2": {
+            "text": "- 你知道那是什么意思吗？- 不。",
+            "scores": {
+                "comet": 88.31787109375
+            }
+        },
+        "TT3": {
+            "text": "- 你知道这意味着什么吗？- 不知道。",
+            "scores": {
+                "comet": 88.26957941055298
+            }
+        }
+    },
+    {
+        "index": 129,
+        "ST": "It means that now that Peter Gregory is gone, all the Raviga investors have the contractual right to cash out and walk away,",
+        "TT1": {
+            "text": "这意味着现在Peter Gregory不在了，所有Raviga的投资者有合同权利兑现并离开，",
+            "scores": {
+                "comet": 74.9174177646637
+            }
+        },
+        "TT2": {
+            "text": "这意味着现在彼得·格雷戈里不在了，所有Raviga的投资者都有合同权利兑现并退出，",
+            "scores": {
+                "comet": 79.04931306838989
+            }
+        },
+        "TT3": {
+            "text": "这意味着现在 Peter Gregory 不在了，所有 Raviga 的投资者都有合同权利套现走人，",
+            "scores": {
+                "comet": 82.05181360244751
+            }
+        }
+    },
+    {
+        "index": 130,
+        "ST": "which means that by the end of the day,there may not be a Raviga.",
+        "TT1": {
+            "text": "这意味着到今天结束时，Raviga可能不复存在。",
+            "scores": {
+                "comet": 77.77482271194458
+            }
+        },
+        "TT2": {
+            "text": "这意味着今天结束前，可能就没有Raviga了。",
+            "scores": {
+                "comet": 76.25673413276672
+            }
+        },
+        "TT3": {
+            "text": "这意味着到今天结束时，Raviga 可能就不复存在了。",
+            "scores": {
+                "comet": 79.17057275772095
+            }
+        }
+    },
+    {
+        "index": 131,
+        "ST": "- Seriously?- Yes, so we have to prepare for that.",
+        "TT1": {
+            "text": "- 认真的吗？- 是的，所以我们必须为此做好准备。",
+            "scores": {
+                "comet": 87.15640306472778
+            }
+        },
+        "TT2": {
+            "text": "- 真的？- 是的，所以我们必须为此做好准备。",
+            "scores": {
+                "comet": 87.41297721862793
+            }
+        },
+        "TT3": {
+            "text": "- 真的？- 是的，所以我们必须为此做好准备。",
+            "scores": {
+                "comet": 87.41297721862793
+            }
+        }
+    },
+    {
+        "index": 132,
+        "ST": "Now, I know that it makes me sound like a terrible person, but we have a company to run.",
+        "TT1": {
+            "text": "现在，我知道这让我听起来像个可怕的人，但我们有一家公司要运营。",
+            "scores": {
+                "comet": 78.36381793022156
+            }
+        },
+        "TT2": {
+            "text": "现在，我知道这让我听起来像个糟糕的人，但我们有一家公司要经营。",
+            "scores": {
+                "comet": 79.23016548156738
+            }
+        },
+        "TT3": {
+            "text": "现在，我知道这让我听起来像个坏人，但我们有一家公司要经营。",
+            "scores": {
+                "comet": 81.2739908695221
+            }
+        }
+    },
+    {
+        "index": 133,
+        "ST": "And do you know whothe first person to agree with me would be?",
+        "TT1": {
+            "text": "你知道第一个同意我说法的人会是谁吗？",
+            "scores": {
+                "comet": 85.75401306152344
+            }
+        },
+        "TT2": {
+            "text": "你知道第一个会同意我的人是谁吗？",
+            "scores": {
+                "comet": 85.35135388374329
+            }
+        },
+        "TT3": {
+            "text": "你知道第一个会同意我说法的人是谁吗？",
+            "scores": {
+                "comet": 84.7725510597229
+            }
+        }
+    },
+    {
+        "index": 134,
+        "ST": "Peter Gregory.",
+        "TT1": {
+            "text": "Peter Gregory。",
+            "scores": {
+                "comet": 86.86267137527466
+            }
+        },
+        "TT2": {
+            "text": "彼得·格雷戈里。",
+            "scores": {
+                "comet": 86.91055178642273
+            }
+        },
+        "TT3": {
+            "text": "Peter Gregory。",
+            "scores": {
+                "comet": 86.86267137527466
+            }
+        }
+    },
+    {
+        "index": 135,
+        "ST": "And that is the very first spot in our new campaign heralding the upcoming release of Nucleus this January at CES.",
+        "TT1": {
+            "text": "这就是我们新广告的第一个位置，宣布Nucleus将在CES的一月发布。",
+            "scores": {
+                "comet": 69.18372511863708
+            }
+        },
+        "TT2": {
+            "text": "这就是我们新广告中的第一个位置，它预示了Nucleus将在一月CES上发布。",
+            "scores": {
+                "comet": 78.0417799949646
+            }
+        },
+        "TT3": {
+            "text": "这就是我们新宣传片的第一部分，宣告了 Nucleus 将于今年一月在 CES 发布。",
+            "scores": {
+                "comet": 79.97574806213379
+            }
+        }
+    },
+    {
+        "index": 136,
+        "ST": "- Any questions?- I have a question.",
+        "TT1": {
+            "text": "- 有问题吗？- 我有个问题。",
+            "scores": {
+                "comet": 87.33713626861572
+            }
+        },
+        "TT2": {
+            "text": "- 有问题吗？- 我有个问题。",
+            "scores": {
+                "comet": 87.33713626861572
+            }
+        },
+        "TT3": {
+            "text": "- 有问题吗？- 我有个问题。",
+            "scores": {
+                "comet": 87.33713626861572
+            }
+        }
+    },
+    {
+        "index": 137,
+        "ST": "That was horrible.",
+        "TT1": {
+            "text": "那太糟糕了。",
+            "scores": {
+                "comet": 87.37988471984863
+            }
+        },
+        "TT2": {
+            "text": "这真是糟透了。",
+            "scores": {
+                "comet": 86.70890927314758
+            }
+        },
+        "TT3": {
+            "text": "那真是太糟糕了。",
+            "scores": {
+                "comet": 87.4679446220398
+            }
+        }
+    },
+    {
+        "index": 138,
+        "ST": "I just got humiliated by a fucking teenager at TechCrunch Disrupt, and you give me this tampon ad?",
+        "TT1": {
+            "text": "我刚刚在TechCrunch Disrupt上被一个该死的青少年羞辱了，然后你给我这支卫生巾广告？",
+            "scores": {
+                "comet": 79.72525358200073
+            }
+        },
+        "TT2": {
+            "text": "我刚在TechCrunch Disrupt上被一个该死的青少年羞辱了，你给我这个卫生巾广告？",
+            "scores": {
+                "comet": 78.82717847824097
+            }
+        },
+        "TT3": {
+            "text": "我刚在 TechCrunch Disrupt 上被一个该死的青少年羞辱，你给我做了这个卫生巾广告？",
+            "scores": {
+                "comet": 78.58130931854248
+            }
+        }
+    },
+    {
+        "index": 139,
+        "ST": "A girl with diabetes on a swing?",
+        "TT1": {
+            "text": "一个得糖尿病的女孩在秋千上？",
+            "scores": {
+                "comet": 80.42376041412354
+            }
+        },
+        "TT2": {
+            "text": "一个有糖尿病的女孩在荡秋千？",
+            "scores": {
+                "comet": 81.13112449645996
+            }
+        },
+        "TT3": {
+            "text": "一个糖尿病女孩在秋千上？",
+            "scores": {
+                "comet": 79.77231740951538
+            }
+        }
+    },
+    {
+        "index": 140,
+        "ST": "- I think she has cancer.- Yeah.",
+        "TT1": {
+            "text": "- 我想她得了癌症。- 是的。",
+            "scores": {
+                "comet": 88.66362571716309
+            }
+        },
+        "TT2": {
+            "text": "- 我想她得了癌症。- 是的。",
+            "scores": {
+                "comet": 88.66362571716309
+            }
+        },
+        "TT3": {
+            "text": "- 我想她得了癌症。- 是的。",
+            "scores": {
+                "comet": 88.66362571716309
+            }
+        }
+    },
+    {
+        "index": 141,
+        "ST": "At least that's how I read it.",
+        "TT1": {
+            "text": "至少我是这么理解的。",
+            "scores": {
+                "comet": 85.34181118011475
+            }
+        },
+        "TT2": {
+            "text": "至少我是这么理解的。",
+            "scores": {
+                "comet": 85.34181118011475
+            }
+        },
+        "TT3": {
+            "text": "至少我是这么理解的。",
+            "scores": {
+                "comet": 85.34181118011475
+            }
+        }
+    },
+    {
+        "index": 142,
+        "ST": "I don't care what kind of disease she had!",
+        "TT1": {
+            "text": "我不在乎她得了什么病！",
+            "scores": {
+                "comet": 87.3645544052124
+            }
+        },
+        "TT2": {
+            "text": "我不在乎她得了什么病！",
+            "scores": {
+                "comet": 87.3645544052124
+            }
+        },
+        "TT3": {
+            "text": "我不在乎她得了什么病！",
+            "scores": {
+                "comet": 87.3645544052124
+            }
+        }
+    },
+    {
+        "index": 143,
+        "ST": "All I care about is thatNucleus is better than Pied Piper.",
+        "TT1": {
+            "text": "我只在乎Nucleus比Pied Piper更好。",
+            "scores": {
+                "comet": 83.08281302452087
+            }
+        },
+        "TT2": {
+            "text": "我只关心Nucleus比派派iper好。",
+            "scores": {
+                "comet": 69.81285810470581
+            }
+        },
+        "TT3": {
+            "text": "我只关心 Nucleus 比 Pied Piper 更好。",
+            "scores": {
+                "comet": 81.86008930206299
+            }
+        }
+    },
+    {
+        "index": 144,
+        "ST": "Hendricks just left us all in the dust.",
+        "TT1": {
+            "text": "Hendricks甩了我们一大截。",
+            "scores": {
+                "comet": 58.16493034362793
+            }
+        },
+        "TT2": {
+            "text": "亨德里克斯刚刚把我们所有人都甩在了后面。",
+            "scores": {
+                "comet": 75.91509819030762
+            }
+        },
+        "TT3": {
+            "text": "Hendricks 甩开了我们所有人。",
+            "scores": {
+                "comet": 56.03453516960144
+            }
+        }
+    },
+    {
+        "index": 145,
+        "ST": "If we get this wrong, we could blow the business opportunity of a lifetime!",
+        "TT1": {
+            "text": "如果我们搞砸了，我们可能会错失一生一次的商业机会！",
+            "scores": {
+                "comet": 85.92971563339233
+            }
+        },
+        "TT2": {
+            "text": "如果我们搞砸了，我们可能会失去一生难逢的商业机会！",
+            "scores": {
+                "comet": 85.45001745223999
+            }
+        },
+        "TT3": {
+            "text": "如果我们搞砸了这次机会，我们可能会错失千载难逢的商业机会！",
+            "scores": {
+                "comet": 85.11977195739746
+            }
+        }
+    },
+    {
+        "index": 146,
+        "ST": "Data creation is exploding.",
+        "TT1": {
+            "text": "数据创建正在爆炸性增长。",
+            "scores": {
+                "comet": 81.7178726196289
+            }
+        },
+        "TT2": {
+            "text": "数据生成正在爆炸。",
+            "scores": {
+                "comet": 70.09189128875732
+            }
+        },
+        "TT3": {
+            "text": "数据正在爆炸式增长。",
+            "scores": {
+                "comet": 82.04078674316406
+            }
+        }
+    },
+    {
+        "index": 147,
+        "ST": "With all the selfies and useless files people refuse to delete on the cloud, 92% of the world's data was created in the last two years alone.",
+        "TT1": {
+            "text": "随着所有自拍和人们拒绝删除的无用文件，世界92%的数据仅在过去两年内创建。",
+            "scores": {
+                "comet": 69.20866966247559
+            }
+        },
+        "TT2": {
+            "text": "所有的自拍和人们不愿意删除的无用文件，世界上92%的数据都是在过去两年内生成的。",
+            "scores": {
+                "comet": 76.54192447662354
+            }
+        },
+        "TT3": {
+            "text": "随着人们拍摄自拍照和在云端保存无用文件，全球 92% 的数据是在过去两年内创建的。",
+            "scores": {
+                "comet": 80.15804290771484
+            }
+        }
+    },
+    {
+        "index": 148,
+        "ST": "At the current rate, the world's data storage capacity will be overtaken by next spring.",
+        "TT1": {
+            "text": "按目前的速度，全球的数据存储容量将在明年春天耗尽。",
+            "scores": {
+                "comet": 86.74594163894653
+            }
+        },
+        "TT2": {
+            "text": "按目前的速度，世界的数据存储容量将在明年春天超出。",
+            "scores": {
+                "comet": 76.20594501495361
+            }
+        },
+        "TT3": {
+            "text": "按目前的速度，全球数据存储容量将在明年春天达到极限。",
+            "scores": {
+                "comet": 86.42631769180298
+            }
+        }
+    },
+    {
+        "index": 149,
+        "ST": "It will be nothing short of a catastrophe.",
+        "TT1": {
+            "text": "这将是一场灾难。",
+            "scores": {
+                "comet": 84.16147232055664
+            }
+        },
+        "TT2": {
+            "text": "这将是一场彻底的灾难。",
+            "scores": {
+                "comet": 84.56485867500305
+            }
+        },
+        "TT3": {
+            "text": "这将是场灾难。",
+            "scores": {
+                "comet": 81.85750246047974
+            }
+        }
+    },
+    {
+        "index": 150,
+        "ST": "Data shortages, data rationing,data black markets.",
+        "TT1": {
+            "text": "数据短缺、数据配给、数据黑市。",
+            "scores": {
+                "comet": 84.25683379173279
+            }
+        },
+        "TT2": {
+            "text": "数据短缺，数据定量，数据黑市。",
+            "scores": {
+                "comet": 85.90997457504272
+            }
+        },
+        "TT3": {
+            "text": "数据短缺、数据配给、数据黑市。",
+            "scores": {
+                "comet": 84.25683379173279
+            }
+        }
+    },
+    {
+        "index": 151,
+        "ST": "Someone's compression will save the world from data-geddon, and it sure as hell better be Nucleus and not goddamn Pied Piper!",
+        "TT1": {
+            "text": "有人会通过压缩技术拯救世界免于数据末日，它肯定会是Nucleus而不是该死的Pied Piper！",
+            "scores": {
+                "comet": 80.3257942199707
+            }
+        },
+        "TT2": {
+            "text": "某人的压缩技术将拯救世界免于数据末日，它最好是Nucleus，而不是该死的派派iper！",
+            "scores": {
+                "comet": 66.46826267242432
+            }
+        },
+        "TT3": {
+            "text": "某人的压缩技术将拯救世界免于数据浩劫，而这绝对应该是 Nucleus，而不是该死的 Pied Piper！",
+            "scores": {
+                "comet": 79.95697259902954
+            }
+        }
+    },
+    {
+        "index": 152,
+        "ST": "I don't know about you people, but I don't wanna live in a world where someone else makes the world a better place better than we do.",
+        "TT1": {
+            "text": "我不知道你们怎么想，但我不想生活在一个别人把世界改善得比我们更好的世界里。",
+            "scores": {
+                "comet": 83.92897248268127
+            }
+        },
+        "TT2": {
+            "text": "我不知道你们这些人怎么样，但我不想生活在一个有人比我们更能让世界变得更好的地方。",
+            "scores": {
+                "comet": 82.77470469474792
+            }
+        },
+        "TT3": {
+            "text": "我不知道你们怎么想，但我不想生活在一个别人比我们更好地改善世界的地方。",
+            "scores": {
+                "comet": 82.95872211456299
+            }
+        }
+    },
+    {
+        "index": 153,
+        "ST": "\"Data-geddon.\" Is he married to that, or...",
+        "TT1": {
+            "text": "“数据末日。”他执着于这个词吗，还是...",
+            "scores": {
+                "comet": 72.77684211730957
+            }
+        },
+        "TT2": {
+            "text": "“数据末日。”他是不是执着于这个？",
+            "scores": {
+                "comet": 75.67210793495178
+            }
+        },
+        "TT3": {
+            "text": "“数据浩劫。”他非要用这个词吗，还是……",
+            "scores": {
+                "comet": 65.08464813232422
+            }
+        }
+    },
+    {
+        "index": 154,
+        "ST": "There's just been a lotof \"geddons\" lately.",
+        "TT1": {
+            "text": "最近有很多“末日”呢。",
+            "scores": {
+                "comet": 70.88627815246582
+            }
+        },
+        "TT2": {
+            "text": "最近有很多“末日”。",
+            "scores": {
+                "comet": 71.81523442268372
+            }
+        },
+        "TT3": {
+            "text": "最近的“浩劫”实在太多了。",
+            "scores": {
+                "comet": 75.98143815994263
+            }
+        }
+    },
+    {
+        "index": 155,
+        "ST": "That's true.\"Snow-mageddon,\" \"car-mageddon.\"",
+        "TT1": {
+            "text": "确实有。“雪末日”、“车末日”。",
+            "scores": {
+                "comet": 78.54546308517456
+            }
+        },
+        "TT2": {
+            "text": "是啊。“雪末日”，“车末日”。",
+            "scores": {
+                "comet": 83.90204906463623
+            }
+        },
+        "TT3": {
+            "text": "确实如此。“雪灾浩劫”，“车灾浩劫”。",
+            "scores": {
+                "comet": 83.83165001869202
+            }
+        }
+    },
+    {
+        "index": 156,
+        "ST": "There's that movie Armageddon.",
+        "TT1": {
+            "text": "还有那部电影《世界末日》。",
+            "scores": {
+                "comet": 85.75640320777893
+            }
+        },
+        "TT2": {
+            "text": "还有那部电影《末日审判》。",
+            "scores": {
+                "comet": 85.21794080734253
+            }
+        },
+        "TT3": {
+            "text": "还有那部电影《世界末日》。",
+            "scores": {
+                "comet": 85.75640320777893
+            }
+        }
+    },
+    {
+        "index": 157,
+        "ST": "Laurie, you wanted to see me?",
+        "TT1": {
+            "text": "Laurie，你要见我？",
+            "scores": {
+                "comet": 85.27392745018005
+            }
+        },
+        "TT2": {
+            "text": "洛瑞，你找我？",
+            "scores": {
+                "comet": 66.20820760726929
+            }
+        },
+        "TT3": {
+            "text": "Laurie，你找我？",
+            "scores": {
+                "comet": 64.71786499023438
+            }
+        }
+    },
+    {
+        "index": 158,
+        "ST": "Monica, come in, come in. I'm sure you've heard by now that I've been named our new managing partner.",
+        "TT1": {
+            "text": "Monica，请进，请进。我相信你已经知道我被任命为新的管理合伙人了。",
+            "scores": {
+                "comet": 82.65742063522339
+            }
+        },
+        "TT2": {
+            "text": "莫妮卡，进来，进来。我敢肯定你已经听说了我被任命为新的管理合伙人。",
+            "scores": {
+                "comet": 83.52426290512085
+            }
+        },
+        "TT3": {
+            "text": "Monica，进来，进来。你应该已经听说我被任命为我们的新管理合伙人了。",
+            "scores": {
+                "comet": 84.49951410293579
+            }
+        }
+    },
+    {
+        "index": 159,
+        "ST": "Yes. Congratulations.",
+        "TT1": {
+            "text": "是的。恭喜你。",
+            "scores": {
+                "comet": 87.35408782958984
+            }
+        },
+        "TT2": {
+            "text": "是的。恭喜。",
+            "scores": {
+                "comet": 87.34160661697388
+            }
+        },
+        "TT3": {
+            "text": "是的。恭喜你。",
+            "scores": {
+                "comet": 87.35408186912537
+            }
+        }
+    },
+    {
+        "index": 160,
+        "ST": "Did the limited partners tell youhow they made their decision?",
+        "TT1": {
+            "text": "有限合伙人告诉你他们是如何做出决定的吗？",
+            "scores": {
+                "comet": 85.40714383125305
+            }
+        },
+        "TT2": {
+            "text": "有限合伙人是怎么做出决定的？",
+            "scores": {
+                "comet": 82.18386173248291
+            }
+        },
+        "TT3": {
+            "text": "有限合伙人告诉你他们是如何做出决定的吗？",
+            "scores": {
+                "comet": 85.40714383125305
+            }
+        }
+    },
+    {
+        "index": 161,
+        "ST": "Oh. They looked at the portfolio performances of each of the senior partners over the last several funds, and my numbers were, objectively, the most favorable.",
+        "TT1": {
+            "text": "哦。他们查看了每位高级合伙人在过去几只基金中的投资组合表现，而我的数字是，客观上最有利的。",
+            "scores": {
+                "comet": 79.7619640827179
+            }
+        },
+        "TT2": {
+            "text": "哦。他们查看了每位高级合伙人在最近几只基金中的投资组合表现，我的数字是，客观上来说，最有利的。",
+            "scores": {
+                "comet": 79.79927659034729
+            }
+        },
+        "TT3": {
+            "text": "哦。他们查看了各高级合伙人在过去几轮基金中的业绩表现，而我的数据是客观上最有利的。",
+            "scores": {
+                "comet": 80.98505139350891
+            }
+        }
+    },
+    {
+        "index": 162,
+        "ST": "Therefore, I was selected.",
+        "TT1": {
+            "text": "因此，我被选中了。",
+            "scores": {
+                "comet": 86.46910190582275
+            }
+        },
+        "TT2": {
+            "text": "因此，我被选中了。",
+            "scores": {
+                "comet": 86.46910190582275
+            }
+        },
+        "TT3": {
+            "text": "所以，我被选中了。",
+            "scores": {
+                "comet": 86.5557610988617
+            }
+        }
+    },
+    {
+        "index": 163,
+        "ST": "Yeah, it's just managing partner is all about meeting with people and interacting with people.",
+        "TT1": {
+            "text": "是啊，只是管理合伙人涉及到与人见面和与人互动。",
+            "scores": {
+                "comet": 69.8946475982666
+            }
+        },
+        "TT2": {
+            "text": "是啊，只是管理合伙人主要是和人打交道，和人互动。",
+            "scores": {
+                "comet": 78.68666052818298
+            }
+        },
+        "TT3": {
+            "text": "是的，只是管理合伙人需要与人会面和互动。",
+            "scores": {
+                "comet": 80.33047914505005
+            }
+        }
+    },
+    {
+        "index": 164,
+        "ST": "You can sit down if you want to.Do you want to?",
+        "TT1": {
+            "text": "如果你想坐下可以坐下。你想坐下吗？",
+            "scores": {
+                "comet": 81.10224604606628
+            }
+        },
+        "TT2": {
+            "text": "你可以坐下，如果你想坐的话。你想吗？",
+            "scores": {
+                "comet": 82.1580171585083
+            }
+        },
+        "TT3": {
+            "text": "如果你想坐下，可以坐。你想坐吗？",
+            "scores": {
+                "comet": 80.8893084526062
+            }
+        }
+    },
+    {
+        "index": 165,
+        "ST": "- Oh...- Or should we stand?",
+        "TT1": {
+            "text": "- 哦...- 还是我们该站着？",
+            "scores": {
+                "comet": 80.17548322677612
+            }
+        },
+        "TT2": {
+            "text": "- 哦...- 还是我们站着？",
+            "scores": {
+                "comet": 69.901442527771
+            }
+        },
+        "TT3": {
+            "text": "- 哦……- 或者我们站着？",
+            "scores": {
+                "comet": 63.7012243270874
+            }
+        }
+    },
+    {
+        "index": 166,
+        "ST": "Uh... I... Whatever...",
+        "TT1": {
+            "text": "呃... 我... 无所谓...",
+            "scores": {
+                "comet": 82.78464674949646
+            }
+        },
+        "TT2": {
+            "text": "呃...我...随便...",
+            "scores": {
+                "comet": 77.42332220077515
+            }
+        },
+        "TT3": {
+            "text": "呃……我……随便……",
+            "scores": {
+                "comet": 76.23080015182495
+            }
+        }
+    },
+    {
+        "index": 167,
+        "ST": "- I'm standing...- Okay.",
+        "TT1": {
+            "text": "- 我站着...- 好的。",
+            "scores": {
+                "comet": 81.0596764087677
+            }
+        },
+        "TT2": {
+            "text": "- 我站着...- 好吧。",
+            "scores": {
+                "comet": 81.65899515151978
+            }
+        },
+        "TT3": {
+            "text": "- 我站着……- 好吧。",
+            "scores": {
+                "comet": 81.72168135643005
+            }
+        }
+    },
+    {
+        "index": 168,
+        "ST": "But you don't have to.",
+        "TT1": {
+            "text": "但你不必站着。",
+            "scores": {
+                "comet": 65.60503244400024
+            }
+        },
+        "TT2": {
+            "text": "但你不用。",
+            "scores": {
+                "comet": 83.6577296257019
+            }
+        },
+        "TT3": {
+            "text": "不过你不必站着。",
+            "scores": {
+                "comet": 66.85745120048523
+            }
+        }
+    },
+    {
+        "index": 169,
+        "ST": "- Okay.- Would it make you feel awkward to sit?",
+        "TT1": {
+            "text": "- 好的。- 坐下会让你觉得尴尬吗？",
+            "scores": {
+                "comet": 83.95799398422241
+            }
+        },
+        "TT2": {
+            "text": "- 好吧。- 坐下会让你觉得尴尬吗？",
+            "scores": {
+                "comet": 84.24161672592163
+            }
+        },
+        "TT3": {
+            "text": "- 好吧。- 坐下会让你感到尴尬吗？",
+            "scores": {
+                "comet": 84.2347800731659
+            }
+        }
+    },
+    {
+        "index": 170,
+        "ST": "I'm okay to stand.",
+        "TT1": {
+            "text": "我站着也没事。",
+            "scores": {
+                "comet": 83.07805061340332
+            }
+        },
+        "TT2": {
+            "text": "我站着没问题。",
+            "scores": {
+                "comet": 82.12114572525024
+            }
+        },
+        "TT3": {
+            "text": "我站着也可以。",
+            "scores": {
+                "comet": 80.99707365036011
+            }
+        }
+    },
+    {
+        "index": 171,
+        "ST": "- Monica...- Of course.",
+        "TT1": {
+            "text": "- Monica...- 当然。",
+            "scores": {
+                "comet": 86.73973083496094
+            }
+        },
+        "TT2": {
+            "text": "- 莫妮卡...- 当然。",
+            "scores": {
+                "comet": 86.26642227172852
+            }
+        },
+        "TT3": {
+            "text": "- Monica……- 当然。",
+            "scores": {
+                "comet": 86.60334348678589
+            }
+        }
+    },
+    {
+        "index": 172,
+        "ST": "Peter Gregory is dead.",
+        "TT1": {
+            "text": "Peter Gregory死了。",
+            "scores": {
+                "comet": 88.88503313064575
+            }
+        },
+        "TT2": {
+            "text": "彼得·格雷戈里死了。",
+            "scores": {
+                "comet": 88.5583221912384
+            }
+        },
+        "TT3": {
+            "text": "Peter Gregory 死了。",
+            "scores": {
+                "comet": 89.47818279266357
+            }
+        }
+    },
+    {
+        "index": 173,
+        "ST": "Yes, I know.",
+        "TT1": {
+            "text": "是的，我知道。",
+            "scores": {
+                "comet": 87.06456422805786
+            }
+        },
+        "TT2": {
+            "text": "是的，我知道。",
+            "scores": {
+                "comet": 87.06456422805786
+            }
+        },
+        "TT3": {
+            "text": "是的，我知道。",
+            "scores": {
+                "comet": 87.06456422805786
+            }
+        }
+    },
+    {
+        "index": 174,
+        "ST": "On a personal note, his death is very sad.",
+        "TT1": {
+            "text": "就个人而言，他的去世非常悲伤。",
+            "scores": {
+                "comet": 85.84073781967163
+            }
+        },
+        "TT2": {
+            "text": "从个人角度来说，他的死很悲伤。",
+            "scores": {
+                "comet": 86.87207698822021
+            }
+        },
+        "TT3": {
+            "text": "从个人角度来说，他的去世非常悲伤。",
+            "scores": {
+                "comet": 86.37704849243164
+            }
+        }
+    },
+    {
+        "index": 175,
+        "ST": "But on a professionallevel, it's untenable.",
+        "TT1": {
+            "text": "但在职业层面，这是不可接受的。",
+            "scores": {
+                "comet": 84.68753695487976
+            }
+        },
+        "TT2": {
+            "text": "但从职业角度来说，这是不可接受的。",
+            "scores": {
+                "comet": 86.02325916290283
+            }
+        },
+        "TT3": {
+            "text": "但从专业角度来说，这是不可接受的。",
+            "scores": {
+                "comet": 86.19803190231323
+            }
+        }
+    },
+    {
+        "index": 176,
+        "ST": "I've been reviewing his files.",
+        "TT1": {
+            "text": "我一直在审查他的文件。",
+            "scores": {
+                "comet": 86.48040294647217
+            }
+        },
+        "TT2": {
+            "text": "我一直在审查他的文件。",
+            "scores": {
+                "comet": 86.48040294647217
+            }
+        },
+        "TT3": {
+            "text": "我已经在审查他的文件。",
+            "scores": {
+                "comet": 85.45878529548645
+            }
+        }
+    },
+    {
+        "index": 177,
+        "ST": "He was pursuing a numberof extremely dubious positions.",
+        "TT1": {
+            "text": "他在追求一些极其可疑的项目。",
+            "scores": {
+                "comet": 74.12055730819702
+            }
+        },
+        "TT2": {
+            "text": "他在追求一些极为可疑的投资。",
+            "scores": {
+                "comet": 63.90198469161987
+            }
+        },
+        "TT3": {
+            "text": "他在追求一些极其可疑的投资方向。",
+            "scores": {
+                "comet": 73.70296716690063
+            }
+        }
+    },
+    {
+        "index": 178,
+        "ST": "Are you aware that we own a $30 million ostrich farm in Morocco, or that we are the majority stakeholders in three companies that specialize in invisibility?",
+        "TT1": {
+            "text": "你知道我们在摩洛哥拥有一个价值3000万美元的鸵鸟农场吗，或者我们是三家专门研究隐形技术公司的大股东？",
+            "scores": {
+                "comet": 85.14219522476196
+            }
+        },
+        "TT2": {
+            "text": "你知道我们在摩洛哥拥有价值3000万美元的鸵鸟农场吗，或者我们是三家专门从事隐形技术公司的大股东？",
+            "scores": {
+                "comet": 85.23284792900085
+            }
+        },
+        "TT3": {
+            "text": "你知道我们拥有摩洛哥价值 3000 万美元的鸵鸟农场吗，或者我们是三家隐形技术公司最大的股东吗？",
+            "scores": {
+                "comet": 84.93356108665466
+            }
+        }
+    },
+    {
+        "index": 179,
+        "ST": "This box is filled with napkins covered with notes detailing Peter's conviction that genetically-modified cranberry fungus would become the next cotton.",
+        "TT1": {
+            "text": "这个盒子里装满了纸巾，上面写满了Peter坚信转基因蔓越莓菌会成为下一代棉花的笔记。",
+            "scores": {
+                "comet": 82.54838585853577
+            }
+        },
+        "TT2": {
+            "text": "这个盒子里装满了纸巾，上面写满了彼得坚信的基因改良蔓越莓菌会成为下一个棉花的笔记。",
+            "scores": {
+                "comet": 79.1888952255249
+            }
+        },
+        "TT3": {
+            "text": "这个盒子里装满了餐巾纸，上面写满了 Peter 的构想，他认为转基因蔓越莓真菌将成为下一个棉花。",
+            "scores": {
+                "comet": 84.5526933670044
+            }
+        }
+    },
+    {
+        "index": 180,
+        "ST": "- That... That one I remember.- Yes.",
+        "TT1": {
+            "text": "- 那个... 我记得。- 是的。",
+            "scores": {
+                "comet": 82.67167806625366
+            }
+        },
+        "TT2": {
+            "text": "- 那个...我记得那个。- 是的。",
+            "scores": {
+                "comet": 83.6220383644104
+            }
+        },
+        "TT3": {
+            "text": "- 那个……我记得。- 是的。",
+            "scores": {
+                "comet": 82.58248567581177
+            }
+        }
+    },
+    {
+        "index": 181,
+        "ST": "- Monica.- Mmm-hmm.",
+        "TT1": {
+            "text": "- Monica。- 嗯。",
+            "scores": {
+                "comet": 86.00416779518127
+            }
+        },
+        "TT2": {
+            "text": "- 莫妮卡。- 嗯。",
+            "scores": {
+                "comet": 85.79864501953125
+            }
+        },
+        "TT3": {
+            "text": "- Monica。- 嗯哼。",
+            "scores": {
+                "comet": 85.71724891662598
+            }
+        }
+    },
+    {
+        "index": 182,
+        "ST": "Peter Gregory is dead.",
+        "TT1": {
+            "text": "Peter Gregory死了。",
+            "scores": {
+                "comet": 88.88503313064575
+            }
+        },
+        "TT2": {
+            "text": "彼得·格雷戈里死了。",
+            "scores": {
+                "comet": 88.55832815170288
+            }
+        },
+        "TT3": {
+            "text": "Peter Gregory 死了。",
+            "scores": {
+                "comet": 89.47817087173462
+            }
+        }
+    },
+    {
+        "index": 183,
+        "ST": "- Yes. - We need to seem competitive, now more than ever, to our investors as well as to the industry at large.",
+        "TT1": {
+            "text": "- 是的。- 现在比以往任何时候都更需要我们看起来有竞争力，无论是对我们的投资者还是对整个行业。",
+            "scores": {
+                "comet": 85.28790473937988
+            }
+        },
+        "TT2": {
+            "text": "- 是的。- 我们现在比以往任何时候都需要表现得有竞争力，对我们的投资者以及整个行业。",
+            "scores": {
+                "comet": 81.94034099578857
+            }
+        },
+        "TT3": {
+            "text": "- 是的。- 我们需要看起来很有竞争力，现在比以往任何时候都重要，无论是对投资者，还是对整个行业。",
+            "scores": {
+                "comet": 81.6454291343689
+            }
+        }
+    },
+    {
+        "index": 184,
+        "ST": "Well, I mean, Pied Piper is probably the hottest early investment in town right now, and we have them.",
+        "TT1": {
+            "text": "嗯，我的意思是，Pied Piper可能是目前最火的早期投资，而我们拥有他们。",
+            "scores": {
+                "comet": 73.85182976722717
+            }
+        },
+        "TT2": {
+            "text": "嗯，我的意思是，派派iper可能是目前最热门的早期投资了，而我们拥有他们。",
+            "scores": {
+                "comet": 62.8614604473114
+            }
+        },
+        "TT3": {
+            "text": "嗯，我是说，Pied Piper 可能是现在最炙手可热的早期投资，而我们拥有它们。",
+            "scores": {
+                "comet": 78.69731187820435
+            }
+        }
+    },
+    {
+        "index": 185,
+        "ST": "Do we?",
+        "TT1": {
+            "text": "我们真的拥有吗？",
+            "scores": {
+                "comet": 64.26340937614441
+            }
+        },
+        "TT2": {
+            "text": "是吗？",
+            "scores": {
+                "comet": 84.2528760433197
+            }
+        },
+        "TT3": {
+            "text": "是吗？",
+            "scores": {
+                "comet": 84.2528760433197
+            }
+        }
+    },
+    {
+        "index": 186,
+        "ST": "But why then are they speaking to otherfirms about investing in their Series A?",
+        "TT1": {
+            "text": "那为什么他们还在跟其他公司谈投资他们的A轮融资？",
+            "scores": {
+                "comet": 81.81581497192383
+            }
+        },
+        "TT2": {
+            "text": "那么他们为什么还在与其他公司谈论投资他们的A轮？",
+            "scores": {
+                "comet": 78.08370590209961
+            }
+        },
+        "TT3": {
+            "text": "那为什么他们还在和其他公司谈 A 轮投资？",
+            "scores": {
+                "comet": 79.59249019622803
+            }
+        }
+    },
+    {
+        "index": 187,
+        "ST": "No, no. I just told them to sit tight for a day or two until we sorted things out.",
+        "TT1": {
+            "text": "不，不。我只是告诉他们再等一两天等我们把事情整理好。",
+            "scores": {
+                "comet": 80.42230606079102
+            }
+        },
+        "TT2": {
+            "text": "不，不。我只是告诉他们再等一两天直到我们解决问题。",
+            "scores": {
+                "comet": 80.50422668457031
+            }
+        },
+        "TT3": {
+            "text": "不，不。我只是告诉他们再等一两天，直到我们把事情理清楚。",
+            "scores": {
+                "comet": 81.33502006530762
+            }
+        }
+    },
+    {
+        "index": 188,
+        "ST": "It seems that that advanced a sense of uncertainty, and now we're at risk of losing their round.",
+        "TT1": {
+            "text": "看起来这样做加剧了不确定感，现在我们有可能失去他们的融资。",
+            "scores": {
+                "comet": 66.57555103302002
+            }
+        },
+        "TT2": {
+            "text": "这似乎加剧了不确定感，现在我们有失去这一轮的风险。",
+            "scores": {
+                "comet": 79.67783808708191
+            }
+        },
+        "TT3": {
+            "text": "这似乎加剧了不确定感，现在我们有失去他们这轮投资的风险。",
+            "scores": {
+                "comet": 78.26176285743713
+            }
+        }
+    },
+    {
+        "index": 189,
+        "ST": "This could jeopardize the firm and, by extension, your career here, Monica, as an associate partner.",
+        "TT1": {
+            "text": "这可能会危及公司以及你的职业生涯，Monica，作为副合伙人。",
+            "scores": {
+                "comet": 77.33033895492554
+            }
+        },
+        "TT2": {
+            "text": "这可能会危及公司，并且，顺带着，你在这里作为助理合伙人的职业生涯。",
+            "scores": {
+                "comet": 71.91547155380249
+            }
+        },
+        "TT3": {
+            "text": "这可能会危及公司，进而威胁到你的职业生涯，Monica，作为一个合伙人。",
+            "scores": {
+                "comet": 79.16236519813538
+            }
+        }
+    },
+    {
+        "index": 190,
+        "ST": "Well, I guess I was just kind of in shock.",
+        "TT1": {
+            "text": "嗯，我想我只是有点震惊。",
+            "scores": {
+                "comet": 85.59799194335938
+            }
+        },
+        "TT2": {
+            "text": "嗯，我猜我只是有点震惊。",
+            "scores": {
+                "comet": 85.34698486328125
+            }
+        },
+        "TT3": {
+            "text": "我想我只是有点震惊。",
+            "scores": {
+                "comet": 85.34089922904968
+            }
+        }
+    },
+    {
+        "index": 191,
+        "ST": "Monica...",
+        "TT1": {
+            "text": "Monica...",
+            "scores": {
+                "comet": 82.74861574172974
+            }
+        },
+        "TT2": {
+            "text": "莫妮카...",
+            "scores": {
+                "comet": 85.88303923606873
+            }
+        },
+        "TT3": {
+            "text": "Monica……",
+            "scores": {
+                "comet": 83.5470199584961
+            }
+        }
+    },
+    {
+        "index": 192,
+        "ST": "Peter Gregory is dead.",
+        "TT1": {
+            "text": "Peter Gregory死了。",
+            "scores": {
+                "comet": 88.88503313064575
+            }
+        },
+        "TT2": {
+            "text": "彼得·格雷戈里死了。",
+            "scores": {
+                "comet": 88.5583221912384
+            }
+        },
+        "TT3": {
+            "text": "Peter Gregory 死了。",
+            "scores": {
+                "comet": 89.47817087173462
+            }
+        }
+    },
+    {
+        "index": 193,
+        "ST": "Yes. I know.",
+        "TT1": {
+            "text": "是的。我知道。",
+            "scores": {
+                "comet": 87.14170455932617
+            }
+        },
+        "TT2": {
+            "text": "是的。我知道。",
+            "scores": {
+                "comet": 87.14170455932617
+            }
+        },
+        "TT3": {
+            "text": "是的。我知道。",
+            "scores": {
+                "comet": 87.14171051979065
+            }
+        }
+    },
+    {
+        "index": 194,
+        "ST": "This is great.",
+        "TT1": {
+            "text": "这太棒了。",
+            "scores": {
+                "comet": 87.11894750595093
+            }
+        },
+        "TT2": {
+            "text": "这真是太棒了。",
+            "scores": {
+                "comet": 86.79288625717163
+            }
+        },
+        "TT3": {
+            "text": "这太棒了。",
+            "scores": {
+                "comet": 87.11894750595093
+            }
+        }
+    },
+    {
+        "index": 195,
+        "ST": "I mean, do you know how many times I've gone into these rooms with nothing but a half of an ass in my hand?",
+        "TT1": {
+            "text": "我是说，你知道我有多少次走进这些会议室手里只握着半个屁股？",
+            "scores": {
+                "comet": 65.30311703681946
+            }
+        },
+        "TT2": {
+            "text": "我的意思是，你知道我有多少次走进这些房间手里只拿着半个屁股？",
+            "scores": {
+                "comet": 65.41634798049927
+            }
+        },
+        "TT3": {
+            "text": "我是说，你知道我多少次进入这些房间，手里只有半张底牌？",
+            "scores": {
+                "comet": 69.03440952301025
+            }
+        }
+    },
+    {
+        "index": 196,
+        "ST": "We're walking in there with 3-foot cockscovered in Elvis dust.",
+        "TT1": {
+            "text": "我们这次带着三英尺长的家伙走了进去，上面还撒了猫王的灰尘。",
+            "scores": {
+                "comet": 50.22265911102295
+            }
+        },
+        "TT2": {
+            "text": "我们正走进来，手握三尺长的大老二，上面撒着埃尔维斯粉。",
+            "scores": {
+                "comet": 48.04501235485077
+            }
+        },
+        "TT3": {
+            "text": "现在我们带着 3 英尺长的武器，上面沾满了埃尔维斯的金粉。",
+            "scores": {
+                "comet": 50.92518329620361
+            }
+        }
+    },
+    {
+        "index": 197,
+        "ST": "- Really?- Richard Hendricks? They're ready for you.",
+        "TT1": {
+            "text": "- 真的吗？- Richard Hendricks？他们准备好了。",
+            "scores": {
+                "comet": 76.58493518829346
+            }
+        },
+        "TT2": {
+            "text": "- 真的吗？- 理查德·亨德里克斯？他们准备好了。",
+            "scores": {
+                "comet": 80.97777366638184
+            }
+        },
+        "TT3": {
+            "text": "- 真的？- Richard Hendricks？他们准备好了。",
+            "scores": {
+                "comet": 75.29183030128479
+            }
+        }
+    },
+    {
+        "index": 198,
+        "ST": "- This is a fucking layup, guys.- Okay, let's do this.",
+        "TT1": {
+            "text": "- 这是个轻松的得分机会，伙计们。- 好的，咱们上吧。",
+            "scores": {
+                "comet": 59.13658142089844
+            }
+        },
+        "TT2": {
+            "text": "- 这真是太容易了，伙计们。- 好吧，干吧。",
+            "scores": {
+                "comet": 57.84945487976074
+            }
+        },
+        "TT3": {
+            "text": "- 这简直是小菜一碟，伙计们。- 好吧，干吧。",
+            "scores": {
+                "comet": 59.62091684341431
+            }
+        }
+    },
+    {
+        "index": 199,
+        "ST": "Not you, Jared.",
+        "TT1": {
+            "text": "Jared，不是你。",
+            "scores": {
+                "comet": 83.86402726173401
+            }
+        },
+        "TT2": {
+            "text": "你不用去了，贾里德。",
+            "scores": {
+                "comet": 80.22948503494263
+            }
+        },
+        "TT3": {
+            "text": "Jared，你不去。",
+            "scores": {
+                "comet": 59.39583778381348
+            }
+        }
+    },
+    {
+        "index": 200,
+        "ST": "Now, with proper funding, we should be able to put together a functioning beta in time for CES and compress Nucleus out of the marketplace.",
+        "TT1": {
+            "text": "现在，有了适当的资金，我们应该能够在CES前推出一个功能齐全的测试版并把Nucleus挤出市场。",
+            "scores": {
+                "comet": 84.52345132827759
+            }
+        },
+        "TT2": {
+            "text": "现在，有了适当的资金，我们应该能够在CES之前推出一个可用的测试版并将Nucleus压出市场。",
+            "scores": {
+                "comet": 83.74193906784058
+            }
+        },
+        "TT3": {
+            "text": "现在，有了适当的资金，我们应该能在 CES 前推出一个功能齐全的测试版，并将 Nucleus 挤出市场。",
+            "scores": {
+                "comet": 84.85435843467712
+            }
+        }
+    },
+    {
+        "index": 201,
+        "ST": "Yeah.",
+        "TT1": {
+            "text": "是的。",
+            "scores": {
+                "comet": 86.25794053077698
+            }
+        },
+        "TT2": {
+            "text": "是的。",
+            "scores": {
+                "comet": 86.25794053077698
+            }
+        },
+        "TT3": {
+            "text": "是的。",
+            "scores": {
+                "comet": 86.25794053077698
+            }
+        }
+    },
+    {
+        "index": 202,
+        "ST": "I don't know.",
+        "TT1": {
+            "text": "我不知道。",
+            "scores": {
+                "comet": 87.03035116195679
+            }
+        },
+        "TT2": {
+            "text": "我不知道。",
+            "scores": {
+                "comet": 87.03035116195679
+            }
+        },
+        "TT3": {
+            "text": "我不知道。",
+            "scores": {
+                "comet": 87.03035116195679
+            }
+        }
+    },
+    {
+        "index": 203,
+        "ST": "You don't... What?",
+        "TT1": {
+            "text": "你不... 什么？",
+            "scores": {
+                "comet": 63.46077919006348
+            }
+        },
+        "TT2": {
+            "text": "你不知道...什么？",
+            "scores": {
+                "comet": 80.70237636566162
+            }
+        },
+        "TT3": {
+            "text": "你不知道……什么？",
+            "scores": {
+                "comet": 80.10400533676147
+            }
+        }
+    },
+    {
+        "index": 204,
+        "ST": "It just doesn't seem worked out to me.",
+        "TT1": {
+            "text": "这对我来说似乎没做好准备。",
+            "scores": {
+                "comet": 53.28488349914551
+            }
+        },
+        "TT2": {
+            "text": "只是感觉这还没完全弄好。",
+            "scores": {
+                "comet": 73.29195737838745
+            }
+        },
+        "TT3": {
+            "text": "这对我来说似乎没那么靠谱。",
+            "scores": {
+                "comet": 74.511057138443
+            }
+        }
+    },
+    {
+        "index": 205,
+        "ST": "Well, I mean, it was worked out enoughto win TechCrunch Disrupt.",
+        "TT1": {
+            "text": "好吧，我的意思是，它足够好了赢得TechCrunch Disrupt。",
+            "scores": {
+                "comet": 61.41064167022705
+            }
+        },
+        "TT2": {
+            "text": "嗯，我的意思是，它已经足够好赢得TechCrunch Disrupt了。",
+            "scores": {
+                "comet": 69.83107924461365
+            }
+        },
+        "TT3": {
+            "text": "嗯，我是说，它已经足够好了，赢得了 TechCrunch Disrupt。",
+            "scores": {
+                "comet": 65.29227495193481
+            }
+        }
+    },
+    {
+        "index": 206,
+        "ST": "Yes, and congratulations, you won 50 grand, but you're asking us for 200 times that.",
+        "TT1": {
+            "text": "是的，恭喜你，你赢了5万美元，但你要我们出资是那个金额的200倍。",
+            "scores": {
+                "comet": 79.19210195541382
+            }
+        },
+        "TT2": {
+            "text": "是的，恭喜你赢得了5万，但你现在向我们要200倍的金额。",
+            "scores": {
+                "comet": 75.16475319862366
+            }
+        },
+        "TT3": {
+            "text": "是的，祝贺你，你赢了五万美元，但你要求我们投资两百倍的资金。",
+            "scores": {
+                "comet": 76.91707611083984
+            }
+        }
+    },
+    {
+        "index": 207,
+        "ST": "Richard, look, we all know about your amazing compression rate, but let's not be naive here.",
+        "TT1": {
+            "text": "Richard，听着，我们都知道你惊人的压缩率，但别天真了。",
+            "scores": {
+                "comet": 76.5842080116272
+            }
+        },
+        "TT2": {
+            "text": "理查德，听着，我们都知道你的压缩率很惊人，但不要天真了。",
+            "scores": {
+                "comet": 81.97740316390991
+            }
+        },
+        "TT3": {
+            "text": "Richard，听着，我们都知道你那惊人的压缩率，但不要太天真了。",
+            "scores": {
+                "comet": 79.75059151649475
+            }
+        }
+    },
+    {
+        "index": 208,
+        "ST": "You can't expect to just throw money at an algorithm and beat one of the largest tech companies in the world.",
+        "TT1": {
+            "text": "你不能指望仅仅向一个算法投钱就能击败全球最大的科技公司之一。",
+            "scores": {
+                "comet": 86.08942031860352
+            }
+        },
+        "TT2": {
+            "text": "你不能指望仅仅通过砸钱给算法就能打败世界上最大的科技公司之一。",
+            "scores": {
+                "comet": 85.48672795295715
+            }
+        },
+        "TT3": {
+            "text": "你不能指望只用钱砸算法，然后打败世界上最大的一些科技公司。",
+            "scores": {
+                "comet": 75.93686580657959
+            }
+        }
+    },
+    {
+        "index": 209,
+        "ST": "So why don't you rework this a little and come back in with a little more? Maybe next week?",
+        "TT1": {
+            "text": "所以，为什么不再改进一下这个然后带着更充分的计划下周再来？",
+            "scores": {
+                "comet": 70.33385634422302
+            }
+        },
+        "TT2": {
+            "text": "所以为什么你不再修改一下这个下周再回来带上更多东西？",
+            "scores": {
+                "comet": 72.63706922531128
+            }
+        },
+        "TT3": {
+            "text": "所以，为什么不重新调整一下，然后再回来多准备一些？也许下周再来？",
+            "scores": {
+                "comet": 76.21806859970093
+            }
+        }
+    },
+    {
+        "index": 210,
+        "ST": "And?",
+        "TT1": {
+            "text": "然后呢？",
+            "scores": {
+                "comet": 85.0642204284668
+            }
+        },
+        "TT2": {
+            "text": "然后呢？",
+            "scores": {
+                "comet": 85.0642204284668
+            }
+        },
+        "TT3": {
+            "text": "那么呢？",
+            "scores": {
+                "comet": 84.07740592956543
+            }
+        }
+    },
+    {
+        "index": 211,
+        "ST": "That was really weird.",
+        "TT1": {
+            "text": "这真的很奇怪。",
+            "scores": {
+                "comet": 86.68943643569946
+            }
+        },
+        "TT2": {
+            "text": "那真是太奇怪了。",
+            "scores": {
+                "comet": 86.7892324924469
+            }
+        },
+        "TT3": {
+            "text": "那真是太奇怪了。",
+            "scores": {
+                "comet": 86.7892324924469
+            }
+        }
+    },
+    {
+        "index": 212,
+        "ST": "I guess we don't haveas much Elvis dust on us as I thought.",
+        "TT1": {
+            "text": "我想我们没有预想中的那么受欢迎。",
+            "scores": {
+                "comet": 53.05108428001404
+            }
+        },
+        "TT2": {
+            "text": "我猜我们身上的埃尔维斯粉没有我想的那么多。",
+            "scores": {
+                "comet": 69.69665288925171
+            }
+        },
+        "TT3": {
+            "text": "我猜我们身上的埃尔维斯金粉没那么多。",
+            "scores": {
+                "comet": 72.2404956817627
+            }
+        }
+    },
+    {
+        "index": 213,
+        "ST": "You see? This is why I wantedto go with Peter Gregory.",
+        "TT1": {
+            "text": "你看？这就是为什么我想跟Peter Gregory合作。",
+            "scores": {
+                "comet": 86.13829612731934
+            }
+        },
+        "TT2": {
+            "text": "你看，这就是为什么我想和彼得·格雷戈里合作。",
+            "scores": {
+                "comet": 86.8837833404541
+            }
+        },
+        "TT3": {
+            "text": "看吧，这就是为什么我想和 Peter Gregory 合作。",
+            "scores": {
+                "comet": 86.37250661849976
+            }
+        }
+    },
+    {
+        "index": 214,
+        "ST": "This is bullshit.",
+        "TT1": {
+            "text": "这太扯淡了。",
+            "scores": {
+                "comet": 87.93164491653442
+            }
+        },
+        "TT2": {
+            "text": "这真是扯淡。",
+            "scores": {
+                "comet": 87.22290396690369
+            }
+        },
+        "TT3": {
+            "text": "这简直是胡扯。",
+            "scores": {
+                "comet": 86.66092157363892
+            }
+        }
+    },
+    {
+        "index": 215,
+        "ST": "I mean, that guy throws this huge party for usand then acts like he doesn't even want us?",
+        "TT1": {
+            "text": "那个家伙为我们举办了这个巨大的派对，然后表现得好像不想要我们？",
+            "scores": {
+                "comet": 81.31387233734131
+            }
+        },
+        "TT2": {
+            "text": "我的意思是，那家伙为我们办了这么大的派对，然后却表现得好像根本不想要我们？",
+            "scores": {
+                "comet": 85.13237237930298
+            }
+        },
+        "TT3": {
+            "text": "我是说，那家伙给我们办了这么大的派对，然后却表现得好像不想要我们？",
+            "scores": {
+                "comet": 84.52730774879456
+            }
+        }
+    },
+    {
+        "index": 216,
+        "ST": "I mean, I fucking hate parties.",
+        "TT1": {
+            "text": "我的意思是，我真他妈讨厌派对。",
+            "scores": {
+                "comet": 87.76237964630127
+            }
+        },
+        "TT2": {
+            "text": "我他妈的讨厌派对。",
+            "scores": {
+                "comet": 87.46702075004578
+            }
+        },
+        "TT3": {
+            "text": "我是说，我他妈的讨厌派对。",
+            "scores": {
+                "comet": 87.65636682510376
+            }
+        }
+    },
+    {
+        "index": 217,
+        "ST": "And then he says, \"Come back next weekwhen you have more.\"",
+        "TT1": {
+            "text": "然后他说，“下周再来，带更多的东西。”",
+            "scores": {
+                "comet": 81.50331974029541
+            }
+        },
+        "TT2": {
+            "text": "然后他说，“下周再回来，带上更多东西。”",
+            "scores": {
+                "comet": 81.64865970611572
+            }
+        },
+        "TT3": {
+            "text": "然后他还说，“下周再来准备得更多。”",
+            "scores": {
+                "comet": 62.561798095703125
+            }
+        }
+    },
+    {
+        "index": 218,
+        "ST": "More? More than 5.2 on Weissman?",
+        "TT1": {
+            "text": "更多？比5.2的Weissman评分还多？",
+            "scores": {
+                "comet": 71.0481584072113
+            }
+        },
+        "TT2": {
+            "text": "更多？比5.2的Weissman评分还多？",
+            "scores": {
+                "comet": 71.0481584072113
+            }
+        },
+        "TT3": {
+            "text": "更多？超过 5.2 Weissman？",
+            "scores": {
+                "comet": 53.344303369522095
+            }
+        }
+    },
+    {
+        "index": 219,
+        "ST": "No. No.",
+        "TT1": {
+            "text": "不。不。",
+            "scores": {
+                "comet": 85.2331280708313
+            }
+        },
+        "TT2": {
+            "text": "不。不。",
+            "scores": {
+                "comet": 85.2331280708313
+            }
+        },
+        "TT3": {
+            "text": "不。不会的。",
+            "scores": {
+                "comet": 83.3948016166687
+            }
+        }
+    },
+    {
+        "index": 220,
+        "ST": "Fuck that guy. Fuck this place.Fuck this whole place.",
+        "TT1": {
+            "text": "去他妈的。去他妈的这个地方。去他妈的整个地方。",
+            "scores": {
+                "comet": 50.765156745910645
+            }
+        },
+        "TT2": {
+            "text": "操那个家伙。操这个地方。操这个鬼地方。",
+            "scores": {
+                "comet": 67.26992726325989
+            }
+        },
+        "TT3": {
+            "text": "去他妈的。去他妈的这个地方。去他妈的整个地方。",
+            "scores": {
+                "comet": 50.765156745910645
+            }
+        }
+    },
+    {
+        "index": 221,
+        "ST": "- Watch me fuck this place.- No, wait! Wait, wait!",
+        "TT1": {
+            "text": "- 看我怎么搞砸这个地方。- 不，等一下！等等，等等！",
+            "scores": {
+                "comet": 77.37443447113037
+            }
+        },
+        "TT2": {
+            "text": "- 看我怎么操这地方。- 不，等等！等等，等等！",
+            "scores": {
+                "comet": 59.229832887649536
+            }
+        },
+        "TT3": {
+            "text": "- 看我搞砸这个地方。- 不，等一下！等一下，等一下！",
+            "scores": {
+                "comet": 76.8288254737854
+            }
+        }
+    },
+    {
+        "index": 222,
+        "ST": "Hey. You remember when you told meto come back when I had more?",
+        "TT1": {
+            "text": "嘿。你记得你叫我下次有更多再回来吗？",
+            "scores": {
+                "comet": 51.62773132324219
+            }
+        },
+        "TT2": {
+            "text": "嘿。你还记得你告诉我让我带着更多东西回来吗？",
+            "scores": {
+                "comet": 57.4262261390686
+            }
+        },
+        "TT3": {
+            "text": "嘿。你记得你让我再回来时准备更多？",
+            "scores": {
+                "comet": 51.28600597381592
+            }
+        }
+    },
+    {
+        "index": 223,
+        "ST": "And then I said I would?",
+        "TT1": {
+            "text": "然后我说我会吗？",
+            "scores": {
+                "comet": 74.9754786491394
+            }
+        },
+        "TT2": {
+            "text": "然后我说我会回来？",
+            "scores": {
+                "comet": 83.15666913986206
+            }
+        },
+        "TT3": {
+            "text": "然后我说我会吗？",
+            "scores": {
+                "comet": 74.9754786491394
+            }
+        }
+    },
+    {
+        "index": 224,
+        "ST": "Well, I'm not going to. Ever.This doesn't count. Okay.",
+        "TT1": {
+            "text": "好吧，我不会。永远不会。这不算数。好吧。",
+            "scores": {
+                "comet": 86.25296354293823
+            }
+        },
+        "TT2": {
+            "text": "好吧，我不会。永远不会。这不算数。好吧。",
+            "scores": {
+                "comet": 86.25296354293823
+            }
+        },
+        "TT3": {
+            "text": "嗯，我不会了。再也不会了。这不算数。好吧。",
+            "scores": {
+                "comet": 82.22542405128479
+            }
+        }
+    },
+    {
+        "index": 225,
+        "ST": "I'm covered in dust. I'm a 3-foot dick, and I've got half an ass to go to some other company who's never gonna put me on a Jumbotron or throw balls at me.",
+        "TT1": {
+            "text": "我满身尘土。我是一根三英尺长的家伙，我还有半个屁股要去其他公司永远不会把我放在巨型显示屏上或者扔球砸我。",
+            "scores": {
+                "comet": 63.28330039978027
+            }
+        },
+        "TT2": {
+            "text": "我全身都是粉。我是个三尺长的大老二，而且我有半个屁股要去其他公司他们永远不会把我放在巨型屏幕上或者把球扔向我。",
+            "scores": {
+                "comet": 61.68009042739868
+            }
+        },
+        "TT3": {
+            "text": "我满身金粉。我有3英尺的武器，我手里只有半张底牌去找其他公司，那些永远不会把我放在巨型屏幕上或向我扔球的公司。",
+            "scores": {
+                "comet": 53.23446989059448
+            }
+        }
+    },
+    {
+        "index": 226,
+        "ST": "Bye.",
+        "TT1": {
+            "text": "拜拜。",
+            "scores": {
+                "comet": 85.10680198669434
+            }
+        },
+        "TT2": {
+            "text": "再见。",
+            "scores": {
+                "comet": 86.14059686660767
+            }
+        },
+        "TT3": {
+            "text": "再见。",
+            "scores": {
+                "comet": 86.14059686660767
+            }
+        }
+    },
+    {
+        "index": 227,
+        "ST": "Are you feeling unwell?Do you need protein?",
+        "TT1": {
+            "text": "你不舒服吗？你需要蛋白质吗？",
+            "scores": {
+                "comet": 88.41249346733093
+            }
+        },
+        "TT2": {
+            "text": "你不舒服吗？需要蛋白质吗？",
+            "scores": {
+                "comet": 88.37465047836304
+            }
+        },
+        "TT3": {
+            "text": "你感觉不舒服吗？需要蛋白质吗？",
+            "scores": {
+                "comet": 88.15793991088867
+            }
+        }
+    },
+    {
+        "index": 228,
+        "ST": "I don't know what happened.",
+        "TT1": {
+            "text": "我不知道发生了什么。",
+            "scores": {
+                "comet": 88.17923069000244
+            }
+        },
+        "TT2": {
+            "text": "我不知道发生了什么。",
+            "scores": {
+                "comet": 88.17923069000244
+            }
+        },
+        "TT3": {
+            "text": "我不知道发生了什么。",
+            "scores": {
+                "comet": 88.17923069000244
+            }
+        }
+    },
+    {
+        "index": 229,
+        "ST": "Between Peter dyingand Raviga maybe being gone, I just...",
+        "TT1": {
+            "text": "在Peter去世和Raviga可能消失之间，我只是...",
+            "scores": {
+                "comet": 82.81358480453491
+            }
+        },
+        "TT2": {
+            "text": "彼得去世了，Raviga可能不在了，我只想...",
+            "scores": {
+                "comet": 79.04579639434814
+            }
+        },
+        "TT3": {
+            "text": "Peter 的去世以及 Raviga 可能消失了，我就是……",
+            "scores": {
+                "comet": 72.21426963806152
+            }
+        }
+    },
+    {
+        "index": 230,
+        "ST": "I just wanna get fundedand build Pied Piper.",
+        "TT1": {
+            "text": "我只想获得资金然后建立Pied Piper。",
+            "scores": {
+                "comet": 85.15704274177551
+            }
+        },
+        "TT2": {
+            "text": "我只想获得资金，建立派派iper。",
+            "scores": {
+                "comet": 65.5126690864563
+            }
+        },
+        "TT3": {
+            "text": "我只想获得资助并建立 Pied Piper。",
+            "scores": {
+                "comet": 83.80455374717712
+            }
+        }
+    },
+    {
+        "index": 231,
+        "ST": "I hate this part.",
+        "TT1": {
+            "text": "我讨厌这个部分。",
+            "scores": {
+                "comet": 86.76036596298218
+            }
+        },
+        "TT2": {
+            "text": "我讨厌这部分。",
+            "scores": {
+                "comet": 86.59110069274902
+            }
+        },
+        "TT3": {
+            "text": "我讨厌这一部分。",
+            "scores": {
+                "comet": 86.75732016563416
+            }
+        }
+    },
+    {
+        "index": 232,
+        "ST": "Well, if one thing is for sure...",
+        "TT1": {
+            "text": "嗯，如果有一件事是确定的...",
+            "scores": {
+                "comet": 82.30880498886108
+            }
+        },
+        "TT2": {
+            "text": "好吧，如果有一件事是确定的...",
+            "scores": {
+                "comet": 82.33457803726196
+            }
+        },
+        "TT3": {
+            "text": "嗯，如果有一点可以肯定的话……",
+            "scores": {
+                "comet": 84.33113098144531
+            }
+        }
+    },
+    {
+        "index": 233,
+        "ST": "...if we're gonna get any traction,I need to step up my game.",
+        "TT1": {
+            "text": "...如果我们要取得进展，我得加把劲了。",
+            "scores": {
+                "comet": 80.51596879959106
+            }
+        },
+        "TT2": {
+            "text": "...如果我们想取得任何进展，我需要加倍努力。",
+            "scores": {
+                "comet": 83.77892971038818
+            }
+        },
+        "TT3": {
+            "text": "……如果我们想获得任何进展，我需要提升我的表现。",
+            "scores": {
+                "comet": 84.82750058174133
+            }
+        }
+    },
+    {
+        "index": 234,
+        "ST": "It's an email from Ron LaFlamme.",
+        "TT1": {
+            "text": "这是Ron LaFlamme发来的邮件。",
+            "scores": {
+                "comet": 86.1287772655487
+            }
+        },
+        "TT2": {
+            "text": "这是罗恩·拉弗拉姆发来的邮件。",
+            "scores": {
+                "comet": 86.51683330535889
+            }
+        },
+        "TT3": {
+            "text": "这是 Ron LaFlamme 的邮件。",
+            "scores": {
+                "comet": 86.20824813842773
+            }
+        }
+    },
+    {
+        "index": 235,
+        "ST": "\"Just got a term sheet from Stern Taylor.",
+        "TT1": {
+            "text": "“刚刚收到Stern Taylor的条款清单。",
+            "scores": {
+                "comet": 80.78645467758179
+            }
+        },
+        "TT2": {
+            "text": "“刚刚收到斯特恩泰勒的条款清单。",
+            "scores": {
+                "comet": 80.14224171638489
+            }
+        },
+        "TT3": {
+            "text": "“刚收到 Stern Taylor 的条款清单。",
+            "scores": {
+                "comet": 80.21575212478638
+            }
+        }
+    },
+    {
+        "index": 236,
+        "ST": "\"They offered $5 millionat $25 million post-money valuation.",
+        "TT1": {
+            "text": "“他们出价500万美元估值2500万美元。”",
+            "scores": {
+                "comet": 62.84191012382507
+            }
+        },
+        "TT2": {
+            "text": "“他们出价500万，估值2500万。”",
+            "scores": {
+                "comet": 63.04037570953369
+            }
+        },
+        "TT3": {
+            "text": "“他们提供了 500 万美元，估值 2500 万美元。",
+            "scores": {
+                "comet": 65.00071883201599
+            }
+        }
+    },
+    {
+        "index": 237,
+        "ST": "\"More than I thought.\"",
+        "TT1": {
+            "text": "“比我预想的多。”",
+            "scores": {
+                "comet": 85.0119948387146
+            }
+        },
+        "TT2": {
+            "text": "“比我预想的多。”",
+            "scores": {
+                "comet": 85.0119948387146
+            }
+        },
+        "TT3": {
+            "text": "“比我预期的多。”",
+            "scores": {
+                "comet": 85.13270616531372
+            }
+        }
+    },
+    {
+        "index": 238,
+        "ST": "Shit. They were negging us.",
+        "TT1": {
+            "text": "妈的。他们在打压我们。",
+            "scores": {
+                "comet": 80.74442148208618
+            }
+        },
+        "TT2": {
+            "text": "见鬼。他们在给我们下套。",
+            "scores": {
+                "comet": 82.40381479263306
+            }
+        },
+        "TT3": {
+            "text": "该死。他们在故意压价。",
+            "scores": {
+                "comet": 76.32962465286255
+            }
+        }
+    },
+    {
+        "index": 239,
+        "ST": "- Negging?- Negging is going negative.",
+        "TT1": {
+            "text": "- 打压？- 打压是贬低。",
+            "scores": {
+                "comet": 50.32395124435425
+            }
+        },
+        "TT2": {
+            "text": "- 下套？- 下套就是用负面手段。",
+            "scores": {
+                "comet": 52.77824401855469
+            }
+        },
+        "TT3": {
+            "text": "- 故意压价？- 故意压价就是采取负面态度。",
+            "scores": {
+                "comet": 57.75712728500366
+            }
+        }
+    },
+    {
+        "index": 240,
+        "ST": "It's a manipulative sex strategyused by lonely chauvinists.",
+        "TT1": {
+            "text": "这是一种孤独的沙文主义者使用的操控性性策略。",
+            "scores": {
+                "comet": 80.2036702632904
+            }
+        },
+        "TT2": {
+            "text": "这是孤独的沙文主义者使用的一种操纵性性策略。",
+            "scores": {
+                "comet": 81.83197975158691
+            }
+        },
+        "TT3": {
+            "text": "这是一种孤独的沙文主义者使用的操纵性性策略。",
+            "scores": {
+                "comet": 81.10071420669556
+            }
+        }
+    },
+    {
+        "index": 241,
+        "ST": "See, everybody wants us.",
+        "TT1": {
+            "text": "看，大家都想要我们。",
+            "scores": {
+                "comet": 84.66774225234985
+            }
+        },
+        "TT2": {
+            "text": "你看，大家都想要我们。",
+            "scores": {
+                "comet": 85.40347218513489
+            }
+        },
+        "TT3": {
+            "text": "看，每个人都想要我们。",
+            "scores": {
+                "comet": 85.02774834632874
+            }
+        }
+    },
+    {
+        "index": 242,
+        "ST": "But, by shitting all over us,they try and bring our price down.",
+        "TT1": {
+            "text": "但，通过贬低我们，他们试图降低我们的价格。",
+            "scores": {
+                "comet": 77.57084369659424
+            }
+        },
+        "TT2": {
+            "text": "但，通过把我们贬低，他们试图压低我们的价格。",
+            "scores": {
+                "comet": 73.33154082298279
+            }
+        },
+        "TT3": {
+            "text": "但是，通过在我们身上泼脏水，他们试图压低我们的价格。",
+            "scores": {
+                "comet": 83.04189443588257
+            }
+        }
+    },
+    {
+        "index": 243,
+        "ST": "But you shitting all over themcounteracted their shitting all over us.",
+        "TT1": {
+            "text": "但你贬低他们抵消了他们贬低我们的行为。",
+            "scores": {
+                "comet": 54.33204770088196
+            }
+        },
+        "TT2": {
+            "text": "但你对他们的贬低反而抵消了他们对我们的贬低。",
+            "scores": {
+                "comet": 72.96476364135742
+            }
+        },
+        "TT3": {
+            "text": "但你对他们泼脏水，抵消了他们对我们的泼脏水。",
+            "scores": {
+                "comet": 77.40663290023804
+            }
+        }
+    },
+    {
+        "index": 244,
+        "ST": "You negged a neg.Richard, this could be good.",
+        "TT1": {
+            "text": "你以贬对贬。Richard，这可能是个好事。",
+            "scores": {
+                "comet": 47.03344106674194
+            }
+        },
+        "TT2": {
+            "text": "你反击了贬低。理查德，这可能是好事。",
+            "scores": {
+                "comet": 48.325344920158386
+            }
+        },
+        "TT3": {
+            "text": "你用负面反制了负面。Richard，这可能是个好事。",
+            "scores": {
+                "comet": 43.580350279808044
+            }
+        }
+    },
+    {
+        "index": 245,
+        "ST": "- Where do we have next?- Ross Loma Capital.",
+        "TT1": {
+            "text": "- 我们接下来去哪儿？- Ross Loma资本。",
+            "scores": {
+                "comet": 64.73454236984253
+            }
+        },
+        "TT2": {
+            "text": "- 我们下一个去哪儿？- 罗斯洛马资本。",
+            "scores": {
+                "comet": 64.50724005699158
+            }
+        },
+        "TT3": {
+            "text": "- 我们接下来去哪？- Ross Loma Capital。",
+            "scores": {
+                "comet": 74.43166375160217
+            }
+        }
+    },
+    {
+        "index": 246,
+        "ST": "Should I keep doing it?Should I keep negging?",
+        "TT1": {
+            "text": "我该继续这样做吗？我该继续打压吗？",
+            "scores": {
+                "comet": 84.91512537002563
+            }
+        },
+        "TT2": {
+            "text": "我该继续吗？我该继续反击吗？",
+            "scores": {
+                "comet": 75.19099712371826
+            }
+        },
+        "TT3": {
+            "text": "我应该继续这么做吗？我应该继续压价？",
+            "scores": {
+                "comet": 81.63381814956665
+            }
+        }
+    },
+    {
+        "index": 247,
+        "ST": "No, no, I'll handle this.",
+        "TT1": {
+            "text": "不，不，这事儿交给我。",
+            "scores": {
+                "comet": 84.83642935752869
+            }
+        },
+        "TT2": {
+            "text": "不，不，这交给我处理。",
+            "scores": {
+                "comet": 83.81980657577515
+            }
+        },
+        "TT3": {
+            "text": "不，不，我来处理这个。",
+            "scores": {
+                "comet": 82.11275935173035
+            }
+        }
+    },
+    {
+        "index": 248,
+        "ST": "If they want to negotiate using hostility and rudeness, well, they picked the wrong guy.",
+        "TT1": {
+            "text": "如果他们想用敌意和粗鲁来谈判，那他们找错人了。",
+            "scores": {
+                "comet": 85.31808257102966
+            }
+        },
+        "TT2": {
+            "text": "如果他们想用敌意和粗鲁来谈判，好吧，他们找错人了。",
+            "scores": {
+                "comet": 83.68582725524902
+            }
+        },
+        "TT3": {
+            "text": "如果他们想用敌意和无礼来谈判，那么他们找错人了。",
+            "scores": {
+                "comet": 85.63258647918701
+            }
+        }
+    },
+    {
+        "index": 249,
+        "ST": "Well, you see, our main concern is how you're going to achieve escape velocity on your growth rate.",
+        "TT1": {
+            "text": "嗯，你看，我们最关心的是你们如何实现增长率的逃逸速度。",
+            "scores": {
+                "comet": 71.09427452087402
+            }
+        },
+        "TT2": {
+            "text": "你看，我们主要关心的是你们如何实现增长率的突破点。",
+            "scores": {
+                "comet": 74.4306743144989
+            }
+        },
+        "TT3": {
+            "text": "嗯，你看，我们主要担心的是你们如何实现增长率的脱离速度。",
+            "scores": {
+                "comet": 72.84859418869019
+            }
+        }
+    },
+    {
+        "index": 250,
+        "ST": "If critical mass...",
+        "TT1": {
+            "text": "如果关键点...",
+            "scores": {
+                "comet": 55.86690306663513
+            }
+        },
+        "TT2": {
+            "text": "如果关键量...",
+            "scores": {
+                "comet": 69.63186264038086
+            }
+        },
+        "TT3": {
+            "text": "如果达到临界质量……",
+            "scores": {
+                "comet": 73.32736253738403
+            }
+        }
+    },
+    {
+        "index": 251,
+        "ST": "I'm sorry. What's funny?",
+        "TT1": {
+            "text": "抱歉，什么好笑的吗？",
+            "scores": {
+                "comet": 84.54119563102722
+            }
+        },
+        "TT2": {
+            "text": "对不起，什么好笑的吗？",
+            "scores": {
+                "comet": 84.44676995277405
+            }
+        },
+        "TT3": {
+            "text": "对不起，什么好笑的吗？",
+            "scores": {
+                "comet": 84.44676995277405
+            }
+        }
+    },
+    {
+        "index": 252,
+        "ST": "It's just that painting behind you.",
+        "TT1": {
+            "text": "只是你背后的那幅画。",
+            "scores": {
+                "comet": 65.78669548034668
+            }
+        },
+        "TT2": {
+            "text": "只是你身后的那幅画。",
+            "scores": {
+                "comet": 69.07761096954346
+            }
+        },
+        "TT3": {
+            "text": "只是你背后的那幅画。",
+            "scores": {
+                "comet": 65.78669548034668
+            }
+        }
+    },
+    {
+        "index": 253,
+        "ST": "It's awful.",
+        "TT1": {
+            "text": "太糟糕了。",
+            "scores": {
+                "comet": 86.6549015045166
+            }
+        },
+        "TT2": {
+            "text": "真难看。",
+            "scores": {
+                "comet": 79.96191382408142
+            }
+        },
+        "TT3": {
+            "text": "真难看。",
+            "scores": {
+                "comet": 79.96191382408142
+            }
+        }
+    },
+    {
+        "index": 254,
+        "ST": "It looks like harlequin Kama-sutradone poorly.",
+        "TT1": {
+            "text": "看起来像糟糕版的小丑式《爱经》。",
+            "scores": {
+                "comet": 48.587778210639954
+            }
+        },
+        "TT2": {
+            "text": "看起来像是哈里奎恩版的《爱经》，还做得很差。",
+            "scores": {
+                "comet": 45.71758210659027
+            }
+        },
+        "TT3": {
+            "text": "看起来像是蹩脚的哈利奎恩《爱经》。",
+            "scores": {
+                "comet": 49.99699294567108
+            }
+        }
+    },
+    {
+        "index": 255,
+        "ST": "So, I agree, bad culture fit.",
+        "TT1": {
+            "text": "所以，我同意，不适合我们的文化。",
+            "scores": {
+                "comet": 50.99760293960571
+            }
+        },
+        "TT2": {
+            "text": "所以，我同意，文化契合度不好。",
+            "scores": {
+                "comet": 79.9746036529541
+            }
+        },
+        "TT3": {
+            "text": "所以，我同意，文化不合适。",
+            "scores": {
+                "comet": 50.63349008560181
+            }
+        }
+    },
+    {
+        "index": 256,
+        "ST": "I think we all just move on.",
+        "TT1": {
+            "text": "我认为我们就此打住吧。",
+            "scores": {
+                "comet": 83.64133834838867
+            }
+        },
+        "TT2": {
+            "text": "我想我们都应该继续前进。",
+            "scores": {
+                "comet": 85.14480590820312
+            }
+        },
+        "TT3": {
+            "text": "我认为我们就此打住。",
+            "scores": {
+                "comet": 82.70660638809204
+            }
+        }
+    },
+    {
+        "index": 257,
+        "ST": "Look, I didn't say anythingabout a culture fit.",
+        "TT1": {
+            "text": "看，我没说文化合适不合适。",
+            "scores": {
+                "comet": 53.8205087184906
+            }
+        },
+        "TT2": {
+            "text": "看，我没说过文化契合度不好。",
+            "scores": {
+                "comet": 65.54713249206543
+            }
+        },
+        "TT3": {
+            "text": "听着，我没说文化不合适。",
+            "scores": {
+                "comet": 47.61365056037903
+            }
+        }
+    },
+    {
+        "index": 258,
+        "ST": "No, I did.",
+        "TT1": {
+            "text": "不，我说的。",
+            "scores": {
+                "comet": 80.65520524978638
+            }
+        },
+        "TT2": {
+            "text": "不，我说的。",
+            "scores": {
+                "comet": 80.65520524978638
+            }
+        },
+        "TT3": {
+            "text": "不，我说了。",
+            "scores": {
+                "comet": 73.50496053695679
+            }
+        }
+    },
+    {
+        "index": 259,
+        "ST": "Okay. Well, thank you for meeting with us.",
+        "TT1": {
+            "text": "好吧。那么，感谢你们和我们见面。",
+            "scores": {
+                "comet": 83.38373899459839
+            }
+        },
+        "TT2": {
+            "text": "好吧。嗯，谢谢你们见我们。",
+            "scores": {
+                "comet": 84.35657620429993
+            }
+        },
+        "TT3": {
+            "text": "好吧。那么，谢谢你们的会面。",
+            "scores": {
+                "comet": 76.46307945251465
+            }
+        }
+    },
+    {
+        "index": 260,
+        "ST": "We have a bunch of these things to go to, hopefully with more tasteful artwork.",
+        "TT1": {
+            "text": "我们还有很多这样的会议要去，希望能看到更有品位的艺术作品。",
+            "scores": {
+                "comet": 80.32217025756836
+            }
+        },
+        "TT2": {
+            "text": "我们还有一堆这样的会议要去，希望有更有品位的艺术品。",
+            "scores": {
+                "comet": 75.69389343261719
+            }
+        },
+        "TT3": {
+            "text": "我们还有很多这样的会议要参加，希望有更有品味的艺术品。",
+            "scores": {
+                "comet": 78.5451889038086
+            }
+        }
+    },
+    {
+        "index": 261,
+        "ST": "And your logo looks like a sideways vagina.",
+        "TT1": {
+            "text": "而且你们的标志看起来像个侧躺的阴道。",
+            "scores": {
+                "comet": 73.77651333808899
+            }
+        },
+        "TT2": {
+            "text": "而你们的标志看起来像个侧躺的阴道。",
+            "scores": {
+                "comet": 73.83904457092285
+            }
+        },
+        "TT3": {
+            "text": "而你们的标志看起来像个侧翻的阴道。",
+            "scores": {
+                "comet": 78.32098603248596
+            }
+        }
+    },
+    {
+        "index": 262,
+        "ST": "I find that to be racist, don't you?",
+        "TT1": {
+            "text": "我觉得那是种族歧视，你不觉得吗？",
+            "scores": {
+                "comet": 85.30465364456177
+            }
+        },
+        "TT2": {
+            "text": "我觉得这有点种族主义，不是吗？",
+            "scores": {
+                "comet": 86.16764545440674
+            }
+        },
+        "TT3": {
+            "text": "我觉得这是种族歧视，不是吗？",
+            "scores": {
+                "comet": 85.67667007446289
+            }
+        }
+    },
+    {
+        "index": 263,
+        "ST": "Okay, here's my concern...",
+        "TT1": {
+            "text": "好吧，我担心的是...",
+            "scores": {
+                "comet": 83.70962142944336
+            }
+        },
+        "TT2": {
+            "text": "好吧，这是我的担忧...",
+            "scores": {
+                "comet": 83.41284990310669
+            }
+        },
+        "TT3": {
+            "text": "好吧，这是我的担忧……",
+            "scores": {
+                "comet": 83.18695425987244
+            }
+        }
+    },
+    {
+        "index": 264,
+        "ST": "Here's my concern.Who the hell picked out that shirt for you?",
+        "TT1": {
+            "text": "我担心的是。谁选了这件衬衫给你穿？",
+            "scores": {
+                "comet": 79.23262119293213
+            }
+        },
+        "TT2": {
+            "text": "这是我的担忧。谁他妈给你选了这件衬衫？",
+            "scores": {
+                "comet": 80.98691701889038
+            }
+        },
+        "TT3": {
+            "text": "这是我的担忧。谁给你选的这件衬衫？",
+            "scores": {
+                "comet": 76.8262505531311
+            }
+        }
+    },
+    {
+        "index": 265,
+        "ST": "What?",
+        "TT1": {
+            "text": "什么？",
+            "scores": {
+                "comet": 83.0089271068573
+            }
+        },
+        "TT2": {
+            "text": "什么？",
+            "scores": {
+                "comet": 83.0089271068573
+            }
+        },
+        "TT3": {
+            "text": "什么？",
+            "scores": {
+                "comet": 83.0089271068573
+            }
+        }
+    },
+    {
+        "index": 266,
+        "ST": "Oh, I see. With the pants.",
+        "TT1": {
+            "text": "哦，我明白了。和裤子搭配。",
+            "scores": {
+                "comet": 76.25412940979004
+            }
+        },
+        "TT2": {
+            "text": "哦，我明白了。和裤子配套的。",
+            "scores": {
+                "comet": 69.23882961273193
+            }
+        },
+        "TT3": {
+            "text": "哦，我明白了，和裤子配。",
+            "scores": {
+                "comet": 70.54806351661682
+            }
+        }
+    },
+    {
+        "index": 267,
+        "ST": "So I guess it's a whole thing.",
+        "TT1": {
+            "text": "所以我猜这是一整套。",
+            "scores": {
+                "comet": 73.19158911705017
+            }
+        },
+        "TT2": {
+            "text": "所以我猜这是个整体风格。",
+            "scores": {
+                "comet": 64.04308676719666
+            }
+        },
+        "TT3": {
+            "text": "所以我猜你是一套的。",
+            "scores": {
+                "comet": 49.863240122795105
+            }
+        }
+    },
+    {
+        "index": 268,
+        "ST": "My wife picked these out.",
+        "TT1": {
+            "text": "是我老婆给我挑的。",
+            "scores": {
+                "comet": 82.66693949699402
+            }
+        },
+        "TT2": {
+            "text": "我老婆帮我选的。",
+            "scores": {
+                "comet": 84.36208963394165
+            }
+        },
+        "TT3": {
+            "text": "我老婆给我挑的。",
+            "scores": {
+                "comet": 81.76400661468506
+            }
+        }
+    },
+    {
+        "index": 269,
+        "ST": "Then you married poorly.",
+        "TT1": {
+            "text": "那你结婚结得真不怎么样。",
+            "scores": {
+                "comet": 64.77717161178589
+            }
+        },
+        "TT2": {
+            "text": "那你娶得不好。",
+            "scores": {
+                "comet": 66.17686748504639
+            }
+        },
+        "TT3": {
+            "text": "那你真是娶错人了。",
+            "scores": {
+                "comet": 79.2405903339386
+            }
+        }
+    },
+    {
+        "index": 270,
+        "ST": "Do you care about Pied Piper?",
+        "TT1": {
+            "text": "你在乎Pied Piper吗？",
+            "scores": {
+                "comet": 81.69286847114563
+            }
+        },
+        "TT2": {
+            "text": "你关心派派iper吗？",
+            "scores": {
+                "comet": 56.58408999443054
+            }
+        },
+        "TT3": {
+            "text": "你在乎 Pied Piper 吗？",
+            "scores": {
+                "comet": 80.84155321121216
+            }
+        }
+    },
+    {
+        "index": 271,
+        "ST": "Do I care about Pied Piper?Well, of course.",
+        "TT1": {
+            "text": "我在乎Pied Piper吗？当然在乎。",
+            "scores": {
+                "comet": 83.44075679779053
+            }
+        },
+        "TT2": {
+            "text": "我关心派派iper吗？当然。",
+            "scores": {
+                "comet": 56.183838844299316
+            }
+        },
+        "TT3": {
+            "text": "你在乎 Pied Piper 吗？当然在乎。",
+            "scores": {
+                "comet": 83.31761360168457
+            }
+        }
+    },
+    {
+        "index": 272,
+        "ST": "Cause if you do, I'm not seeing it.",
+        "TT1": {
+            "text": "因为如果你在乎，我看不出来。",
+            "scores": {
+                "comet": 66.20652675628662
+            }
+        },
+        "TT2": {
+            "text": "因为如果你真的关心，我没看出来。",
+            "scores": {
+                "comet": 56.28243088722229
+            }
+        },
+        "TT3": {
+            "text": "因为如果你在乎，我看不出来。",
+            "scores": {
+                "comet": 66.20652675628662
+            }
+        }
+    },
+    {
+        "index": 273,
+        "ST": "In fact, what I think I'm seeingis the human equivalent of a flaccid penis.",
+        "TT1": {
+            "text": "事实上，我看到的是人类版的萎缩阴茎。",
+            "scores": {
+                "comet": 83.68139863014221
+            }
+        },
+        "TT2": {
+            "text": "事实上，我认为我看到的是人类等同于疲软的阳具。",
+            "scores": {
+                "comet": 61.022400856018066
+            }
+        },
+        "TT3": {
+            "text": "事实上，我看到的更像是软趴趴的阴茎。",
+            "scores": {
+                "comet": 71.86527252197266
+            }
+        }
+    },
+    {
+        "index": 274,
+        "ST": "\"Flak-Sid.\" It's actuallypronounced \"flak-Sid.\"",
+        "TT1": {
+            "text": "“flaccid。”它实际上发音是“flak-Sid。”",
+            "scores": {
+                "comet": 68.81629228591919
+            }
+        },
+        "TT2": {
+            "text": "“flak-sid。” 实际上是发音“flak-sid。”",
+            "scores": {
+                "comet": 73.745596408844
+            }
+        },
+        "TT3": {
+            "text": "“软趴趴。”实际上发音是“软趴趴”。",
+            "scores": {
+                "comet": 70.43412327766418
+            }
+        }
+    },
+    {
+        "index": 275,
+        "ST": "Not a lot of people know that.",
+        "TT1": {
+            "text": "很多人不知道这一点。",
+            "scores": {
+                "comet": 86.66183948516846
+            }
+        },
+        "TT2": {
+            "text": "知道的人不多。",
+            "scores": {
+                "comet": 84.6403419971466
+            }
+        },
+        "TT3": {
+            "text": "没多少人知道这个。",
+            "scores": {
+                "comet": 86.87782287597656
+            }
+        }
+    },
+    {
+        "index": 276,
+        "ST": "Well, we are definitely interested, but I think we need to…",
+        "TT1": {
+            "text": "好吧，我们肯定是感兴趣的，但我认为我们需要…",
+            "scores": {
+                "comet": 82.67035484313965
+            }
+        },
+        "TT2": {
+            "text": "嗯，我们确实很感兴趣，但我想我们需要…",
+            "scores": {
+                "comet": 84.89248156547546
+            }
+        },
+        "TT3": {
+            "text": "嗯，我们肯定感兴趣，但我想我们需要……",
+            "scores": {
+                "comet": 84.14923548698425
+            }
+        }
+    },
+    {
+        "index": 277,
+        "ST": "I'm sorry. ls something wrong?",
+        "TT1": {
+            "text": "抱歉。有什么问题吗？",
+            "scores": {
+                "comet": 85.11800169944763
+            }
+        },
+        "TT2": {
+            "text": "对不起，有什么问题吗？",
+            "scores": {
+                "comet": 85.76387166976929
+            }
+        },
+        "TT3": {
+            "text": "对不起，有什么问题吗？",
+            "scores": {
+                "comet": 85.76386570930481
+            }
+        }
+    },
+    {
+        "index": 278,
+        "ST": "No, this is all wrong.",
+        "TT1": {
+            "text": "不，这一切都不对。",
+            "scores": {
+                "comet": 85.78470945358276
+            }
+        },
+        "TT2": {
+            "text": "不，这一切都不对。",
+            "scores": {
+                "comet": 85.78470945358276
+            }
+        },
+        "TT3": {
+            "text": "不，都是错的。",
+            "scores": {
+                "comet": 84.11253094673157
+            }
+        }
+    },
+    {
+        "index": 279,
+        "ST": "I am sensing a general lack of vision.",
+        "TT1": {
+            "text": "我感觉缺乏远见。",
+            "scores": {
+                "comet": 79.3667197227478
+            }
+        },
+        "TT2": {
+            "text": "我感到一种普遍的缺乏远见。",
+            "scores": {
+                "comet": 80.5676817893982
+            }
+        },
+        "TT3": {
+            "text": "我感觉到一种普遍的缺乏愿景。",
+            "scores": {
+                "comet": 79.72623705863953
+            }
+        }
+    },
+    {
+        "index": 280,
+        "ST": "Your muffins smell like shit.",
+        "TT1": {
+            "text": "你们的松饼闻起来像屎。",
+            "scores": {
+                "comet": 84.51882600784302
+            }
+        },
+        "TT2": {
+            "text": "你们的松饼闻起来像屎。",
+            "scores": {
+                "comet": 84.51882600784302
+            }
+        },
+        "TT3": {
+            "text": "你们的松饼闻起来像屎。",
+            "scores": {
+                "comet": 84.51882600784302
+            }
+        }
+    },
+    {
+        "index": 281,
+        "ST": "So do your ideas.",
+        "TT1": {
+            "text": "你们的想法也一样。",
+            "scores": {
+                "comet": 73.66248369216919
+            }
+        },
+        "TT2": {
+            "text": "你们的想法也是。",
+            "scores": {
+                "comet": 70.60356140136719
+            }
+        },
+        "TT3": {
+            "text": "你们的想法也一样。",
+            "scores": {
+                "comet": 73.66248369216919
+            }
+        }
+    },
+    {
+        "index": 282,
+        "ST": "One of you is the least attractive person I've ever seen, and I'm not gonna say who.",
+        "TT1": {
+            "text": "你们当中有一个是我见过的最不吸引人的人，但我不会说是谁。",
+            "scores": {
+                "comet": 85.95329523086548
+            }
+        },
+        "TT2": {
+            "text": "你们中有一个人是我见过最不吸引人的人，我不会说是谁。",
+            "scores": {
+                "comet": 85.45730113983154
+            }
+        },
+        "TT3": {
+            "text": "你们中有一个是我见过最不吸引人的人，但我不会说是谁。",
+            "scores": {
+                "comet": 85.2624237537384
+            }
+        }
+    },
+    {
+        "index": 283,
+        "ST": "Should we leave or should you?",
+        "TT1": {
+            "text": "我们该走还是你们该走？",
+            "scores": {
+                "comet": 85.36203503608704
+            }
+        },
+        "TT2": {
+            "text": "我们该走还是你们该走？",
+            "scores": {
+                "comet": 85.36203503608704
+            }
+        },
+        "TT3": {
+            "text": "我们应该走，还是你们走？",
+            "scores": {
+                "comet": 83.65079164505005
+            }
+        }
+    },
+    {
+        "index": 284,
+        "ST": "We just got offered eight at 40.",
+        "TT1": {
+            "text": "我们刚刚得到了8百万的报价估值4千万。",
+            "scores": {
+                "comet": 43.4733122587204
+            }
+        },
+        "TT2": {
+            "text": "我们刚刚收到了8/40的报价。",
+            "scores": {
+                "comet": 66.89373850822449
+            }
+        },
+        "TT3": {
+            "text": "我们刚刚收到8个估值40的报价。",
+            "scores": {
+                "comet": 52.2449254989624
+            }
+        }
+    },
+    {
+        "index": 285,
+        "ST": "We're five for five, gentlemen.",
+        "TT1": {
+            "text": "我们五战全胜，先生们。",
+            "scores": {
+                "comet": 68.9014196395874
+            }
+        },
+        "TT2": {
+            "text": "我们五战全胜，先生们。",
+            "scores": {
+                "comet": 68.9014196395874
+            }
+        },
+        "TT3": {
+            "text": "我们五战全胜，先生们。",
+            "scores": {
+                "comet": 68.9014196395874
+            }
+        }
+    },
+    {
+        "index": 286,
+        "ST": "And Galveston Capital Fundand Yountville Ventures called.",
+        "TT1": {
+            "text": "Galveston资本基金和Yountville Ventures打来电话。",
+            "scores": {
+                "comet": 80.79724907875061
+            }
+        },
+        "TT2": {
+            "text": "加尔维斯顿资本基金和扬特维尔风险投资打电话来了。",
+            "scores": {
+                "comet": 79.75748181343079
+            }
+        },
+        "TT3": {
+            "text": "而 Galveston Capital Fund和 Yountville Ventures 打来了电话。",
+            "scores": {
+                "comet": 78.41260433197021
+            }
+        }
+    },
+    {
+        "index": 287,
+        "ST": "They want to move their meetings upbefore everyone else.",
+        "TT1": {
+            "text": "他们想在其他人之前提前安排会议。",
+            "scores": {
+                "comet": 82.9929769039154
+            }
+        },
+        "TT2": {
+            "text": "他们想在其他人之前提前会议。",
+            "scores": {
+                "comet": 78.99608612060547
+            }
+        },
+        "TT3": {
+            "text": "他们想在其他人之前提前安排会议。",
+            "scores": {
+                "comet": 82.9929769039154
+            }
+        }
+    },
+    {
+        "index": 288,
+        "ST": "Hey, let me try.I want to be rude at this next one.",
+        "TT1": {
+            "text": "嘿，让我试试。我想在下一个会议上表现粗鲁。",
+            "scores": {
+                "comet": 81.80480003356934
+            }
+        },
+        "TT2": {
+            "text": "嘿，让我试试。我想在下一场会议上变得粗鲁。",
+            "scores": {
+                "comet": 79.73663806915283
+            }
+        },
+        "TT3": {
+            "text": "嘿，让我试试。我想在下一个会上表现粗鲁。",
+            "scores": {
+                "comet": 80.8074951171875
+            }
+        }
+    },
+    {
+        "index": 289,
+        "ST": "Go for it.",
+        "TT1": {
+            "text": "你上吧。",
+            "scores": {
+                "comet": 56.04895353317261
+            }
+        },
+        "TT2": {
+            "text": "去吧。",
+            "scores": {
+                "comet": 66.37603044509888
+            }
+        },
+        "TT3": {
+            "text": "来吧。",
+            "scores": {
+                "comet": 81.07601404190063
+            }
+        }
+    },
+    {
+        "index": 290,
+        "ST": "So, with some proper funding, we should be able to get a functioning beta in time for CES.",
+        "TT1": {
+            "text": "那么，有了适当的资金，我们应该能够在CES前推出一个功能齐全的测试版。",
+            "scores": {
+                "comet": 84.1060996055603
+            }
+        },
+        "TT2": {
+            "text": "所以，有了适当的资金，我们应该能在CES之前推出一个可用的测试版。",
+            "scores": {
+                "comet": 85.22661924362183
+            }
+        },
+        "TT3": {
+            "text": "所以，有了适当的资金，我们应该能在 CES 前推出一个功能齐全的测试版。",
+            "scores": {
+                "comet": 84.21052694320679
+            }
+        }
+    },
+    {
+        "index": 291,
+        "ST": "And if you don't fund us, you're a fucking slut.",
+        "TT1": {
+            "text": "如果你们不资助我们，你们就是个贱人。",
+            "scores": {
+                "comet": 84.7485363483429
+            }
+        },
+        "TT2": {
+            "text": "如果你们不资助我们，你就是个他妈的婊子。",
+            "scores": {
+                "comet": 85.28729677200317
+            }
+        },
+        "TT3": {
+            "text": "如果你们不资助我们，你们就是一群婊子。",
+            "scores": {
+                "comet": 84.96472835540771
+            }
+        }
+    },
+    {
+        "index": 292,
+        "ST": "Oh...",
+        "TT1": {
+            "text": "哦...",
+            "scores": {
+                "comet": 83.39875340461731
+            }
+        },
+        "TT2": {
+            "text": "哦...",
+            "scores": {
+                "comet": 83.39875340461731
+            }
+        },
+        "TT3": {
+            "text": "哦……",
+            "scores": {
+                "comet": 82.98982381820679
+            }
+        }
+    },
+    {
+        "index": 293,
+        "ST": "What's that smell? Is that a fart?",
+        "TT1": {
+            "text": "那是什么味道？是放屁味吗？",
+            "scores": {
+                "comet": 82.35145211219788
+            }
+        },
+        "TT2": {
+            "text": "那是什么味道？是屁吗？",
+            "scores": {
+                "comet": 84.23145413398743
+            }
+        },
+        "TT3": {
+            "text": "那是什么味道？是放屁了吗？",
+            "scores": {
+                "comet": 80.61110377311707
+            }
+        }
+    },
+    {
+        "index": 294,
+        "ST": "Are you a farter?",
+        "TT1": {
+            "text": "你是个放屁者吗？",
+            "scores": {
+                "comet": 72.13071584701538
+            }
+        },
+        "TT2": {
+            "text": "你放屁了吗？",
+            "scores": {
+                "comet": 69.69646215438843
+            }
+        },
+        "TT3": {
+            "text": "你是个放屁者吗？",
+            "scores": {
+                "comet": 72.13072180747986
+            }
+        }
+    },
+    {
+        "index": 295,
+        "ST": "Now, can I have a pastry?Or are you guys gonna eat 'em all?",
+        "TT1": {
+            "text": "现在，我可以吃块点心吗？还是你们都要吃光？",
+            "scores": {
+                "comet": 77.20109820365906
+            }
+        },
+        "TT2": {
+            "text": "现在，我能吃个糕点吗？还是你们全都要吃掉？",
+            "scores": {
+                "comet": 73.74886274337769
+            }
+        },
+        "TT3": {
+            "text": "现在，我能吃个糕点吗？还是你们要全吃光？",
+            "scores": {
+                "comet": 80.13162612915039
+            }
+        }
+    },
+    {
+        "index": 296,
+        "ST": "'Cause you're gonna get fat.",
+        "TT1": {
+            "text": "因为你们会变胖的。",
+            "scores": {
+                "comet": 84.68412756919861
+            }
+        },
+        "TT2": {
+            "text": "因为你们会变胖的。",
+            "scores": {
+                "comet": 84.68412756919861
+            }
+        },
+        "TT3": {
+            "text": "因为你们会变胖的。",
+            "scores": {
+                "comet": 84.68412756919861
+            }
+        }
+    },
+    {
+        "index": 297,
+        "ST": "It's not your fault, Richard.",
+        "TT1": {
+            "text": "这不是你的错，Richard。这东西是教不来的，",
+            "scores": {
+                "comet": 70.18126249313354
+            }
+        },
+        "TT2": {
+            "text": "这不是你的错，理查德。",
+            "scores": {
+                "comet": 88.69470953941345
+            }
+        },
+        "TT3": {
+            "text": "这不是你的错，Richard。",
+            "scores": {
+                "comet": 88.50283622741699
+            }
+        }
+    },
+    {
+        "index": 298,
+        "ST": "This is just something that can't be taught, so leave the next one to me. I can feel a big one coming on.",
+        "TT1": {
+            "text": "所以下一个交给我吧。我能感觉到一个大招要来了。",
+            "scores": {
+                "comet": 60.47343611717224
+            }
+        },
+        "TT2": {
+            "text": "这是一种无法教导的东西，所以下次交给我。我感觉有一个大的要来了。",
+            "scores": {
+                "comet": 60.55600643157959
+            }
+        },
+        "TT3": {
+            "text": "这种东西是学不来的，所以把下一个留给我吧。我感觉有大事要来了。",
+            "scores": {
+                "comet": 80.69441318511963
+            }
+        }
+    },
+    {
+        "index": 299,
+        "ST": "What are you gonna do?",
+        "TT1": {
+            "text": "你打算做什么？",
+            "scores": {
+                "comet": 85.41820645332336
+            }
+        },
+        "TT2": {
+            "text": "你要干什么？",
+            "scores": {
+                "comet": 84.50961112976074
+            }
+        },
+        "TT3": {
+            "text": "你打算做什么？",
+            "scores": {
+                "comet": 85.41820645332336
+            }
+        }
+    },
+    {
+        "index": 300,
+        "ST": "I'm not sure yet, but give me room.",
+        "TT1": {
+            "text": "我还不知道，但给我点空间。",
+            "scores": {
+                "comet": 81.6852867603302
+            }
+        },
+        "TT2": {
+            "text": "我还不确定，但给我一点空间。",
+            "scores": {
+                "comet": 83.85381698608398
+            }
+        },
+        "TT3": {
+            "text": "我还不确定，但给我点空间。",
+            "scores": {
+                "comet": 83.05727243423462
+            }
+        }
+    },
+    {
+        "index": 301,
+        "ST": "There's something inside of me that has to come out, and who am I to stop it?",
+        "TT1": {
+            "text": "我内心有些东西要爆发了，而我没理由阻止它。",
+            "scores": {
+                "comet": 84.39357876777649
+            }
+        },
+        "TT2": {
+            "text": "有些东西在我内心深处必须出来，而我是谁，能阻止它呢？",
+            "scores": {
+                "comet": 81.34114742279053
+            }
+        },
+        "TT3": {
+            "text": "我体内有些东西必须出来，我怎么能阻止它呢？",
+            "scores": {
+                "comet": 85.67129373550415
+            }
+        }
+    },
+    {
+        "index": 302,
+        "ST": "His balls?",
+        "TT1": {
+            "text": "他的蛋？",
+            "scores": {
+                "comet": 43.1812584400177
+            }
+        },
+        "TT2": {
+            "text": "他的蛋蛋？",
+            "scores": {
+                "comet": 74.61097836494446
+            }
+        },
+        "TT3": {
+            "text": "他的蛋蛋？",
+            "scores": {
+                "comet": 74.61097836494446
+            }
+        }
+    },
+    {
+        "index": 303,
+        "ST": "He put his balls on the table?",
+        "TT1": {
+            "text": "他把蛋放在桌上？",
+            "scores": {
+                "comet": 56.6036581993103
+            }
+        },
+        "TT2": {
+            "text": "他把蛋蛋放在桌子上了？",
+            "scores": {
+                "comet": 66.41764640808105
+            }
+        },
+        "TT3": {
+            "text": "他把他的蛋蛋放在桌上了？",
+            "scores": {
+                "comet": 64.73586559295654
+            }
+        }
+    },
+    {
+        "index": 304,
+        "ST": "- Right on the table.- On purpose?",
+        "TT1": {
+            "text": "- 就放在桌上。- 故意的？",
+            "scores": {
+                "comet": 79.83866333961487
+            }
+        },
+        "TT2": {
+            "text": "- 就放在桌子上。- 故意的？",
+            "scores": {
+                "comet": 79.14024591445923
+            }
+        },
+        "TT3": {
+            "text": "- 就放在桌上。- 是故意的？",
+            "scores": {
+                "comet": 80.08335828781128
+            }
+        }
+    },
+    {
+        "index": 305,
+        "ST": "I don't see how it could be by accident.",
+        "TT1": {
+            "text": "我不认为这会是意外。",
+            "scores": {
+                "comet": 85.00399589538574
+            }
+        },
+        "TT2": {
+            "text": "我不认为这会是意外。",
+            "scores": {
+                "comet": 85.00399589538574
+            }
+        },
+        "TT3": {
+            "text": "我看不出怎么可能是意外。",
+            "scores": {
+                "comet": 83.48091244697571
+            }
+        }
+    },
+    {
+        "index": 306,
+        "ST": "Richard, I just got an emailfrom the guys at Midland-Oak.",
+        "TT1": {
+            "text": "Richard，我刚收到Midland-Oak的人发来的邮件。",
+            "scores": {
+                "comet": 83.48160982131958
+            }
+        },
+        "TT2": {
+            "text": "理查德，我刚刚收到了来自米德兰橡木的邮件",
+            "scores": {
+                "comet": 75.61395168304443
+            }
+        },
+        "TT3": {
+            "text": "Richard，我刚收到Midland-Oak 的邮件。",
+            "scores": {
+                "comet": 75.72340965270996
+            }
+        }
+    },
+    {
+        "index": 307,
+        "ST": "Apparently, there is aline, and I crossed it...",
+        "TT1": {
+            "text": "显然，存在一个界限，而我越过了它...",
+            "scores": {
+                "comet": 72.95138835906982
+            }
+        },
+        "TT2": {
+            "text": "显然，有一条线，我越过了...",
+            "scores": {
+                "comet": 72.44238257408142
+            }
+        },
+        "TT3": {
+            "text": "显然，有一条线，我跨过了……",
+            "scores": {
+                "comet": 71.82307243347168
+            }
+        }
+    },
+    {
+        "index": 308,
+        "ST": "The line between $12 and $15 million!",
+        "TT1": {
+            "text": "在1200万和1500万之间！",
+            "scores": {
+                "comet": 53.971242904663086
+            }
+        },
+        "TT2": {
+            "text": "在1200万和1500万之间的线！",
+            "scores": {
+                "comet": 54.305946826934814
+            }
+        },
+        "TT3": {
+            "text": "12 和 15 百万美元之间的那条线！",
+            "scores": {
+                "comet": 77.15233564376831
+            }
+        }
+    },
+    {
+        "index": 309,
+        "ST": "Ba-bam!",
+        "TT1": {
+            "text": "啪！",
+            "scores": {
+                "comet": 56.437766551971436
+            }
+        },
+        "TT2": {
+            "text": "砰！",
+            "scores": {
+                "comet": 72.47081995010376
+            }
+        },
+        "TT3": {
+            "text": "啪！",
+            "scores": {
+                "comet": 56.43776059150696
+            }
+        }
+    },
+    {
+        "index": 310,
+        "ST": "Midland-Oak's offer just came in.",
+        "TT1": {
+            "text": "Midland-Oak的报价刚刚来了。",
+            "scores": {
+                "comet": 83.24748277664185
+            }
+        },
+        "TT2": {
+            "text": "米德兰橡木的报价刚刚进来了。",
+            "scores": {
+                "comet": 78.14644575119019
+            }
+        },
+        "TT3": {
+            "text": "Midland-Oak 的报价刚刚到了。",
+            "scores": {
+                "comet": 81.32779598236084
+            }
+        }
+    },
+    {
+        "index": 311,
+        "ST": "Gentlemen, we are valued at 75 million, fully diluted.",
+        "TT1": {
+            "text": "先生们，我们的估值是7500万美元，全面摊薄。",
+            "scores": {
+                "comet": 80.21989464759827
+            }
+        },
+        "TT2": {
+            "text": "先生们，我们的估值是7500万，全面摊薄。",
+            "scores": {
+                "comet": 77.60911583900452
+            }
+        },
+        "TT3": {
+            "text": "先生们，我们的估值是7500万美元，完全稀释后。",
+            "scores": {
+                "comet": 72.66414761543274
+            }
+        }
+    },
+    {
+        "index": 312,
+        "ST": "Are you shitting me?",
+        "TT1": {
+            "text": "你在开玩笑吗？",
+            "scores": {
+                "comet": 76.46998167037964
+            }
+        },
+        "TT2": {
+            "text": "你在逗我吗？",
+            "scores": {
+                "comet": 66.14893674850464
+            }
+        },
+        "TT3": {
+            "text": "你在开玩笑吧？",
+            "scores": {
+                "comet": 76.44162774085999
+            }
+        }
+    },
+    {
+        "index": 313,
+        "ST": "Take a look at these term sheets.",
+        "TT1": {
+            "text": "看看这些条款清单。",
+            "scores": {
+                "comet": 82.55200386047363
+            }
+        },
+        "TT2": {
+            "text": "看看这些条款清单。",
+            "scores": {
+                "comet": 82.55200386047363
+            }
+        },
+        "TT3": {
+            "text": "看看这些条款清单。",
+            "scores": {
+                "comet": 82.55200386047363
+            }
+        }
+    },
+    {
+        "index": 314,
+        "ST": "There is a linear correlation between how intolerable I was, and the height of valuation.",
+        "TT1": {
+            "text": "有一个线性关系在我有多难以忍受和估值的高度之间。",
+            "scores": {
+                "comet": 68.85060667991638
+            }
+        },
+        "TT2": {
+            "text": "我有多让人讨厌，估值就有多高有线性关系。",
+            "scores": {
+                "comet": 77.26600170135498
+            }
+        },
+        "TT3": {
+            "text": "我的无法忍受程度和估值的高度之间存在线性关系。",
+            "scores": {
+                "comet": 83.96492004394531
+            }
+        }
+    }
+]

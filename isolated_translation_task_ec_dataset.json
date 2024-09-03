@@ -1,0 +1,3402 @@
+[
+    {
+        "index": 1,
+        "ST": {
+            "en": "Last week, the broadcast of period drama “Beauty Private Kitchen” was temporarily halted, and accidentally triggered heated debate about faked ratings of locally produced dramas.",
+            "zh": "上周，古装剧《美人私房菜》临时停播，意外引发了关于国产剧收视率造假的热烈讨论。"
+        },
+        "TT1": {
+            "text": "上周，古装剧《美人私房菜》的播出被暂时叫停，意外引发了关于国产剧虚假收视率的激烈讨论。",
+            "scores": {
+                "bleu": 44.60180673668459,
+                "chrf": 39.114269926359896,
+                "comet-ref": 92.17883944511414,
+                "comet-noref": 84.15696024894714
+            }
+        },
+        "TT2": {
+            "text": "上周，古装剧《美人私房菜》的播出被暂时中止，无意中引发了关于国产剧收视率造假的激烈讨论。",
+            "scores": {
+                "bleu": 52.13698886525066,
+                "chrf": 45.795671747684125,
+                "comet-ref": 92.50145554542542,
+                "comet-noref": 84.29127335548401
+            }
+        },
+        "TT3": {
+            "text": "上周，电视剧《美人私房菜》的播出被暂时中止，意外引发了关于本地制作剧虚假收视率的激烈讨论。",
+            "scores": {
+                "bleu": 32.16104126547491,
+                "chrf": 27.277689804806947,
+                "comet-ref": 89.02494311332703,
+                "comet-noref": 82.52080082893372
+            }
+        }
+    },
+    {
+        "index": 2,
+        "ST": {
+            "en": "Civil rights group issues travel warning for Missouri",
+            "zh": "民权团体针对密苏里州发出旅行警告"
+        },
+        "TT1": {
+            "text": "民权组织对密苏里州发布旅行警告。",
+            "scores": {
+                "bleu": 49.35578819979932,
+                "chrf": 41.37215330336069,
+                "comet-ref": 95.36431431770325,
+                "comet-noref": 85.79599261283875
+            }
+        },
+        "TT2": {
+            "text": "民权组织发布密苏里州旅行警告。",
+            "scores": {
+                "bleu": 34.46073377034663,
+                "chrf": 29.738877744756465,
+                "comet-ref": 94.98148560523987,
+                "comet-noref": 85.19477248191833
+            }
+        },
+        "TT3": {
+            "text": "民权团体对密苏里州发布旅行警告。",
+            "scores": {
+                "bleu": 61.28081331864041,
+                "chrf": 49.803967390516604,
+                "comet-ref": 96.03186249732971,
+                "comet-noref": 85.88356375694275
+            }
+        }
+    },
+    {
+        "index": 3,
+        "ST": {
+            "en": "The National Association for the Advancement of Colored People has put out an alert for people of color traveling to Missouri because of the state's discriminatory policies and racist attacks.",
+            "zh": "由于密苏里州的歧视性政策和种族主义袭击，美国有色人种促进协会 (NAACP) 向准备前往密苏里州出游的有色人群发出旅行警告。"
+        },
+        "TT1": {
+            "text": "全国有色人种促进会已发布警报，提醒有色人种在密苏里州旅行时注意，该州存在歧视性政策和种族主义攻击。",
+            "scores": {
+                "bleu": 34.507656623361484,
+                "chrf": 33.98677073036573,
+                "comet-ref": 87.138432264328,
+                "comet-noref": 85.82636713981628
+            }
+        },
+        "TT2": {
+            "text": "全国有色人种协进会发出警告，提醒有色人种在密苏里州旅行时要小心，因为该州存在歧视政策和种族主义攻击。",
+            "scores": {
+                "bleu": 26.99563140023629,
+                "chrf": 25.83317416588392,
+                "comet-ref": 88.07632327079773,
+                "comet-noref": 85.64282655715942
+            }
+        },
+        "TT3": {
+            "text": "全国有色人种协进会已发布警报，提醒有色人种在密苏里州旅行时要注意，因为该州存在歧视性政策和种族主义袭击。",
+            "scores": {
+                "bleu": 34.782639769267526,
+                "chrf": 32.661683882000645,
+                "comet-ref": 87.88446187973022,
+                "comet-noref": 86.03952527046204
+            }
+        }
+    },
+    {
+        "index": 4,
+        "ST": {
+            "en": "\"The NAACP Travel Advisory for the state of Missouri, effective through August 28th, 2017, calls for African American travelers, visitors and Missourians to pay special attention and exercise extreme caution when traveling throughout the state given the series of questionable, race-based incidents occurring statewide recently, and noted therein,\" the group's statement reads.",
+            "zh": "“2017 年 8 月 28 日生效的 NAACP 密苏里州旅行咨询中呼吁，因近期密苏里州发生了一系列可疑的种族性事件，所有非裔美籍旅行者、游客以及密苏里州人在密苏里州旅行时应特别注意并采取极其谨慎的态度，特此告知，”该团体的声明宣称。"
+        },
+        "TT1": {
+            "text": "“全国有色人种协进会（NAACP）发出的密苏里州旅行建议，自2017年8月28日起生效，呼吁非裔美国旅行者、游客和密苏里州居民在全州旅行时特别注意并保持高度警惕，因为最近全州发生了一系列可疑的、基于种族的事件。”该组织的声明中写道。",
+            "scores": {
+                "bleu": 32.259617357603375,
+                "chrf": 32.4745762762765,
+                "comet-ref": 86.39208674430847,
+                "comet-noref": 83.8963508605957
+            }
+        },
+        "TT2": {
+            "text": "“全国有色人种协进会（NAACP）发布的密苏里州旅行警告将持续至2017年8月28日，呼吁非裔美国旅行者、访客和密苏里州居民在全州旅行时给予特别关注，并采取极端谨慎的态度，因为近期全州发生了一系列可疑的、基于种族的事件，”该组织的声明称。",
+            "scores": {
+                "bleu": 34.45460918547924,
+                "chrf": 33.29576495761909,
+                "comet-ref": 85.70271134376526,
+                "comet-noref": 83.16726684570312
+            }
+        },
+        "TT3": {
+            "text": "\"全美有色人种协进会对密苏里州的旅行警告，生效至2017年8月28日，呼吁非裔美国旅行者、访客和密苏里州居民在全州旅行时特别注意，并采取极端谨慎的态度，因为近期全州发生了一系列可疑的、基于种族的事件，该警告在此提到了这些事件，\"该组织的声明写道。",
+            "scores": {
+                "bleu": 35.117202241581204,
+                "chrf": 32.19614619312721,
+                "comet-ref": 85.52257418632507,
+                "comet-noref": 83.73974561691284
+            }
+        }
+    },
+    {
+        "index": 5,
+        "ST": {
+            "en": "A recent Missouri law making it harder for people to win discrimination lawsuits, as well as the state's law enforcement disproportionately targeting minorities prompted the group to issue the travel alert, the NAACP said.",
+            "zh": "NAACP 指出，最近通过的一项密苏里州法律使得人们更难赢得歧视诉讼，该州执法也一定程度上针对少数群体，这些现象促使该组织发布了旅行警告。"
+        },
+        "TT1": {
+            "text": "美国全国有色人种协进会（NAACP）表示，密苏里州最近的一项法律使人们更难赢得歧视诉讼，同时该州执法部门不成比例地针对少数族裔，这促使该组织发布了旅行警告。",
+            "scores": {
+                "bleu": 44.07686713995247,
+                "chrf": 39.11574569319402,
+                "comet-ref": 85.68360209465027,
+                "comet-noref": 85.00887155532837
+            }
+        },
+        "TT2": {
+            "text": "美国有色人种协进会表示，最近密苏里州的一项法律使人们更难赢得歧视诉讼，再加上该州执法部门对少数族裔的过度针对，促使该组织发布了旅行警告。",
+            "scores": {
+                "bleu": 46.09623703505631,
+                "chrf": 39.1274027857972,
+                "comet-ref": 88.0304753780365,
+                "comet-noref": 83.84833335876465
+            }
+        },
+        "TT3": {
+            "text": "美国全国有色人种协进会（NAACP）表示，密苏里州最近通过的一项法律使人们更难赢得歧视诉讼，以及该州执法部门不成比例地针对少数群体，这促使该组织发布了旅行警告。",
+            "scores": {
+                "bleu": 50.97102160552129,
+                "chrf": 45.104659897928286,
+                "comet-ref": 87.02312111854553,
+                "comet-noref": 84.79779958724976
+            }
+        }
+    },
+    {
+        "index": 6,
+        "ST": {
+            "en": "\"You have violations of civil rights that are happening to people.",
+            "zh": "侵犯公民权利的行为正发生在人们身上。"
+        },
+        "TT1": {
+            "text": "\"你有侵犯人们民权的行为正在发生。\"",
+            "scores": {
+                "bleu": 22.311803679996768,
+                "chrf": 25.654052573533427,
+                "comet-ref": 85.59470176696777,
+                "comet-noref": 71.78382873535156
+            }
+        },
+        "TT2": {
+            "text": "“有人正在遭受侵犯民权的行为。”",
+            "scores": {
+                "bleu": 12.846189726767717,
+                "chrf": 18.422659032815915,
+                "comet-ref": 89.67686295509338,
+                "comet-noref": 78.0086100101471
+            }
+        },
+        "TT3": {
+            "text": "你有侵犯人民公民权利的行为。",
+            "scores": {
+                "bleu": 37.15770152515523,
+                "chrf": 42.6091515673309,
+                "comet-ref": 87.74755597114563,
+                "comet-noref": 76.70766115188599
+            }
+        }
+    },
+    {
+        "index": 7,
+        "ST": {
+            "en": "They're being pulled over because of their skin color, they're being beaten up or killed,\" the president of the Missouri NAACP, Rod Chapel, told The Kansas City Star.",
+            "zh": "他们因肤色被停车盘问，被殴打或被杀害，”密苏里州 NAACP 主席罗德·查培尔告诉堪萨斯城星报 (The Kansas City Star)。"
+        },
+        "TT1": {
+            "text": "“他们因为肤色被拦下，被殴打甚至被杀害，”密苏里州全国有色人种协进会主席罗德·查佩尔对《堪萨斯城星报》说。",
+            "scores": {
+                "bleu": 28.753344018306866,
+                "chrf": 23.307826195425218,
+                "comet-ref": 87.47937083244324,
+                "comet-noref": 82.14801549911499
+            }
+        },
+        "TT2": {
+            "text": "密苏里州全国有色人种协进会（NAACP）主席罗德·查普尔告诉《堪萨斯城星报》：“他们因为肤色而被拦下，他们被殴打甚至被杀害。”",
+            "scores": {
+                "bleu": 36.69901212069086,
+                "chrf": 34.44838599216087,
+                "comet-ref": 86.80588603019714,
+                "comet-noref": 83.65172147750854
+            }
+        },
+        "TT3": {
+            "text": "密苏里州全国有色人种协进会主席罗德·查普尔告诉《堪萨斯城明星报》说：“他们因为肤色而被拦下，被殴打甚至杀害。”",
+            "scores": {
+                "bleu": 29.70616051550486,
+                "chrf": 23.613863012749853,
+                "comet-ref": 86.86885237693787,
+                "comet-noref": 82.60515928268433
+            }
+        }
+    },
+    {
+        "index": 8,
+        "ST": {
+            "en": "\"We are hearing complaints at a rate we haven't heard before.\"",
+            "zh": "“我们收到了许多投诉，数量前所未有。”"
+        },
+        "TT1": {
+            "text": "\"我们听到投诉的频率是前所未有的。\"",
+            "scores": {
+                "bleu": 17.636478563502965,
+                "chrf": 18.842648847284362,
+                "comet-ref": 91.25173091888428,
+                "comet-noref": 81.88245296478271
+            }
+        },
+        "TT2": {
+            "text": "我们听到的投诉数量达到了前所未有的水平。",
+            "scores": {
+                "bleu": 20.614773521563748,
+                "chrf": 20.01024825134732,
+                "comet-ref": 87.98090815544128,
+                "comet-noref": 82.76347517967224
+            }
+        },
+        "TT3": {
+            "text": "\"我们听到投诉的频率是前所未有的。\"",
+            "scores": {
+                "bleu": 17.636478563502965,
+                "chrf": 18.842648847284362,
+                "comet-ref": 91.25173091888428,
+                "comet-noref": 81.88245296478271
+            }
+        }
+    },
+    {
+        "index": 9,
+        "ST": {
+            "en": "It is the first such warning that the organization has issued for a state in the US.",
+            "zh": "这是该组织在美国针对某个州发布的第一个此类警告。"
+        },
+        "TT1": {
+            "text": "这是该组织首次对美国的一个州发出这样的警告。",
+            "scores": {
+                "bleu": 25.51001274286627,
+                "chrf": 24.996327334470624,
+                "comet-ref": 94.97141242027283,
+                "comet-noref": 86.1495852470398
+            }
+        },
+        "TT2": {
+            "text": "这是该组织首次针对美国的一个州发出此类警告。",
+            "scores": {
+                "bleu": 35.13874939965221,
+                "chrf": 32.33512547607763,
+                "comet-ref": 95.92823386192322,
+                "comet-noref": 86.22442483901978
+            }
+        },
+        "TT3": {
+            "text": "这是该组织首次对美国的一个州发出这种警告。",
+            "scores": {
+                "bleu": 25.51001274286627,
+                "chrf": 26.00635147287039,
+                "comet-ref": 94.98856663703918,
+                "comet-noref": 86.17771863937378
+            }
+        }
+    },
+    {
+        "index": 10,
+        "ST": {
+            "en": "The group cited incidents such as racial slurs against black students at the University of Missouri and the death of Tory Sanders, 28, a black man from Tennessee.",
+            "zh": "该组织援引了密苏里大学对黑人学生的种族诽谤以及 28 岁田纳西州黑人男性托利·桑德斯的死亡事件。"
+        },
+        "TT1": {
+            "text": "该团体援引了诸如密苏里大学黑人学生遭受种族歧视言语攻击以及28岁的田纳西州黑人男子托里·桑德斯之死等事件。",
+            "scores": {
+                "bleu": 35.00896154217939,
+                "chrf": 30.441998139404784,
+                "comet-ref": 90.13116955757141,
+                "comet-noref": 85.60320734977722
+            }
+        },
+        "TT2": {
+            "text": "该团体提到了几起事件，例如密苏里大学的黑人学生遭遇种族歧视言论以及来自田纳西州的28岁黑人男子托里·桑德斯的死亡。",
+            "scores": {
+                "bleu": 30.12594871983869,
+                "chrf": 26.311267458186506,
+                "comet-ref": 90.55178761482239,
+                "comet-noref": 84.5898985862732
+            }
+        },
+        "TT3": {
+            "text": "我喜欢猫。",
+            "scores": {
+                "bleu": 0.0,
+                "chrf": 0.0,
+                "comet-ref": 33.562663197517395,
+                "comet-noref": 27.221933007240295
+            }
+        }
+    },
+    {
+        "index": 11,
+        "ST": {
+            "en": "Sanders died under questionable circumstances earlier this year after he ran out of gas while traveling through the state, and was taken into custody by Missouri police without being accused of a crime.",
+            "zh": "今年早些时候，桑德斯在可疑情况下死亡。他在密苏里州旅行时燃油耗尽，被密苏里州警方在无指控犯罪的情况下拘留。"
+        },
+        "TT1": {
+            "text": "今年早些时候，Sanders在穿越该州时因燃油耗尽而被密苏里州警方拘留，在没有被指控犯罪的情况下，Sanders在可疑的情况下去世了。",
+            "scores": {
+                "bleu": 42.88082752669849,
+                "chrf": 30.85177739834136,
+                "comet-ref": 87.30791807174683,
+                "comet-noref": 80.40270805358887
+            }
+        },
+        "TT2": {
+            "text": "Sanders在今年早些时候因为汽车没油在州内旅行时被密苏里州警察拘留而没有被指控任何犯罪行为的情况下去世。",
+            "scores": {
+                "bleu": 27.500175070456148,
+                "chrf": 22.8718208618716,
+                "comet-ref": 80.93194365501404,
+                "comet-noref": 72.46321439743042
+            }
+        },
+        "TT3": {
+            "text": "今年早些时候，桑德斯在穿越该州时因汽车耗尽燃料而被密苏里州警方羁押，在没有被指控犯罪的情况下，在可疑的情况下死亡。",
+            "scores": {
+                "bleu": 47.035790748497796,
+                "chrf": 38.58594889334543,
+                "comet-ref": 86.85538172721863,
+                "comet-noref": 80.22886514663696
+            }
+        }
+    },
+    {
+        "index": 12,
+        "ST": {
+            "en": "The advisory also points to a recent report by the Missouri Attorney General's Office showing that black drivers in the state were 75 percent more likely to be pulled over than whites.",
+            "zh": "咨询中还指出，密苏里州总检察长办公室最近的一份报告显示，“与白人相比，该州的黑人司机被停车盘查的可能性要高出 75%”。"
+        },
+        "TT1": {
+            "text": "该建议还指出了密苏里州总检察长办公室最近的一份报告，该报告显示该州的黑人司机被拦下的可能性比白人高出75%。",
+            "scores": {
+                "bleu": 53.88867185253605,
+                "chrf": 53.66872868942122,
+                "comet-ref": 88.34260702133179,
+                "comet-noref": 86.05320453643799
+            }
+        },
+        "TT2": {
+            "text": "咨询中还指出密苏里州总检察长办公室最近的一份报告，显示该州的黑人司机被拦下的几率比白人高出75%。",
+            "scores": {
+                "bleu": 56.12893522347305,
+                "chrf": 62.375863258562816,
+                "comet-ref": 89.98180031776428,
+                "comet-noref": 85.70166826248169
+            }
+        },
+        "TT3": {
+            "text": "公告还指出，密苏里州总检察长办公室最近的一份报告显示，该州的黑人司机被拦下的可能性比白人司机高75%。",
+            "scores": {
+                "bleu": 52.85815510912339,
+                "chrf": 57.05104195484668,
+                "comet-ref": 90.07208943367004,
+                "comet-noref": 87.17135190963745
+            }
+        }
+    },
+    {
+        "index": 13,
+        "ST": {
+            "en": "\"The advisory is for people to be aware, and warn their families and friends and co-workers of what could happen in Missouri,\" Chapel said.",
+            "zh": "查培尔说：“该份咨询是为了提高人们的意识，警告他们的家人、朋友和同事在密苏里州可能发生的情况。”"
+        },
+        "TT1": {
+            "text": "“这个建议是为了让人们提高警惕，并提醒他们的家人、朋友和同事在密苏里州可能发生的事情，”查普尔说。",
+            "scores": {
+                "bleu": 44.00847633617823,
+                "chrf": 42.74668411242906,
+                "comet-ref": 92.72876381874084,
+                "comet-noref": 84.32058095932007
+            }
+        },
+        "TT2": {
+            "text": "\"这项警告是为了让人们提高警惕，并警告他们的家人、朋友和同事可能在密苏里州发生的事情,\" Chapel 说。",
+            "scores": {
+                "bleu": 34.69974008594718,
+                "chrf": 29.56695585449582,
+                "comet-ref": 91.50322079658508,
+                "comet-noref": 82.46405124664307
+            }
+        },
+        "TT3": {
+            "text": "“这份建议是为了让人们提高警觉，并警告他们的家人、朋友和同事在密苏里可能会发生的事情，”查佩尔说。",
+            "scores": {
+                "bleu": 38.409513281913824,
+                "chrf": 36.54527791271795,
+                "comet-ref": 92.835134267807,
+                "comet-noref": 84.79928970336914
+            }
+        }
+    },
+    {
+        "index": 14,
+        "ST": {
+            "en": "\"People need to be ready, whether it's bringing bail money with them, or letting relatives know they are traveling through the state.\"",
+            "zh": "“人们需要做好准备，无论是携带保释金前往密苏里州，还是让亲属知道自己在州内旅行”。"
+        },
+        "TT1": {
+            "text": "“人们需要做好准备，无论是带上保释金，还是让亲戚知道他们正在穿越这个州。”",
+            "scores": {
+                "bleu": 30.378727164369458,
+                "chrf": 31.42506143728514,
+                "comet-ref": 88.6293113231659,
+                "comet-noref": 82.54696726799011
+            }
+        },
+        "TT2": {
+            "text": "\"人们需要做好准备，不论是带着保释金，还是让亲戚知道他们正在穿越这个州。\"",
+            "scores": {
+                "bleu": 28.761604244499782,
+                "chrf": 29.89971219258245,
+                "comet-ref": 87.22512722015381,
+                "comet-noref": 81.4573585987091
+            }
+        },
+        "TT3": {
+            "text": "\"人们需要做好准备，无论是随身携带保释金，还是告知亲戚他们正在穿越这个州。\"",
+            "scores": {
+                "bleu": 30.689455010088416,
+                "chrf": 30.75929778749774,
+                "comet-ref": 88.11152577400208,
+                "comet-noref": 81.46555423736572
+            }
+        }
+    },
+    {
+        "index": 15,
+        "ST": {
+            "en": "Missouri recorded 100 hate crimes in 2015, according to the latest figures from the FBI's hate crime reporting program, ranking the state at 16th in the country in terms of the number of such violations.",
+            "zh": "根据联邦调查局仇恨犯罪报告计划的最新数据，密苏里州在 2015 年记录了 100 起仇恨罪行；根据罪行量，该州在全国排名第 16 位。"
+        },
+        "TT1": {
+            "text": "根据FBI仇恨犯罪报告计划的最新数据，密苏里州在2015年记录了100起仇恨犯罪，在全国范围内，该州的仇恨犯罪数量排名第16位。",
+            "scores": {
+                "bleu": 56.94489440698642,
+                "chrf": 56.82382586668695,
+                "comet-ref": 92.81349778175354,
+                "comet-noref": 87.36242055892944
+            }
+        },
+        "TT2": {
+            "text": "根据联邦调查局仇恨犯罪报告计划的最新数据，密苏里州在2015年记录了100起仇恨犯罪，在全国此类事件的数量中排名第16位。",
+            "scores": {
+                "bleu": 67.56164193378419,
+                "chrf": 68.9237631545091,
+                "comet-ref": 93.09465289115906,
+                "comet-noref": 87.31165528297424
+            }
+        },
+        "TT3": {
+            "text": "根据FBI的仇恨犯罪报告计划的最新数据，密苏里州在2015年记录了100起仇恨犯罪，在此类犯罪数量方面，密苏里州在全国排名第16位。",
+            "scores": {
+                "bleu": 60.94358984923576,
+                "chrf": 59.60045175315258,
+                "comet-ref": 92.57544279098511,
+                "comet-noref": 87.66117095947266
+            }
+        }
+    },
+    {
+        "index": 16,
+        "ST": {
+            "en": "The travel warning is also a response to a new Missouri law that would make it more difficult to sue a business for housing or employment discrimination.",
+            "zh": "旅行警告也是对密苏里州新法律的回应，该法律将使起诉住房或就业歧视企业变得更加困难。"
+        },
+        "TT1": {
+            "text": "旅行警告也是对密苏里州一项新法律的回应，该法律将使起诉企业的住房或就业歧视变得更加困难。",
+            "scores": {
+                "bleu": 73.08456842086655,
+                "chrf": 62.71772029934344,
+                "comet-ref": 91.33740067481995,
+                "comet-noref": 84.31326746940613
+            }
+        },
+        "TT2": {
+            "text": "旅行警告也是对密苏里州一项新法律的回应，该法律将使因住房或就业歧视起诉企业变得更加困难。",
+            "scores": {
+                "bleu": 73.08456842086655,
+                "chrf": 62.71772029934344,
+                "comet-ref": 92.96448826789856,
+                "comet-noref": 84.41410064697266
+            }
+        },
+        "TT3": {
+            "text": "旅行警告也是对密苏里州新法律的一种回应，该法律将使因住房或就业歧视起诉企业变得更加困难。",
+            "scores": {
+                "bleu": 73.90128253419883,
+                "chrf": 65.38780459111892,
+                "comet-ref": 93.09245944023132,
+                "comet-noref": 84.70184803009033
+            }
+        }
+    },
+    {
+        "index": 17,
+        "ST": {
+            "en": "Previously, the American Civil Liberties Union (ACLU) had issued travel advisories for Texas and Arizona after the states passed immigration enforcement laws requiring local law enforcement to detain people on immigration violations which the ACLU said would increase racial profiling.",
+            "zh": "此前，美国各州通过了移民执法法律，要求当地执法部门拘留移民违规人员，美国公民自由联盟 (ACLU) 表示此举会增加种族诉讼数量，并发布了针对德克萨斯州和亚利桑那州的旅行咨询。"
+        },
+        "TT1": {
+            "text": "此前，美国公民自由联盟（ACLU）在德克萨斯州和亚利桑那州通过移民执法法后发布了旅游警告，这些法律要求当地执法部门拘留涉嫌移民违规的人，ACLU称这将会增加种族歧视。",
+            "scores": {
+                "bleu": 46.431988802093144,
+                "chrf": 42.940705139250724,
+                "comet-ref": 87.79711127281189,
+                "comet-noref": 85.49853563308716
+            }
+        },
+        "TT2": {
+            "text": "之前，美国公民自由联盟（ACLU）曾对德克萨斯州和亚利桑那州发布旅行警告，因为这两个州通过了移民执法法，要求当地执法部门因移民违规而拘留人员，ACLU认为这会增加种族歧视。",
+            "scores": {
+                "bleu": 48.62005273774922,
+                "chrf": 44.6646617925949,
+                "comet-ref": 88.57048749923706,
+                "comet-noref": 86.26985549926758
+            }
+        },
+        "TT3": {
+            "text": "之前，美国公民自由联盟（ACLU）曾发布针对德克萨斯州和亚利桑那州的旅行警告，因为这些州通过了移民执法法律，要求当地执法部门因移民违规拘留人员，ACLU表示这将增加种族歧视。",
+            "scores": {
+                "bleu": 53.743695797071865,
+                "chrf": 49.5303442131091,
+                "comet-ref": 88.88604044914246,
+                "comet-noref": 85.84880828857422
+            }
+        }
+    },
+    {
+        "index": 18,
+        "ST": {
+            "en": "Travel warnings are usually issued by the State Department for other countries, but lately, advocacy groups have resorted to the measure in response to certain laws and trends inside the US.",
+            "zh": "旅行警告通常是由美国政府针对其他国家发布的，但最近，咨询团体采取这一方式以应对美国境内的某些法律和趋势。"
+        },
+        "TT1": {
+            "text": "旅行警告通常是由国务院针对其他国家发布的，但最近，一些倡导团体已对美国国内的某些法律和趋势采取了这一措施。",
+            "scores": {
+                "bleu": 50.94240743173321,
+                "chrf": 45.63846607831638,
+                "comet-ref": 86.66099905967712,
+                "comet-noref": 83.94065499305725
+            }
+        },
+        "TT2": {
+            "text": "旅行警告通常由国务院针对其他国家发布，但最近，倡导团体因为美国国内的某些法律和趋势而采取了这一措施。",
+            "scores": {
+                "bleu": 43.649994805152794,
+                "chrf": 40.694315239610894,
+                "comet-ref": 89.9865448474884,
+                "comet-noref": 86.2700343132019
+            }
+        },
+        "TT3": {
+            "text": "旅行警告通常由国务院发给其他国家，但最近，倡导团体为了应对美国国内的某些法律和趋势，已经采取了这一措施。",
+            "scores": {
+                "bleu": 38.838557143045016,
+                "chrf": 34.52946453214922,
+                "comet-ref": 89.27857279777527,
+                "comet-noref": 86.36033535003662
+            }
+        }
+    },
+    {
+        "index": 19,
+        "ST": {
+            "en": "After experiencing the “golden era” of a soaring box office in 2015, the film market retreated into a cooling-off period in 2016. Whether box office takings could surpass last year’s total of RMB44.069 billion is questionable.",
+            "zh": "经历2015年票房猛增的“黄金时代”后，2016年整体电影市场进入了冷静期，能否突破去年440.69亿元的总票房成绩都成为一个悬念。"
+        },
+        "TT1": {
+            "text": "在经历了2015年票房飙升的“黄金时代”之后，电影市场在2016年进入了冷静期。票房收入是否能超过去年的440.69亿元是一个疑问。",
+            "scores": {
+                "bleu": 26.764147025796856,
+                "chrf": 32.25636382428598,
+                "comet-ref": 90.28871059417725,
+                "comet-noref": 85.04126071929932
+            }
+        },
+        "TT2": {
+            "text": "经过2015年票房飙升的“黄金时代”后，电影市场在2016年进入了冷静期。票房收入能否超过去年的440.69亿人民币还是个疑问。",
+            "scores": {
+                "bleu": 25.49086176384171,
+                "chrf": 31.15000406410473,
+                "comet-ref": 89.68303799629211,
+                "comet-noref": 86.21344566345215
+            }
+        },
+        "TT3": {
+            "text": "在经历了2015年票房飙升的“黄金时代”后，电影市场在2016年退入了冷静期。票房收入能否超过去年的440.69亿元总额存有疑问。",
+            "scores": {
+                "bleu": 24.23042869980079,
+                "chrf": 30.688410355633934,
+                "comet-ref": 89.26271796226501,
+                "comet-noref": 85.36270260810852
+            }
+        }
+    },
+    {
+        "index": 20,
+        "ST": {
+            "en": "Data from the National Bureau of Statistics revealed that in October, prices of new and second-hand residential properties cooled, up 0.6% and 1.1% month-on-month, respectively.",
+            "zh": "从国家统计局公布的数据看，10月，北京新房和二手房价格双双降温，环比仅上涨0.6%和1.1%。"
+        },
+        "TT1": {
+            "text": "国家统计局的数据显示，10月份新建和二手住宅价格回落，环比分别上涨0.6%和1.1%。",
+            "scores": {
+                "bleu": 17.500912716651218,
+                "chrf": 22.721567405567225,
+                "comet-ref": 89.72897529602051,
+                "comet-noref": 84.76821184158325
+            }
+        },
+        "TT2": {
+            "text": "国家统计局数据显示，10月新建和二手住宅价格涨幅有所放缓，环比分别上涨0.6%和1.1%。",
+            "scores": {
+                "bleu": 15.998848672602293,
+                "chrf": 20.499711771661623,
+                "comet-ref": 91.92543625831604,
+                "comet-noref": 87.50500679016113
+            }
+        },
+        "TT3": {
+            "text": "国家统计局的数据显示，10月份新建和二手住宅价格有所降温，分别环比上涨0.6%和1.1%。",
+            "scores": {
+                "bleu": 18.265365231125163,
+                "chrf": 23.05602414185708,
+                "comet-ref": 89.8388683795929,
+                "comet-noref": 84.8324716091156
+            }
+        }
+    },
+    {
+        "index": 21,
+        "ST": {
+            "en": "Lupekscu, the current Chief Technology Officer of UEFA, made a technical report on the 2016 UEFA Euro and the last season of European Champions League at the meeting.",
+            "zh": "现任欧足联首席技术官的卢佩斯库在本次大会上做了一份关于2016年欧锦赛以及上赛季欧冠联赛的技术报告。"
+        },
+        "TT1": {
+            "text": "欧足联现任首席技术官卢佩克斯库在会议上做了关于2016年欧洲杯和上个赛季欧洲冠军联赛的技术报告。",
+            "scores": {
+                "bleu": 39.44968385373234,
+                "chrf": 39.0159885453711,
+                "comet-ref": 90.16025066375732,
+                "comet-noref": 87.50192523002625
+            }
+        },
+        "TT2": {
+            "text": "现任欧足联首席技术官卢佩斯库在会议上作了关于2016年欧洲杯和上赛季欧洲冠军联赛的技术报告。",
+            "scores": {
+                "bleu": 51.69695309188184,
+                "chrf": 50.58483752751226,
+                "comet-ref": 90.72614908218384,
+                "comet-noref": 87.58664131164551
+            }
+        },
+        "TT3": {
+            "text": "欧洲足球联合会现任首席技术官卢佩斯库在会议上做了关于2016年欧洲杯和上一个赛季欧洲冠军联赛的技术报告。",
+            "scores": {
+                "bleu": 41.34203569247537,
+                "chrf": 37.87131440724279,
+                "comet-ref": 89.29057717323303,
+                "comet-noref": 87.36899495124817
+            }
+        }
+    },
+    {
+        "index": 22,
+        "ST": {
+            "en": "BBC claims that Beijing has become the most exciting city: making foreigners feel like “living in a new age”",
+            "zh": "BBC称北京成最激动人心城市：让老外感觉“生活在新时代”"
+        },
+        "TT1": {
+            "text": "BBC称北京已成为最令人兴奋的城市，让外国人感觉像是“生活在一个新时代”。",
+            "scores": {
+                "bleu": 17.239820800764964,
+                "chrf": 23.71694007199701,
+                "comet-ref": 92.63822436332703,
+                "comet-noref": 86.62019968032837
+            }
+        },
+        "TT2": {
+            "text": "BBC称北京已成为最令人兴奋的城市，让外国人感觉像“生活在新时代”",
+            "scores": {
+                "bleu": 31.090008031473438,
+                "chrf": 31.36691140279192,
+                "comet-ref": 93.3984100818634,
+                "comet-noref": 86.58517599105835
+            }
+        },
+        "TT3": {
+            "text": "BBC声称，北京已经成为最令人兴奋的城市：让外国人感觉像“生活在新时代”。",
+            "scores": {
+                "bleu": 24.93125829163353,
+                "chrf": 24.348083750341793,
+                "comet-ref": 92.68520474433899,
+                "comet-noref": 86.2618625164032
+            }
+        }
+    },
+    {
+        "index": 23,
+        "ST": {
+            "en": "Reference News Network reported on January 18 that the British media organization has noticed that Beijing is rapidly transforming into a glamorous modern city in spite of the fact that it is 3000 years old.",
+            "zh": "参考消息网1月18日报道英媒称，北京或许有三千年的悠久历史，但它也在迅速变身为今天的现代魅力都市。"
+        },
+        "TT1": {
+            "text": "参考新闻网络1月18日报道，英国媒体组织注意到，尽管北京有3000年的历史，它正迅速转变为一个迷人的现代城市。",
+            "scores": {
+                "bleu": 20.608777447348185,
+                "chrf": 20.605323519215744,
+                "comet-ref": 89.59092497825623,
+                "comet-noref": 86.59741282463074
+            }
+        },
+        "TT2": {
+            "text": "参考消息网1月18日报道，英国媒体发现，尽管北京已有3000年的历史，但它正在迅速转变成一个迷人的现代化城市。",
+            "scores": {
+                "bleu": 33.884204378320696,
+                "chrf": 31.033667579445485,
+                "comet-ref": 91.69307351112366,
+                "comet-noref": 87.45167255401611
+            }
+        },
+        "TT3": {
+            "text": "参考消息网1月18日报道，英国媒体机构看到，尽管北京已有3000年历史，但它正在迅速转变为一个迷人的现代化城市。",
+            "scores": {
+                "bleu": 33.42927967508226,
+                "chrf": 30.202582974424807,
+                "comet-ref": 90.870600938797,
+                "comet-noref": 87.11237907409668
+            }
+        }
+    },
+    {
+        "index": 24,
+        "ST": {
+            "en": "The Chinese capital is interconnected by amazingly high-speed Internet and has implemented cutting-edge technologies such as face recognition. It has invested heavily in artificial intelligence and has an unmatched capacity of internationalization. It is one of the most exciting cities for foreigners who are eager to explore the world.",
+            "zh": "这座中国首都拥有速度高得惊人的互联网，有人脸识别软件等尖端技术，在人工智能方面投入了巨资并且拥有无可匹敌的国际化能量，它对富于探索精神的外国人而言是最激动人心的城市之一。"
+        },
+        "TT1": {
+            "text": "中国首都由惊人的高速互联网连接，并实施了人脸识别等尖端技术。它在人工智能方面投入了大量资金，拥有无可比拟的国际化能力。这是对那些渴望探索世界的外国人来说最令人兴奋的城市之一。",
+            "scores": {
+                "bleu": 38.307988114268944,
+                "chrf": 31.992848178375233,
+                "comet-ref": 86.09389662742615,
+                "comet-noref": 86.97718381881714
+            }
+        },
+        "TT2": {
+            "text": "中国首都通过惊人的高速互联网相互连接，并实施了面部识别等尖端技术。它在人工智能方面投入了大量资金，拥有无与伦比的国际化能力。对于渴望探索世界的外国人来说，这是最令人兴奋的城市之一。",
+            "scores": {
+                "bleu": 35.266365940143956,
+                "chrf": 29.559650934447806,
+                "comet-ref": 88.8346254825592,
+                "comet-noref": 87.65591382980347
+            }
+        },
+        "TT3": {
+            "text": "中国首都拥有令人惊叹的高速互联网，并实施了面部识别等前沿技术。它在人工智能方面投入了大量资金，具有无与伦比的国际化能力。这是一个令热衷于探索世界的外国人感到兴奋的城市之一。",
+            "scores": {
+                "bleu": 32.91295533189364,
+                "chrf": 28.81484659948013,
+                "comet-ref": 89.902663230896,
+                "comet-noref": 86.77123785018921
+            }
+        }
+    },
+    {
+        "index": 25,
+        "ST": {
+            "en": "According to a report on the BBC website on January 16, the German expatriate Clemens Sage said: 'If I can succeed there, I can succeed anywhere.' He quoted a song written by singer Frank Sinatra to praise New York City.",
+            "zh": "据英国广播公司网站1月16日报道，德国侨民克莱门斯·塞希说：“如果我能在那儿成功，我以后在任何地方都能成功。”他引用的是歌手弗兰克·西纳特拉歌颂纽约市的歌词。"
+        },
+        "TT1": {
+            "text": "根据1月16日BBC网站的报道，德国外籍人士克莱门斯·萨奇说：“如果我能在那里成功，我就能在任何地方成功。”他引用了歌手弗兰克·辛纳特拉的一首歌来赞美纽约市。",
+            "scores": {
+                "bleu": 28.614135315157778,
+                "chrf": 27.335093386836295,
+                "comet-ref": 90.08590579032898,
+                "comet-noref": 86.32394075393677
+            }
+        },
+        "TT2": {
+            "text": "根据1月16日BBC网站的一篇报道，德国外籍人士克莱门斯·塞奇说：“如果我能在那里成功，我在任何地方都能成功。”他引用了歌手弗兰克·辛纳屈写的一首歌来赞美纽约市。",
+            "scores": {
+                "bleu": 32.93906108764639,
+                "chrf": 30.542944019634717,
+                "comet-ref": 89.97296690940857,
+                "comet-noref": 86.09389066696167
+            }
+        },
+        "TT3": {
+            "text": "根据1月16日BBC网站的一篇报道，德国侨民克莱门斯·塞奇说：“如果我能在那里成功，我就能在任何地方成功。”他引用歌手弗兰克·辛纳屈写的一首歌来赞美纽约市。",
+            "scores": {
+                "bleu": 33.10253539390995,
+                "chrf": 31.57840524680261,
+                "comet-ref": 90.29281735420227,
+                "comet-noref": 86.15421056747437
+            }
+        }
+    },
+    {
+        "index": 26,
+        "ST": {
+            "en": "Sage, who served as Creative Director of Traveler Archives, said: \"If Sinatra lives today, he is likely to sing a song for Beijing.\" He said that living in this city will make you feel like “living in a new age”, which means that you can always keep up with the trends.",
+            "zh": "在《旅行者档案》杂志担任创意总监的塞希说：“如果西纳特拉活到今天，他很可能会歌唱北京这样的城市。”他说，生活在这座城市会让你感觉“生活在新时代”，总是能跟上潮流。"
+        },
+        "TT1": {
+            "text": "担任《旅行者档案》创意总监的Sage说：“如果辛纳屈还活着，他很可能会为北京唱上一首歌。” 他说，居住在这个城市会让你感觉像是“生活在一个新时代”，这意味着你总能跟上潮流。",
+            "scores": {
+                "bleu": 30.8242489997276,
+                "chrf": 27.700571520502436,
+                "comet-ref": 88.2876455783844,
+                "comet-noref": 85.07031202316284
+            }
+        },
+        "TT2": {
+            "text": "曾担任旅者档案创意总监的赛奇说：“如果辛纳屈今天还在世，他很可能会为北京唱一首歌。”他说，生活在这座城市会让你感觉像是“生活在一个新时代”，这意味着你可以随时跟上潮流。",
+            "scores": {
+                "bleu": 33.686827293700944,
+                "chrf": 31.0904801661012,
+                "comet-ref": 88.15522789955139,
+                "comet-noref": 85.38321256637573
+            }
+        },
+        "TT3": {
+            "text": "曾担任旅者档案创意总监的Sage说：“如果辛纳屈今天还活着，他很可能会为北京唱一首歌。” 他表示，生活在这座城市会让你感到“生活在一个新时代”，这意味着你可以始终跟上潮流。",
+            "scores": {
+                "bleu": 31.853131133127647,
+                "chrf": 28.959781591172813,
+                "comet-ref": 87.91772723197937,
+                "comet-noref": 84.9400520324707
+            }
+        }
+    },
+    {
+        "index": 27,
+        "ST": {
+            "en": "Simon Norton, who originates from England had been living in Beijing in recent years, published an article on personal blog site 4Corners7Seas saying: “People generally have a feeling of being at the center of something grand. Although this feeling is hard to describe clearly, it is the reason why so many foreigners stay there for a long time. They want to see what it will become and hope to witness it. ”",
+            "zh": "老家位于英格兰、但最近生活在北京的西蒙·诺顿在个人博客网站4Corners7Seas上发表文章说：“人们总体上有一种处于某种宏大事物中心的感觉，这种感觉很难说清楚，但它让许多外国人长久留在那里。他们想看看它会变成什么样，并且希望亲眼见证。”"
+        },
+        "TT1": {
+            "text": "来自英国的西蒙·诺顿近年来一直住在北京，他在个人博客网站4Corners7Seas上发表了一篇文章说：“人们普遍有一种身处某种宏大事件中心的感觉。尽管这种感觉难以清晰描述，但正是这个原因使得许多外国人在那里长时间停留。他们想看看它将会变成什么，并希望亲眼见证。”",
+            "scores": {
+                "bleu": 39.24808979600397,
+                "chrf": 39.18508754215349,
+                "comet-ref": 90.9869372844696,
+                "comet-noref": 85.52483320236206
+            }
+        },
+        "TT2": {
+            "text": "来自英国的西蒙·诺顿近年来一直住在北京，他在个人博客网站4Corners7Seas上发表了一篇文章，说道：“人们普遍有一种置身于某个宏大事物中心的感觉。虽然这种感觉难以清楚地描述，但它是许多外国人长时间留在那里原因。他们想看看它会变成什么样，并希望见证这一切。”",
+            "scores": {
+                "bleu": 43.12248731002527,
+                "chrf": 43.599011872504725,
+                "comet-ref": 91.05507135391235,
+                "comet-noref": 85.59398651123047
+            }
+        },
+        "TT3": {
+            "text": "英国人西蒙·诺顿近年来一直住在北京，他在个人博客网站4Corners7Seas上发表了一篇文章，称：“人们普遍有一种身处某种宏大事物中心的感觉。虽然这种感觉很难清楚地描述，但这正是那么多外国人长期停留在那里的原因。他们想看看它会变成什么样，并希望见证这一切。”",
+            "scores": {
+                "bleu": 44.17175520025483,
+                "chrf": 44.913955745914826,
+                "comet-ref": 90.7955527305603,
+                "comet-noref": 85.7757031917572
+            }
+        }
+    },
+    {
+        "index": 28,
+        "ST": {
+            "en": "According to reports, the city's high-quality, high-speed Internet and technology-friendly environment make everyday life easier than ever before.",
+            "zh": "报道称，这座城市优质高速的互联网和对技术友好的环境使日常生活比以往任何时候都更容易。"
+        },
+        "TT1": {
+            "text": "据报道，该市的高质量高速互联网和技术友好型环境使日常生活比以往任何时候都更加轻松。",
+            "scores": {
+                "bleu": 51.739697724190535,
+                "chrf": 48.7041063839902,
+                "comet-ref": 94.16068196296692,
+                "comet-noref": 87.12294101715088
+            }
+        },
+        "TT2": {
+            "text": "据报道，该市高质量、高速的互联网和技术友好型环境使日常生活比以往任何时候都更轻松。",
+            "scores": {
+                "bleu": 57.46573148254726,
+                "chrf": 55.82421927873128,
+                "comet-ref": 93.6964213848114,
+                "comet-noref": 87.13505864143372
+            }
+        },
+        "TT3": {
+            "text": "据报道，该市的高质量高速互联网和技术友好环境使日常生活比以往任何时候都更为便捷。",
+            "scores": {
+                "bleu": 51.739697724190535,
+                "chrf": 49.76404290155243,
+                "comet-ref": 93.56135725975037,
+                "comet-noref": 87.2235655784607
+            }
+        }
+    },
+    {
+        "index": 29,
+        "ST": {
+            "en": "Andy Peñafuerte, who originates from Manila and is currently the deputy editor-in-chief of the website Beijing Children, said: \"Beijing is rapidly transforming into a cashless society. The Internet integrates the functions of traditional wallets into smart phones, making it easier for everyone to conduct various transactions.\"",
+            "zh": "来自马尼拉、目前在“北京儿童”网站担任副总编的安迪·佩尼亚富埃尔特说：“北京正在迅速转变为一个无现金社会，互联网把传统钱包的功能整合到智能手机上，使每个人都能更容易地进行许多交易。”"
+        },
+        "TT1": {
+            "text": "来自马尼拉的Andy Peñafuerte目前是网站「北京儿童」的副主编，他表示：“北京正迅速转变为一个无现金社会。互联网将传统钱包的功能集成到智能手机中，使每个人进行各种交易更加便捷。”",
+            "scores": {
+                "bleu": 36.19070308013957,
+                "chrf": 32.20138508709737,
+                "comet-ref": 90.20114541053772,
+                "comet-noref": 85.8754813671112
+            }
+        },
+        "TT2": {
+            "text": "来自马尼拉并且目前担任《北京孩子》网站主编副手的Andy Peñafuerte说：“北京正在迅速转变为无现金社会。互联网将传统钱包的功能集成到智能手机中，使每个人都更容易进行各种交易。”",
+            "scores": {
+                "bleu": 36.06984817998624,
+                "chrf": 31.755589968275377,
+                "comet-ref": 90.78046679496765,
+                "comet-noref": 86.0687255859375
+            }
+        },
+        "TT3": {
+            "text": "来自马尼拉并且现任《北京儿童》网站副主编的安迪·佩尼亚富埃特说：“北京正在迅速转变为无现金社会。互联网将传统钱包的功能集成到智能手机中，使每个人进行各种交易变得更加方便。”",
+            "scores": {
+                "bleu": 41.02108590957487,
+                "chrf": 37.640537093892085,
+                "comet-ref": 92.36856698989868,
+                "comet-noref": 86.78762912750244
+            }
+        }
+    },
+    {
+        "index": 30,
+        "ST": {
+            "en": "According to reports, smart phones are just the beginning of Beijing's technical ambitions. Face recognition technology is being widely used across the city. Many mobile phone applications use this technology to facilitate bank transfers and payments, grant people access apartments and offices, and even use it to verify identity of the drivers providing car-hailing service.",
+            "zh": "报道表示，但智能手机只是北京技术雄心的开始，面部识别软件已经十分普及，许多手机应用都使用这种技术来进行银行转账和支付、让人们进入公寓和办公室，甚至用它来核实网约车司机的身份。"
+        },
+        "TT1": {
+            "text": "据报道，智能手机只是北京技术雄心的开始。人脸识别技术正在全市广泛使用。许多手机应用程序使用这项技术来便利银行转账和支付，让人们进入公寓和办公室，甚至用于验证提供叫车服务的司机身份。",
+            "scores": {
+                "bleu": 46.01949178345577,
+                "chrf": 41.50691361822768,
+                "comet-ref": 89.28340077400208,
+                "comet-noref": 85.61298847198486
+            }
+        },
+        "TT2": {
+            "text": "据报道，智能手机只是北京技术野心的开端。面部识别技术在全市范围内被广泛使用。许多手机应用程序使用这种技术来促进银行转账和支付、允许人们进入公寓和办公室，甚至用来核实提供叫车服务司机的身份。",
+            "scores": {
+                "bleu": 49.02995333107573,
+                "chrf": 41.25836150859827,
+                "comet-ref": 90.28111100196838,
+                "comet-noref": 86.59759163856506
+            }
+        },
+        "TT3": {
+            "text": "据报道，智能手机只是北京技术雄心的开始。人脸识别技术正在整个城市广泛使用。许多手机应用程序使用该技术来促进银行转账和支付，允许人们进入公寓和办公室，甚至用于验证提供打车服务的司机的身份。",
+            "scores": {
+                "bleu": 46.57462666828376,
+                "chrf": 40.33578159698616,
+                "comet-ref": 90.00905156135559,
+                "comet-noref": 86.01089715957642
+            }
+        }
+    },
+    {
+        "index": 31,
+        "ST": {
+            "en": "Beijing recently announced plans to invest 13.8 billion yuan in the construction of an artificial intelligence technology park. When it is completed, more than 400 companies will settle there. They will focus on the development of artificial intelligence technologies ranging from biometrics to self-driving cars.",
+            "zh": "北京最近还宣布计划斥资138亿元人民币修建一个人工智能科技园，建成后将有逾400家企业在那里落户，它们将专注于开发从生物测定到自动驾驶汽车的各种人工智能技术。"
+        },
+        "TT1": {
+            "text": "北京最近宣布计划投资138亿元建设一个人工智能科技园。建成后，将有400多家公司入驻。他们将专注于从生物识别到自动驾驶汽车等各种人工智能技术的发展。",
+            "scores": {
+                "bleu": 47.404813960502324,
+                "chrf": 44.181725714755785,
+                "comet-ref": 91.57412648200989,
+                "comet-noref": 88.01482915878296
+            }
+        },
+        "TT2": {
+            "text": "北京最近宣布计划投资138亿元建设一个人工智能科技园。建成后，将有400多家公司入驻。他们将专注于从生物识别到自动驾驶汽车的人工智能技术开发。",
+            "scores": {
+                "bleu": 46.25748510744813,
+                "chrf": 44.495263275789995,
+                "comet-ref": 91.85978174209595,
+                "comet-noref": 87.92885541915894
+            }
+        },
+        "TT3": {
+            "text": "北京最近宣布计划投资138亿元建设一个人工智能科技园区。建成后，将有400多家公司入驻。他们将专注于从生物识别到自动驾驶汽车等人工智能技术的开发。",
+            "scores": {
+                "bleu": 45.02513593092324,
+                "chrf": 42.24285250208209,
+                "comet-ref": 91.72400236129761,
+                "comet-noref": 88.17732334136963
+            }
+        }
+    },
+    {
+        "index": 32,
+        "ST": {
+            "en": "Food plays a central role in China’s many major traditional festivals. Foreigners are enthusiastic about these festivals. The Spring Festival is the most important festival in both social and economic sense, and it is also one of the most enjoyable festivals for foreigners.",
+            "zh": "食品也是中国历年诸多重大节日的核心，参加这些庆祝活动受到外国人的推崇，春节是最重要的社会和经济节日，也是外国人最容易参与的节日之一。"
+        },
+        "TT1": {
+            "text": "食物在中国的许多重要传统节日中扮演着核心角色。外国人对这些节日热情高涨。春节在社会和经济意义上都是最重要的节日，同时也是外国人最喜欢的节日之一。",
+            "scores": {
+                "bleu": 28.621743037124617,
+                "chrf": 23.82384598982622,
+                "comet-ref": 89.98032212257385,
+                "comet-noref": 87.5849962234497
+            }
+        },
+        "TT2": {
+            "text": "食品在中国许多重大传统节日中扮演着核心角色。外国人对这些节日非常热情。春节在社会和经济意义上是最重要的节日之一，也是外国人最喜欢的节日之一。",
+            "scores": {
+                "bleu": 30.766242599041014,
+                "chrf": 25.437534979196137,
+                "comet-ref": 90.23591876029968,
+                "comet-noref": 87.8063976764679
+            }
+        },
+        "TT3": {
+            "text": "食物在中国许多重要的传统节日中起着核心作用。外国人对这些节日充满热情。春节在社会和经济意义上都是最重要的节日，同时也是外国人最喜欢的节日之一。",
+            "scores": {
+                "bleu": 29.058707790041602,
+                "chrf": 24.11422453319367,
+                "comet-ref": 89.90089297294617,
+                "comet-noref": 87.74555921554565
+            }
+        }
+    },
+    {
+        "index": 33,
+        "ST": {
+            "en": "Sage said: “It's a pleasure for me to help Chinese friends prepare for the New Year. It is equally important to clean the apartment and paste the red spring couplets with blessing words on the door. On New Year’s eve, all family members must gather together to have a good meal and stay until midnight, and finally to celebrate the New Year with fireworks. For foreigners, spending the night with friends and their family is indeed an opportunity for blending. ”",
+            "zh": "塞希说：“我建议帮助中国朋友为过年做准备，打扫公寓和在家门贴上写有新年祝福语的红色春联同等重要，在除夕那一天，所有的家庭成员都要齐集一堂吃一顿丰盛的大餐，然后守岁到午夜，用绚丽响亮的焰火迎接新年。对外国人而言，与朋友和家人共度这个夜晚的确是一个融入的机会。”"
+        },
+        "TT1": {
+            "text": "Sage说：“我很高兴能帮助中国朋友准备新年。同样重要的是打扫公寓和在门上贴上带有祝福字样的红色春联。除夕夜，所有家庭成员必须聚在一起吃一顿丰盛的晚餐，一直待到午夜，最后用烟花庆祝新年。对于外国人来说，与朋友和他们的家人一起度过这个夜晚，确实是一次融合的机会。”",
+            "scores": {
+                "bleu": 26.172663672944736,
+                "chrf": 24.311699890483023,
+                "comet-ref": 88.37153315544128,
+                "comet-noref": 82.61775970458984
+            }
+        },
+        "TT2": {
+            "text": "Sage 说：“我很高兴能够帮助中国朋友准备过年。打扫房子和在门上贴上带有祝福话语的红春联同样重要。在除夕夜，所有家人必须聚在一起，享受美食并熬到午夜，最后用烟花庆祝新年。对于外国人来说，与朋友和他们的家人一起度过这个夜晚确实是一个融合的机会。”",
+            "scores": {
+                "bleu": 17.451671337977004,
+                "chrf": 19.181090724772204,
+                "comet-ref": 86.72672510147095,
+                "comet-noref": 82.54385590553284
+            }
+        },
+        "TT3": {
+            "text": "圣人说：“帮助中国朋友准备新年对我来说是一种快乐。打扫公寓和在门上贴上带有祝福语的红色春联同样重要。在除夕之夜，全家人必须聚在一起好好吃一顿，熬到午夜，最后用烟花庆祝新年。对于外国人来说，和朋友及其家人一起度过这个夜晚确实是一个融合的机会。”",
+            "scores": {
+                "bleu": 24.75257705394973,
+                "chrf": 24.571703337736388,
+                "comet-ref": 87.23419308662415,
+                "comet-noref": 76.34918689727783
+            }
+        }
+    },
+    {
+        "index": 34,
+        "ST": {
+            "en": "According to reports, a large number of foreigners are living in Beijing and the number is growing. However, the language barrier and the convenience of exchanges between the expatriates can easily become excuses for not fully integrating into the local culture.",
+            "zh": "报道称，北京的外国人数量众多而且在不断增长，但中国的语言障碍以及侨民之间交流的便利很容易成为他们不完全融入当地文化的借口。"
+        },
+        "TT1": {
+            "text": "据报道，大量外国人居住在北京，且数量还在不断增长。然而，语言障碍和外籍人士之间便利的交流很容易成为他们未能完全融入当地文化的借口。",
+            "scores": {
+                "bleu": 42.75467336998728,
+                "chrf": 36.961574640612056,
+                "comet-ref": 91.81109070777893,
+                "comet-noref": 86.35154962539673
+            }
+        },
+        "TT2": {
+            "text": "据报道，许多外国人居住在北京，而且这个数量还在增加。然而，语言障碍和外籍人士之间交流的便利性很容易成为不完全融入当地文化的借口。",
+            "scores": {
+                "bleu": 42.87826292311279,
+                "chrf": 37.539315861315146,
+                "comet-ref": 91.6865885257721,
+                "comet-noref": 86.12980842590332
+            }
+        },
+        "TT3": {
+            "text": "据报道，许多外国人居住在北京，而且这个数量还在增加。然而，语言障碍和外籍人士之间交流的便利性很容易成为不完全融入当地文化的借口。",
+            "scores": {
+                "bleu": 42.87826292311279,
+                "chrf": 37.539315861315146,
+                "comet-ref": 91.6865885257721,
+                "comet-noref": 86.12980842590332
+            }
+        }
+    },
+    {
+        "index": 35,
+        "ST": {
+            "en": "Sage said: 'Some foreigners have lived in China for many years, but they have little experience with their host country. If your initial attempt to interact with the Chinese is not successful, then it is easy for you to feel more comfortable with other foreigners.",
+            "zh": "塞希说：“一些外国人已经在中国生活多年，但对他们的东道国几乎没有什么体验。如果你最初接触中国人的尝试不算成功，那么你很容易有还是与其他外国人相处更容易的感觉。"
+        },
+        "TT1": {
+            "text": "Sage 说：“一些外国人已经在中国生活了很多年，但他们对这个东道国的了解很少。如果你最初尝试与中国人互动不成功，那么你会很容易觉得和其他外国人在一起更舒服。”",
+            "scores": {
+                "bleu": 32.513951882050264,
+                "chrf": 30.342991175117916,
+                "comet-ref": 91.004079580307,
+                "comet-noref": 85.14928221702576
+            }
+        },
+        "TT2": {
+            "text": "Sage说：“有些外国人在中国生活了很多年，但他们对这个东道国的了解却很少。如果你最初与中国人的互动不成功，那么你就很容易与其他外国人在一起感觉更舒服。”",
+            "scores": {
+                "bleu": 27.865373867626012,
+                "chrf": 25.673182566177516,
+                "comet-ref": 89.54842686653137,
+                "comet-noref": 83.39012265205383
+            }
+        },
+        "TT3": {
+            "text": "Sage 说：“有些外国人在中国生活了很多年，但他们对这个东道国的了解很少。如果你与中国人的第一次互动不成功，那么你很容易会觉得和其他外国人在一起更舒服。”",
+            "scores": {
+                "bleu": 26.288567114266968,
+                "chrf": 24.03181111058007,
+                "comet-ref": 90.67251682281494,
+                "comet-noref": 84.9939227104187
+            }
+        }
+    },
+    {
+        "index": 36,
+        "ST": {
+            "en": "In these so-called 'foreign bubbles' ('Laowai bubble' refers to circles in which foreigners only mixed in with foreigners, without touching local people and local culture -- translator's note), foreigners mingle with each other in their own communities, eat in Western restaurants, and only make friends with foreigners.",
+            "zh": "”在这些所谓的“老外泡泡”中（“老外泡泡”是指外国人只在外国人中间混，而不接触当地人和当地文化——译者注），外国人在自己的社区里抱团，在西方餐馆吃饭，并且朋友中只有外国人。"
+        },
+        "TT1": {
+            "text": "在这些所谓的“外国泡泡”里（“老外泡泡”指的是外国人只和外国人混在一起，而不接触当地人和当地文化——译者注），外国人在他们自己的社区里互相往来，在西餐厅吃饭，只和其他外国人交朋友。",
+            "scores": {
+                "bleu": 38.894947435098096,
+                "chrf": 35.78284041303594,
+                "comet-ref": 87.5968337059021,
+                "comet-noref": 83.22752714157104
+            }
+        },
+        "TT2": {
+            "text": "在这些所谓的“外国泡泡”（“老外泡泡”指的是外国人只与外国人混在一起，不接触当地人和当地文化——译者注）中，外国人在自己的社区里交往，在西餐馆吃饭，而且只和外国人做朋友。",
+            "scores": {
+                "bleu": 42.526917872920976,
+                "chrf": 41.661819828240574,
+                "comet-ref": 87.85533308982849,
+                "comet-noref": 83.60040187835693
+            }
+        },
+        "TT3": {
+            "text": "在这些所谓的“外国人圈子”（“老外圈子”指的是外国人只与外国人交流，不接触当地人和当地文化——译者注）里，外国人只在自己的社区交往，在西餐厅吃饭，只和外国人交朋友。",
+            "scores": {
+                "bleu": 34.62650908676855,
+                "chrf": 35.03072851280491,
+                "comet-ref": 85.98176836967468,
+                "comet-noref": 85.33899784088135
+            }
+        }
+    },
+    {
+        "index": 37,
+        "ST": {
+            "en": "The easiest way to overcome problem is to learn a little bit of Mandarin – something easier than one might think.",
+            "zh": "克服这一点最简单的办法就是学习一点普通话——这比人们可能想象的要简单。"
+        },
+        "TT1": {
+            "text": "克服问题的最简单方法是学一点普通话——这比人们想象的要容易。",
+            "scores": {
+                "bleu": 29.75928234249098,
+                "chrf": 29.569385043795606,
+                "comet-ref": 94.89623308181763,
+                "comet-noref": 86.92589998245239
+            }
+        },
+        "TT2": {
+            "text": "克服问题的最简单方法是学习一点普通话——这比你想象的要容易。",
+            "scores": {
+                "bleu": 33.52606268234006,
+                "chrf": 35.0673855405155,
+                "comet-ref": 93.84813904762268,
+                "comet-noref": 86.6304099559784
+            }
+        },
+        "TT3": {
+            "text": "克服问题的最简单方法是学习一些普通话——这比人们想象的要容易一些。",
+            "scores": {
+                "bleu": 28.00361243441485,
+                "chrf": 26.526893785507866,
+                "comet-ref": 94.36431527137756,
+                "comet-noref": 86.44518852233887
+            }
+        }
+    },
+    {
+        "index": 38,
+        "ST": {
+            "en": "Sage said: “One or two hours of private lessons in Chinese every week or learning entry-level radio dramas should suit everyone’s busy schedule.”",
+            "zh": "塞希说：“每周上一两个小时的中文私教课或者学习入门级的广播剧应该会适合每个人的忙碌日程。”"
+        },
+        "TT1": {
+            "text": "Sage说：“每周一两小时的中文私教课或学习初级广播剧，应该适合每个人忙碌的日程安排。”",
+            "scores": {
+                "bleu": 39.5350618246246,
+                "chrf": 37.4647532236848,
+                "comet-ref": 91.78501963615417,
+                "comet-noref": 82.80841112136841
+            }
+        },
+        "TT2": {
+            "text": "Sage说：“每周一到两个小时的中文私人课程或者学习初级广播剧应该适合每个人忙碌的日程安排。”",
+            "scores": {
+                "bleu": 40.58537690686809,
+                "chrf": 34.52918134851429,
+                "comet-ref": 91.57333374023438,
+                "comet-noref": 82.67332315444946
+            }
+        },
+        "TT3": {
+            "text": "Sage 说道：“每周一到两小时的中文私人课程或学习入门级广播剧应该适合每个人的忙碌时间表。”",
+            "scores": {
+                "bleu": 43.583478702843266,
+                "chrf": 37.7789984373869,
+                "comet-ref": 90.90421795845032,
+                "comet-noref": 83.09834003448486
+            }
+        }
+    },
+    {
+        "index": 39,
+        "ST": {
+            "en": "Even learning a few classic phrases will help with shopping, ordering a meal in a restaurant, or chatting on a taxi.",
+            "zh": "哪怕学几句经典的短句也会对购物、在餐馆订餐或是在出租车上闲聊有帮助。"
+        },
+        "TT1": {
+            "text": "即使学会一些经典的短语也能在购物、餐馆点餐或在出租车上聊天时有所帮助。",
+            "scores": {
+                "bleu": 24.164444327540362,
+                "chrf": 22.137116037821357,
+                "comet-ref": 90.98543524742126,
+                "comet-noref": 85.58876514434814
+            }
+        },
+        "TT2": {
+            "text": "甚至学习一些常用的短语也会帮助你购物、在餐馆点菜或在出租车上聊天。",
+            "scores": {
+                "bleu": 19.223601926450478,
+                "chrf": 19.489374547843532,
+                "comet-ref": 89.75752592086792,
+                "comet-noref": 86.62973642349243
+            }
+        },
+        "TT3": {
+            "text": "即使学习一些经典短语也会对购物、在餐馆点餐或在出租车上聊天有所帮助。",
+            "scores": {
+                "bleu": 29.449720180390013,
+                "chrf": 26.010514279954922,
+                "comet-ref": 92.03281998634338,
+                "comet-noref": 86.63134574890137
+            }
+        }
+    },
+    {
+        "index": 40,
+        "ST": {
+            "en": "According to reports, persistent air pollution is also a fact of daily life, but the government has tried to curb pollution in recent years.",
+            "zh": "报道称，顽固的空气污染也是日常生活中的一个事实，不过近年来的政府努力遏制了一些问题。"
+        },
+        "TT1": {
+            "text": "据报道，持续的空气污染也是日常生活中的一个事实，但政府近些年来一直在努力遏制污染。",
+            "scores": {
+                "bleu": 50.030125536678625,
+                "chrf": 49.41270417597185,
+                "comet-ref": 92.25320219993591,
+                "comet-noref": 88.52510452270508
+            }
+        },
+        "TT2": {
+            "text": "据报道，持续的空气污染也是日常生活中的一个事实，但近年来政府一直在努力遏制污染。",
+            "scores": {
+                "bleu": 50.88420143055478,
+                "chrf": 50.989346770540386,
+                "comet-ref": 92.41546988487244,
+                "comet-noref": 88.45775127410889
+            }
+        },
+        "TT3": {
+            "text": "据报道，持续的空气污染也是日常生活中的一个事实，但政府近年来一直尝试抑制污染。",
+            "scores": {
+                "bleu": 45.63240981124506,
+                "chrf": 47.99302001631677,
+                "comet-ref": 92.2556459903717,
+                "comet-noref": 88.03495168685913
+            }
+        }
+    },
+    {
+        "index": 41,
+        "ST": {
+            "en": "Residents emphasize that outdoor activities are very important in warm months when pollution is often light. It is important to consider those blue sky days as opportunities for rambling in ancient encryptors or exploring the popular Ritan Park.",
+            "zh": "居民们强调，在污染往往较轻的温暖月份里到户外活动很重要，要把那些蓝天日当作在历史悠久的胡同里徜徉或是探索备受欢迎的日坛公园的机会。"
+        },
+        "TT1": {
+            "text": "居民们强调，在污染通常较轻的温暖月份，户外活动非常重要。重要的是要将那些蓝天白云的日子视为在古代加密器中漫步或探索受欢迎的日坛公园的机会。",
+            "scores": {
+                "bleu": 41.12186057664338,
+                "chrf": 34.443419074070846,
+                "comet-ref": 83.85499119758606,
+                "comet-noref": 78.65436673164368
+            }
+        },
+        "TT2": {
+            "text": "居民们强调，在空气污染较轻的温暖月份，户外活动非常重要。必须抓住这些蓝天白云的日子，去古老的加密器中漫步或探索著名的日坛公园。",
+            "scores": {
+                "bleu": 27.797703941822526,
+                "chrf": 24.940568297298814,
+                "comet-ref": 82.88981318473816,
+                "comet-noref": 75.20885467529297
+            }
+        },
+        "TT3": {
+            "text": "居民们强调，在污染通常较轻的温暖月份，户外活动非常重要。重要的是要把那些蓝天白云的日子当作漫步于古老的加密场所或探索热门的日坛公园的机会。",
+            "scores": {
+                "bleu": 39.76661948054964,
+                "chrf": 32.824861749537845,
+                "comet-ref": 88.57832551002502,
+                "comet-noref": 76.8394410610199
+            }
+        }
+    },
+    {
+        "index": 42,
+        "ST": {
+            "en": "Norton said: \"Beijing is a Chinese city that one can find most things below the surface. You can find very good arts and music activities, indulgent nightlife, historical wonders, ultra-modern business districts and ancient hutong areas.\"",
+            "zh": "诺顿说：“北京是能在表面以下发现最多东西的中国城市，你能发现很不错的艺术和音乐活动、纵情的夜生活、历史奇观、超现代的商业区和古老的胡同区。”"
+        },
+        "TT1": {
+            "text": "诺顿说：“北京是一座中国城市，一个人可以在表面之下找到很多东西。你可以找到非常好的艺术和音乐活动、放纵的夜生活、历史奇迹、超现代的商业区和古老的胡同地区。”",
+            "scores": {
+                "bleu": 43.299448812912374,
+                "chrf": 37.502804843620225,
+                "comet-ref": 88.85694146156311,
+                "comet-noref": 82.65354633331299
+            }
+        },
+        "TT2": {
+            "text": "诺顿说：\"北京是一座能在表面之下发现很多东西的中国城市。你可以找到非常好的艺术和音乐活动、纵情的夜生活、历史奇观、超现代的商业区和古老的胡同地区。\"",
+            "scores": {
+                "bleu": 55.94734446226395,
+                "chrf": 49.73761100977808,
+                "comet-ref": 92.13302731513977,
+                "comet-noref": 84.61058139801025
+            }
+        },
+        "TT3": {
+            "text": "诺顿说：“北京是一座中国城市，你可以在那里发现许多隐藏的东西。你可以找到非常好的艺术和音乐活动、奢靡的夜生活、历史奇迹、超现代的商业区和古老的胡同区。”",
+            "scores": {
+                "bleu": 42.74156849556311,
+                "chrf": 38.20207595212595,
+                "comet-ref": 90.36410450935364,
+                "comet-noref": 82.3447048664093
+            }
+        }
+    },
+    {
+        "index": 43,
+        "ST": {
+            "en": "The report believed that the hindrance to growth in human capital as a result of aging has become increasingly apparent. This was particularly the case in the Northeast, where the annual average contribution of aging to human capital growth was -1.28%.",
+            "zh": "报告认为，老龄化对人力资本增长的阻碍作用日益明显，尤其在东北地区，老龄化对人力资本增长的年均贡献率为-1.28%。"
+        },
+        "TT1": {
+            "text": "报告认为，由于老龄化导致的人力资本增长障碍变得越来越明显。这种情况在东北地区尤为明显，那里的老龄化对人力资本增长的年均贡献率为-1.28%。",
+            "scores": {
+                "bleu": 46.86398225542366,
+                "chrf": 41.43330160702681,
+                "comet-ref": 92.47751235961914,
+                "comet-noref": 88.1963849067688
+            }
+        },
+        "TT2": {
+            "text": "报告认为，由于人口老龄化导致的人力资本增长障碍变得越来越明显。特别是在东北地区，人口老龄化对人力资本增长的年均贡献率为-1.28%。",
+            "scores": {
+                "bleu": 50.218910430322374,
+                "chrf": 43.48775863068695,
+                "comet-ref": 92.79449582099915,
+                "comet-noref": 88.0186915397644
+            }
+        },
+        "TT3": {
+            "text": "报告认为，由于人口老龄化导致的人力资本增长障碍日益显著。这种情况在东北地区尤为明显，老龄化对人力资本增长的年均贡献率为-1.28%。",
+            "scores": {
+                "bleu": 51.565653714876355,
+                "chrf": 44.63035300188072,
+                "comet-ref": 92.45302677154541,
+                "comet-noref": 88.08087706565857
+            }
+        }
+    },
+    {
+        "index": 44,
+        "ST": {
+            "en": "Pan Gongsheng said that the present of risk of cross-border capital flows can be controlled. The fundamental factors underpinning international balance of payments will still exist over the longer term.",
+            "zh": "潘功胜指出，目前跨境资本流动风险可控，支撑国际收支平衡的根本性因素仍然长期存在。"
+        },
+        "TT1": {
+            "text": "潘功胜表示，目前跨境资本流动的风险是可控的。支撑国际收支的基本因素将在长期内继续存在。",
+            "scores": {
+                "bleu": 38.55947284984251,
+                "chrf": 33.313696142643515,
+                "comet-ref": 92.46422052383423,
+                "comet-noref": 87.2647762298584
+            }
+        },
+        "TT2": {
+            "text": "潘功胜表示，目前跨境资本流动的风险是可控的。从长期来看，支撑国际收支平衡的基本因素依然存在。",
+            "scores": {
+                "bleu": 44.85193056372288,
+                "chrf": 39.67054046240108,
+                "comet-ref": 93.12990307807922,
+                "comet-noref": 87.70945072174072
+            }
+        },
+        "TT3": {
+            "text": "潘功胜表示，目前跨境资本流动的风险是可控的。从长期来看，国际收支平衡的基本因素依然存在。",
+            "scores": {
+                "bleu": 41.45875648449041,
+                "chrf": 35.985913617492564,
+                "comet-ref": 92.13852286338806,
+                "comet-noref": 87.29327917098999
+            }
+        }
+    },
+    {
+        "index": 45,
+        "ST": {
+            "en": "China News Service Beijing December 17 wire (Reporter: Gao Kai) Heritage makes the world resplendent - The opening ceremony of the 2016 International Summit for the Authentication, Restoration and Protection of Ancient Chinese Calligraphy and Painting was held at Renmin University of China on December 17.",
+            "zh": "中新网北京12月17日电 (记者 高凯)世界因遗产而璀璨——2016中国古书画鉴定修复与保护国际高峰论坛于12月17日在中国人民大学开幕。"
+        },
+        "TT1": {
+            "text": "中国新闻社北京12月17日电（记者：高凯）传承让世界辉煌——2016年中国古代书画鉴定、修复与保护国际高峰论坛开幕式于12月17日在中国人民大学举行。",
+            "scores": {
+                "bleu": 58.54977086126019,
+                "chrf": 54.98888096039348,
+                "comet-ref": 90.25759100914001,
+                "comet-noref": 86.22002601623535
+            }
+        },
+        "TT2": {
+            "text": "中国新闻社北京12月17日电（记者：高凯）传承让世界更加辉煌——2016年中国古代书画鉴定、修复与保护国际峰会开幕式于12月17日在中国人民大学举行。",
+            "scores": {
+                "bleu": 51.916415527255,
+                "chrf": 49.10493265896904,
+                "comet-ref": 89.99212384223938,
+                "comet-noref": 86.05995178222656
+            }
+        },
+        "TT3": {
+            "text": "中国新闻社北京12月17日电 (记者：高凯) 文化遗产使世界辉煌——2016年中国古代书画鉴定、修复与保护国际峰会开幕式于12月17日在中国人民大学举行。",
+            "scores": {
+                "bleu": 52.86561850562951,
+                "chrf": 49.846075759276694,
+                "comet-ref": 90.03750681877136,
+                "comet-noref": 86.30622625350952
+            }
+        }
+    },
+    {
+        "index": 46,
+        "ST": {
+            "en": "In April this year, the European Commission accused Google of coercing mobile phone manufacturers into installing software such as the Google search engine and Chrome web browser, or they would not be allowed to use other Google applications.",
+            "zh": "欧盟委员会今年4月指控谷歌强迫手机厂商预装谷歌搜索和Chrome浏览器等软件，否则便不允许其使用其他谷歌应用。"
+        },
+        "TT1": {
+            "text": "今年四月，欧洲委员会指责谷歌强迫手机制造商安装谷歌搜索引擎和Chrome浏览器等软件，否则他们将不能使用其他谷歌应用程序。",
+            "scores": {
+                "bleu": 46.047222851768076,
+                "chrf": 44.6911878143519,
+                "comet-ref": 93.4583842754364,
+                "comet-noref": 88.3137583732605
+            }
+        },
+        "TT2": {
+            "text": "今年四月，欧盟委员会指控谷歌强迫手机制造商安装谷歌搜索引擎和Chrome浏览器等软件，否则将不允许使用其他谷歌应用程序。",
+            "scores": {
+                "bleu": 56.77680202485439,
+                "chrf": 52.68761179358717,
+                "comet-ref": 94.01655793190002,
+                "comet-noref": 88.32660913467407
+            }
+        },
+        "TT3": {
+            "text": "今年四月，欧盟委员会指控谷歌强迫手机制造商安装谷歌搜索引擎和Chrome浏览器等软件，否则将不允许使用其他谷歌应用程序。",
+            "scores": {
+                "bleu": 56.77680202485439,
+                "chrf": 52.68761179358717,
+                "comet-ref": 94.01655793190002,
+                "comet-noref": 88.32660913467407
+            }
+        }
+    },
+    {
+        "index": 47,
+        "ST": {
+            "en": "The European Commission believed that this harmed consumer interests and hindered competition.",
+            "zh": "欧盟委员会认为此举有损消费者的利益，并且阻碍了竞争。"
+        },
+        "TT1": {
+            "text": "欧盟委员会认为，这损害了消费者利益并阻碍了竞争。",
+            "scores": {
+                "bleu": 43.90960897971484,
+                "chrf": 41.509703409748624,
+                "comet-ref": 95.59892416000366,
+                "comet-noref": 89.04841542243958
+            }
+        },
+        "TT2": {
+            "text": "欧盟委员会认为这损害了消费者的利益并阻碍了竞争。",
+            "scores": {
+                "bleu": 54.81799462606963,
+                "chrf": 49.51800785262922,
+                "comet-ref": 95.93623876571655,
+                "comet-noref": 88.89751434326172
+            }
+        },
+        "TT3": {
+            "text": "欧洲委员会认为这损害了消费者利益并阻碍了竞争。",
+            "scores": {
+                "bleu": 35.25678415060714,
+                "chrf": 32.31726392296466,
+                "comet-ref": 95.17203569412231,
+                "comet-noref": 88.83989453315735
+            }
+        }
+    },
+    {
+        "index": 48,
+        "ST": {
+            "en": "EU regulators initially requested that Google make a response prior to July 27.",
+            "zh": "欧盟监管者最初要求谷歌在7月27日之前作出回应。"
+        },
+        "TT1": {
+            "text": "欧盟监管机构最初要求谷歌在7月27日之前做出回应。",
+            "scores": {
+                "bleu": 70.4530757385876,
+                "chrf": 64.74232765708737,
+                "comet-ref": 97.50239849090576,
+                "comet-noref": 88.03328275680542
+            }
+        },
+        "TT2": {
+            "text": "欧盟监管机构最初要求谷歌在7月27日之前作出回应。",
+            "scores": {
+                "bleu": 83.18180062062373,
+                "chrf": 79.175483174339,
+                "comet-ref": 97.6565420627594,
+                "comet-noref": 88.04118037223816
+            }
+        },
+        "TT3": {
+            "text": "欧盟监管机构最初要求谷歌在7月27日之前做出回应。",
+            "scores": {
+                "bleu": 70.4530757385876,
+                "chrf": 64.74232765708737,
+                "comet-ref": 97.50239849090576,
+                "comet-noref": 88.03328275680542
+            }
+        }
+    },
+    {
+        "index": 49,
+        "ST": {
+            "en": "If found guilty of violating antitrust rules, Google could face a maximum fine of 10% of its global turnover, or approximately US$7.4 billion.",
+            "zh": "倘若反垄断罪名成立，谷歌最高面临其全球营收10%的罚款，约为74亿美元。"
+        },
+        "TT1": {
+            "text": "如果被判违反反垄断规则，谷歌可能面临其全球营业额10%或约74亿美元的最高罚款。",
+            "scores": {
+                "bleu": 28.280137502239512,
+                "chrf": 26.19821061923914,
+                "comet-ref": 92.93459057807922,
+                "comet-noref": 86.59586310386658
+            }
+        },
+        "TT2": {
+            "text": "如果被发现违反了反垄断规则，谷歌可能面临其全球营业额10%的最高罚款，约为74亿美元。",
+            "scores": {
+                "bleu": 32.93115629268126,
+                "chrf": 30.220421907135865,
+                "comet-ref": 92.9364264011383,
+                "comet-noref": 86.75634264945984
+            }
+        },
+        "TT3": {
+            "text": "如果被判违反反垄断法规，谷歌可能面临其全球营业额的10%的最高罚款，约为74亿美元。",
+            "scores": {
+                "bleu": 33.91410396855991,
+                "chrf": 30.890355561724675,
+                "comet-ref": 93.11270117759705,
+                "comet-noref": 86.75737977027893
+            }
+        }
+    },
+    {
+        "index": 50,
+        "ST": {
+            "en": "Google has not made immediate comment on this.",
+            "zh": "谷歌尚未立刻对此置评。"
+        },
+        "TT1": {
+            "text": "谷歌对此尚未立即发表评论。",
+            "scores": {
+                "bleu": 19.358307479298794,
+                "chrf": 19.17305212174879,
+                "comet-ref": 97.88810610771179,
+                "comet-noref": 86.76314353942871
+            }
+        },
+        "TT2": {
+            "text": "谷歌对此尚未立即发表评论。",
+            "scores": {
+                "bleu": 19.358307479298794,
+                "chrf": 19.17305212174879,
+                "comet-ref": 97.88810610771179,
+                "comet-noref": 86.76314353942871
+            }
+        },
+        "TT3": {
+            "text": "谷歌对此尚未立即发表评论。",
+            "scores": {
+                "bleu": 19.358307479298794,
+                "chrf": 19.17305212174879,
+                "comet-ref": 97.88810610771179,
+                "comet-noref": 86.76314353942871
+            }
+        }
+    },
+    {
+        "index": 51,
+        "ST": {
+            "en": "Google also faced EU investigations over giving prominent placement to its own shopping services in search results.",
+            "zh": "谷歌还因为在搜索结果中偏向自家购物服务而面临欧盟的调查。"
+        },
+        "TT1": {
+            "text": "谷歌还面临欧盟的调查，原因是其在搜索结果中优先展示自己的购物服务。",
+            "scores": {
+                "bleu": 46.00585798331265,
+                "chrf": 38.16541087807061,
+                "comet-ref": 92.56914258003235,
+                "comet-noref": 85.82090139389038
+            }
+        },
+        "TT2": {
+            "text": "谷歌还因在搜索结果中突出展示自己的购物服务而面临欧盟调查。",
+            "scores": {
+                "bleu": 56.711513712468296,
+                "chrf": 47.66860286787822,
+                "comet-ref": 93.50311160087585,
+                "comet-noref": 86.23188734054565
+            }
+        },
+        "TT3": {
+            "text": "谷歌还因在搜索结果中突出显示其购物服务而面临欧盟的调查。",
+            "scores": {
+                "bleu": 64.85614278660147,
+                "chrf": 58.29206443427397,
+                "comet-ref": 93.27594637870789,
+                "comet-noref": 86.22892498970032
+            }
+        }
+    },
+    {
+        "index": 52,
+        "ST": {
+            "en": "Zhang Yuning's stay-abroad is a real one. It can be said that his achievement of “jumping level” from the national youth to the national Olympics is by no means accidental, and his leap-forward growth is still surprising.",
+            "zh": "张玉宁的留洋是实打实的，可以说他实现从国青到国奥的“跳级”并不是偶然的，而他飞跃成长的幅度依然令人惊讶。"
+        },
+        "TT1": {
+            "text": "张玉宁的留洋是真正的留洋。可以说，他从国青队“跳级”到国奥队的成就绝非偶然，他的跨越式成长依然令人惊讶。",
+            "scores": {
+                "bleu": 32.45314143242781,
+                "chrf": 30.152327477667733,
+                "comet-ref": 85.83009243011475,
+                "comet-noref": 79.64637875556946
+            }
+        },
+        "TT2": {
+            "text": "张玉宁的留洋经历是真实的。可以说，他从国家青年队“跳级”到国家奥林匹克队的成就绝非偶然，他的飞跃式成长依然令人惊讶。",
+            "scores": {
+                "bleu": 29.67718698849595,
+                "chrf": 25.886803712210465,
+                "comet-ref": 86.62791848182678,
+                "comet-noref": 85.44625043869019
+            }
+        },
+        "TT3": {
+            "text": "张玉宁的留洋是真正的留洋。他从国青跳级到国奥的成就可以说绝非偶然，他的跨越式成长仍然令人惊讶。",
+            "scores": {
+                "bleu": 30.159901163925657,
+                "chrf": 28.91927672809397,
+                "comet-ref": 84.67692732810974,
+                "comet-noref": 78.09091210365295
+            }
+        }
+    },
+    {
+        "index": 53,
+        "ST": {
+            "en": "Understand through a picture: Bitcoin's legal status around the world",
+            "zh": "一张图看懂：比特币在世界各地的法律地位"
+        },
+        "TT1": {
+            "text": "通过一张图片了解：比特币在世界各地的法律地位",
+            "scores": {
+                "bleu": 65.99231368411863,
+                "chrf": 62.656476923992535,
+                "comet-ref": 91.11751914024353,
+                "comet-noref": 86.78728938102722
+            }
+        },
+        "TT2": {
+            "text": "通过图片了解: 比特币在世界各地的法律地位",
+            "scores": {
+                "bleu": 66.76160043354595,
+                "chrf": 64.11660278146346,
+                "comet-ref": 89.58373665809631,
+                "comet-noref": 86.73125505447388
+            }
+        },
+        "TT3": {
+            "text": "通过图片了解：比特币在世界各地的法律地位",
+            "scores": {
+                "bleu": 66.76160043354595,
+                "chrf": 64.11660278146346,
+                "comet-ref": 89.66482877731323,
+                "comet-noref": 86.80124282836914
+            }
+        }
+    },
+    {
+        "index": 54,
+        "ST": {
+            "en": "Abstract: A part from the price correction which is natural in speculation, the current round of digital currency tumble has also to do with the 'sworn enemy'—regulation.",
+            "zh": "摘要：除了投机属性天然引发的价格回调，本轮数字货币惨跌也与“宿敌”——监管风险不无关系。"
+        },
+        "TT1": {
+            "text": "摘要：除了在投机中自然发生的价格修正外，本轮数字货币暴跌还与其“死敌”——监管有关。",
+            "scores": {
+                "bleu": 18.47414615994269,
+                "chrf": 20.95228282349427,
+                "comet-ref": 90.32010436058044,
+                "comet-noref": 84.64900255203247
+            }
+        },
+        "TT2": {
+            "text": "摘要：除了投机中自然发生的价格调整外，本轮数字货币暴跌还与其“死对头”——监管有关。",
+            "scores": {
+                "bleu": 22.06877406856143,
+                "chrf": 22.868802959214538,
+                "comet-ref": 89.22189474105835,
+                "comet-noref": 84.46800708770752
+            }
+        },
+        "TT3": {
+            "text": "摘要：除了投机中自然发生的价格修正外，本轮数字货币暴跌还与其 \"死敌\"——监管有关。",
+            "scores": {
+                "bleu": 22.06877406856143,
+                "chrf": 23.393716331552554,
+                "comet-ref": 90.03875851631165,
+                "comet-noref": 84.89302396774292
+            }
+        }
+    },
+    {
+        "index": 55,
+        "ST": {
+            "en": "From the visualized maps, the attitude of the eastern countries towards Bitcoin is more conservative than that of the West. Most countries in the world are still indecisive about the legitimacy of digital currencies, indicating that the “risk of the black swan” is still looming large.",
+            "zh": "从可视化地图看，东方国家对比特币的态度比西方更为保守，占全球主体的国家仍在观望数字货币合法性，代表“黑天鹅风险”依旧很大。"
+        },
+        "TT1": {
+            "text": "从可视化地图中可以看出，东方国家对比特币的态度比西方更加保守。世界上大多数国家对数字货币的合法性仍然犹豫不决，表明“黑天鹅事件”的风险依然存在。",
+            "scores": {
+                "bleu": 39.62865265941993,
+                "chrf": 35.29825969240816,
+                "comet-ref": 89.37792181968689,
+                "comet-noref": 86.69131994247437
+            }
+        },
+        "TT2": {
+            "text": "从可视化地图来看，东方国家对比特币的态度比西方更加保守。大多数国家对于数字货币的合法性仍然犹豫不决，这表明“黑天鹅风险”仍然存在。",
+            "scores": {
+                "bleu": 45.44197937127478,
+                "chrf": 40.20606662171457,
+                "comet-ref": 90.23904204368591,
+                "comet-noref": 86.14587783813477
+            }
+        },
+        "TT3": {
+            "text": "从可视化地图来看，东方国家对比特币的态度比西方国家更加保守。世界上大多数国家对数字货币的合法性仍然犹豫不决，这表明“黑天鹅风险”仍然在显现。",
+            "scores": {
+                "bleu": 41.82014133847758,
+                "chrf": 36.21381455954159,
+                "comet-ref": 89.73206877708435,
+                "comet-noref": 86.31728887557983
+            }
+        }
+    },
+    {
+        "index": 56,
+        "ST": {
+            "en": "*This article is taken from Wallstreetcn (WeChat ID: wallstreetcn), editor Wang Mu. For more exciting information, visit wallstreetcn.com or download the Wallstreetcn APP. *",
+            "zh": "*本文来自华尔街见闻（微信ID：wallstreetcn），编辑王穆。更多精彩资讯请登陆wallstreetcn.com，或下载华尔街见闻APP。*"
+        },
+        "TT1": {
+            "text": "*本文转载自华尔街见闻（微信公众号：wallstreetcn），编辑王木。更多精彩内容，请访问wallstreetcn.com或下载华尔街见闻APP。*",
+            "scores": {
+                "bleu": 36.78737468511002,
+                "chrf": 54.60105881598311,
+                "comet-ref": 92.82925724983215,
+                "comet-noref": 84.59526896476746
+            }
+        },
+        "TT2": {
+            "text": "*本文摘自华尔街见闻（微信ID：wallstreetcn），编辑王木。更多精彩内容，请访问wallstreetcn.com或下载华尔街见闻APP。*",
+            "scores": {
+                "bleu": 36.454423023977945,
+                "chrf": 57.769740900886625,
+                "comet-ref": 93.62022280693054,
+                "comet-noref": 84.67777967453003
+            }
+        },
+        "TT3": {
+            "text": "本文转载自华尔街见闻（微信ID：wallstreetcn），编辑王木。欲了解更多精彩资讯，请访问wallstreetcn.com或下载华尔街见闻APP。",
+            "scores": {
+                "bleu": 43.07738254243746,
+                "chrf": 59.01922884502076,
+                "comet-ref": 92.5992488861084,
+                "comet-noref": 84.08594131469727
+            }
+        }
+    },
+    {
+        "index": 57,
+        "ST": {
+            "en": "As the authorities in major markets of Bitcoin -- such as China, South Korea and the European Union -- take decisive regulatory measures, the digital currency market dominated by Bitcoin has experienced major bloodshed this week. The price of Bitcoin has fallen below 10,000 dollar, recording the biggest one-day drop.",
+            "zh": "随着中国、韩国和欧盟等比特币主要市场的监管风暴迭起，以比特币为首的全球数字货币本周以来惨遭血洗，比特币价格周二起跌破1万美元心理整数位，并创三年以来最大单日跌幅。"
+        },
+        "TT1": {
+            "text": "随着比特币主要市场（如中国、韩国和欧盟）的当局采取果断的监管措施，由比特币主导的数字货币市场本周经历了重大动荡。比特币价格跌破了10,000美元，创下了单日最大跌幅。",
+            "scores": {
+                "bleu": 25.772817298096292,
+                "chrf": 23.529373021610876,
+                "comet-ref": 87.84139752388,
+                "comet-noref": 84.6970796585083
+            }
+        },
+        "TT2": {
+            "text": "随着中国、韩国和欧盟等比特币主要市场的当局采取果断的监管措施，以比特币为主的数字货币市场本周经历了重大波动。比特币的价格已跌破一万美元，创下单日最大跌幅。",
+            "scores": {
+                "bleu": 34.50407118292809,
+                "chrf": 32.52343703542827,
+                "comet-ref": 88.74680995941162,
+                "comet-noref": 82.68271684646606
+            }
+        },
+        "TT3": {
+            "text": "随着中国、韩国和欧盟等主要比特币市场的监管机构采取果断的监管措施，本周由比特币主导的数字货币市场经历了严重的动荡。比特币的价格已跌破一万美元，创下单日最大跌幅。",
+            "scores": {
+                "bleu": 26.14226455910289,
+                "chrf": 23.492525121041115,
+                "comet-ref": 87.85874247550964,
+                "comet-noref": 83.78691673278809
+            }
+        }
+    },
+    {
+        "index": 58,
+        "ST": {
+            "en": "A part from the price correction which is natural in speculation, the current round of digital currency tumble has also to do with the 'sworn enemy'—regulation.",
+            "zh": "除了投机属性天然引发的价格回调，本轮数字货币惨跌也与一直以来的“宿敌”——监管风险不无关系。"
+        },
+        "TT1": {
+            "text": "除了由投机引起的价格调整是自然的之外，目前这轮数字货币暴跌还与“宿敌”——监管有关。",
+            "scores": {
+                "bleu": 14.722500792577723,
+                "chrf": 17.88680016113343,
+                "comet-ref": 90.87935090065002,
+                "comet-noref": 84.11867618560791
+            }
+        },
+        "TT2": {
+            "text": "除了投机中自然发生的价格修正外，目前这轮数字货币暴跌也与“死对头”——监管有关。",
+            "scores": {
+                "bleu": 18.940208900425674,
+                "chrf": 20.21041063941651,
+                "comet-ref": 88.45992088317871,
+                "comet-noref": 84.48275327682495
+            }
+        },
+        "TT3": {
+            "text": "除了投机中自然的价格修正外，本轮数字货币暴跌还与“死敌”——监管有关。",
+            "scores": {
+                "bleu": 19.91463305991777,
+                "chrf": 24.015768194221025,
+                "comet-ref": 89.9320662021637,
+                "comet-noref": 85.17925143241882
+            }
+        }
+    },
+    {
+        "index": 59,
+        "ST": {
+            "en": "At this important juncture, HowMuch.net, a visualization big data website, produced a map showing the legitimacy of Bitcoin and regulation measure in place in countries around the world.",
+            "zh": "在这个重要的关口，可视化大数据网站HowMuch.net制作了一份图谱，展现比特币在全球各国的合法性地位和受监管程度。"
+        },
+        "TT1": {
+            "text": "在这个重要时刻，HowMuch.net，一个可视化大数据网站，制作了一张地图，展示了世界各国的比特币合法性和相关监管措施。",
+            "scores": {
+                "bleu": 33.72822138786809,
+                "chrf": 35.86155091982565,
+                "comet-ref": 89.11260962486267,
+                "comet-noref": 86.19141578674316
+            }
+        },
+        "TT2": {
+            "text": "在这个重要关头，大数据可视化网站HowMuch.net制作了一张地图，显示了世界各国对比特币的合法性及监管措施。",
+            "scores": {
+                "bleu": 25.0351067207978,
+                "chrf": 37.907093307393176,
+                "comet-ref": 90.7600462436676,
+                "comet-noref": 85.89649200439453
+            }
+        },
+        "TT3": {
+            "text": "在这个重要时刻，数据可视化网站HowMuch.net制作了一张地图，展示了世界各国对比特币的合法性和现有的监管措施。",
+            "scores": {
+                "bleu": 24.435873149693588,
+                "chrf": 36.755005638501146,
+                "comet-ref": 90.37835597991943,
+                "comet-noref": 85.61784625053406
+            }
+        }
+    },
+    {
+        "index": 60,
+        "ST": {
+            "en": "As shown in the figure below, green represents the legal market for Bitcoin, and orange represents the neutral market. Although there is no place where Bitcoin is acknowledged a legal currency, there are no major restrictions on the use it. The pale pink represents the restricted market, i.e. the local government tries to the use of the digital currency pass by drawing a red line or taking regulatory measures. The deep pink represents countries where Bitcoin is declared as illegal. The gray represents countries that have not yet been rated.",
+            "zh": "如下图所示，绿色代表比特币的合法市场；橘黄色代表中性市场，虽尚未公开合法化比特币地位，但也没有主要的使用限制；淡粉色代表受限制的市场，即当地政府尝试通过红线政策或监管来方法数字货币的使用；深粉色代表比特币被定义为非法的国家；灰色是尚未置评的国家。"
+        },
+        "TT1": {
+            "text": "如下图所示，绿色代表比特币的合法市场，橙色代表中立市场。虽然没有地方承认比特币为合法货币，但对其使用没有重大限制。浅粉色代表受限制市场，即当地政府尝试通过划定红线或采取监管措施来限制数字货币的使用。深粉色代表那些宣布比特币非法的国家。灰色代表尚未评级的国家。",
+            "scores": {
+                "bleu": 42.3607135919347,
+                "chrf": 36.67476657329022,
+                "comet-ref": 90.6266987323761,
+                "comet-noref": 82.35580921173096
+            }
+        },
+        "TT2": {
+            "text": "如下图所示，绿色代表比特币的合法市场，橙色代表中立市场。虽然没有地方承认比特币为法定货币，但使用比特币并没有重大限制。浅粉色代表受限市场，即地方政府试图通过划定红线或采取监管措施来限制使用数字货币。深粉色代表比特币被宣布为非法的国家。灰色代表尚未评级的国家。",
+            "scores": {
+                "bleu": 37.34146481126139,
+                "chrf": 32.87163099020343,
+                "comet-ref": 90.09013772010803,
+                "comet-noref": 82.30029940605164
+            }
+        },
+        "TT3": {
+            "text": "如下图所示，绿色代表比特币的合法市场，橙色代表中立市场。虽然没有地方承认比特币为合法货币，但对它的使用也没有重大限制。浅粉色代表受限市场，即当地政府试图通过划定红线或采取监管措施来限制这种数字货币的使用。深粉色代表宣布比特币为非法的国家。灰色代表尚未评级的国家。",
+            "scores": {
+                "bleu": 40.47345307063601,
+                "chrf": 34.35532634924996,
+                "comet-ref": 90.19541144371033,
+                "comet-noref": 82.13723301887512
+            }
+        }
+    },
+    {
+        "index": 61,
+        "ST": {
+            "en": "(The above figure was drawn by the HowMuch.Net visualization team on January 15th)",
+            "zh": "（上图来自HowMuch.Net可视化团队在1月15日制图）"
+        },
+        "TT1": {
+            "text": "（上图由HowMuch.Net数据可视化团队于1月15日绘制）",
+            "scores": {
+                "bleu": 31.642571776698524,
+                "chrf": 41.50329808988088,
+                "comet-ref": 93.32662224769592,
+                "comet-noref": 85.83401441574097
+            }
+        },
+        "TT2": {
+            "text": "（上述图形由HowMuch.Net可视化团队于1月15日绘制）",
+            "scores": {
+                "bleu": 30.603689509300906,
+                "chrf": 48.92041515951139,
+                "comet-ref": 93.03953051567078,
+                "comet-noref": 86.63041591644287
+            }
+        },
+        "TT3": {
+            "text": "上图由HowMuch.Net可视化团队于1月15日绘制。",
+            "scores": {
+                "bleu": 31.642571776698524,
+                "chrf": 52.71452062861064,
+                "comet-ref": 93.16944479942322,
+                "comet-noref": 86.41811609268188
+            }
+        }
+    },
+    {
+        "index": 62,
+        "ST": {
+            "en": "The article points out that from the distribution of non-green color patches in the graph, it can be seen that the oriental countries in the traditional sense are more conservative towards Bitcoin than the West.",
+            "zh": "文章指出，从图中非绿色的色块分布可以看出，传统意义上的东方国家对比特币的态度比西方更为保守。"
+        },
+        "TT1": {
+            "text": "文章指出，从图中非绿色色块的分布中可以看出，传统意义上的东方国家比西方对比特币更加保守。",
+            "scores": {
+                "bleu": 51.227956081724905,
+                "chrf": 46.54216009608792,
+                "comet-ref": 94.0154492855072,
+                "comet-noref": 86.20779514312744
+            }
+        },
+        "TT2": {
+            "text": "文章指出，从图中非绿色色块的分布可以看出，在传统意义上东方国家比西方国家对比特币更加保守。",
+            "scores": {
+                "bleu": 52.517258309784786,
+                "chrf": 45.19454103828025,
+                "comet-ref": 93.75354051589966,
+                "comet-noref": 86.35098338127136
+            }
+        },
+        "TT3": {
+            "text": "文章指出，从图中非绿色色块的分布可以看出，传统意义上的东方国家在比特币方面比西方更保守。",
+            "scores": {
+                "bleu": 54.56324208533316,
+                "chrf": 49.56753378011869,
+                "comet-ref": 93.81992816925049,
+                "comet-noref": 86.22041940689087
+            }
+        }
+    },
+    {
+        "index": 63,
+        "ST": {
+            "en": "Russia is currently the largest country that defines Bitcoin as illegal. China is one of the largest restricted markets for Bitcoin. India is one of the largest countries that have not commented on Bitcoin and have not made relevant policies.",
+            "zh": "俄罗斯是目前定义比特币为非法的最大国家，中国是比特币最大的受限市场之一，印度是对比特币尚不予置评、还没有出台相关政策的最大国家之一。"
+        },
+        "TT1": {
+            "text": "俄罗斯目前是将比特币定义为非法的最大国家。中国是比特币受限制最大的市场之一。印度是尚未对比特币发表评论并未制定相关政策的最大国家之一。",
+            "scores": {
+                "bleu": 49.32069696666917,
+                "chrf": 42.7180900993531,
+                "comet-ref": 93.97311806678772,
+                "comet-noref": 87.82087564468384
+            }
+        },
+        "TT2": {
+            "text": "俄罗斯目前是将比特币定义为非法的最大国家。中国是比特币受到限制的最大市场之一。印度是尚未对比特币发表意见并制定相关政策的最大国家之一。",
+            "scores": {
+                "bleu": 47.99394039165856,
+                "chrf": 41.66643451872694,
+                "comet-ref": 93.87453198432922,
+                "comet-noref": 88.10288906097412
+            }
+        },
+        "TT3": {
+            "text": "目前，俄罗斯是将比特币定为非法的最大国家。中国是比特币受限市场中最大的国家之一。印度是尚未对比特币发表意见也没有制定相关政策的最大国家之一。",
+            "scores": {
+                "bleu": 50.768799258790004,
+                "chrf": 42.437759678968035,
+                "comet-ref": 93.26335191726685,
+                "comet-noref": 88.04649114608765
+            }
+        }
+    },
+    {
+        "index": 64,
+        "ST": {
+            "en": "North America and Western Europe are the regions that have highest level of tolerance to Bitcoin i.e. where green patches are concentrated.",
+            "zh": "北美和西欧是对比特币接受程度最高的地区，即绿色块的分布更为集中。"
+        },
+        "TT1": {
+            "text": "北美和西欧是对比特币容忍度最高的地区，即绿色区域集中的地方。",
+            "scores": {
+                "bleu": 48.71873548007025,
+                "chrf": 47.04648686219495,
+                "comet-ref": 90.17046689987183,
+                "comet-noref": 85.05337238311768
+            }
+        },
+        "TT2": {
+            "text": "北美和西欧是对比特币容忍度最高的地区，也就是绿区集中的地方。",
+            "scores": {
+                "bleu": 45.192658930886566,
+                "chrf": 44.068124405417116,
+                "comet-ref": 88.73136043548584,
+                "comet-noref": 86.01562976837158
+            }
+        },
+        "TT3": {
+            "text": "北美和西欧是对比特币容忍度最高的地区，即绿色区域集中的地方。",
+            "scores": {
+                "bleu": 48.71873548007025,
+                "chrf": 47.04648686219495,
+                "comet-ref": 90.17046689987183,
+                "comet-noref": 85.05337238311768
+            }
+        }
+    },
+    {
+        "index": 65,
+        "ST": {
+            "en": "The views of the countries in the Middle East and Latin America on Bitcoin are clearly divided, so, the distribution of color patches in these areas is more mixed.",
+            "zh": "中东和拉丁美洲各国对比特币的看法呈现明显分化，上述地区的色块分布更为混杂。"
+        },
+        "TT1": {
+            "text": "中东和拉丁美洲国家对比特币的看法显然存在分歧，因此这些地区的色块分布更为混杂。",
+            "scores": {
+                "bleu": 58.62741927825989,
+                "chrf": 51.46254399930871,
+                "comet-ref": 93.87576580047607,
+                "comet-noref": 86.89258694648743
+            }
+        },
+        "TT2": {
+            "text": "中东和拉丁美洲国家对比特币的看法明显存在分歧，因此这些地区的颜色分布更加混杂。",
+            "scores": {
+                "bleu": 41.42038001207054,
+                "chrf": 35.24498620086855,
+                "comet-ref": 91.61160588264465,
+                "comet-noref": 86.00540161132812
+            }
+        },
+        "TT3": {
+            "text": "中东和拉丁美洲国家对比特币的看法显然存在分歧，因此，这些地区颜色块的分布更加混杂。",
+            "scores": {
+                "bleu": 38.88869361454164,
+                "chrf": 33.54760625054068,
+                "comet-ref": 91.71069264411926,
+                "comet-noref": 86.79950833320618
+            }
+        }
+    },
+    {
+        "index": 66,
+        "ST": {
+            "en": "Among them, Iraq, Iran, Turkey and Brazil are all legitimate Bitcoin markets. Afghanistan, Pakistan, Saudi Arabia, Egypt, and Bolivia have some restrictions on the trading and use of Bitcoin. Most Latin American countries have not made any comments about Bitcoin.",
+            "zh": "其中伊拉克、伊朗、土耳其、巴西都是合法的比特币市场，阿富汗、巴基斯坦、沙特、埃及、玻利维亚等对其交易和使用有一定程度的限制，更多的拉美国家对比特币还没有发声。"
+        },
+        "TT1": {
+            "text": "其中，伊拉克、伊朗、土耳其和巴西都是合法的比特币市场。阿富汗、巴基斯坦、沙特阿拉伯、埃及和玻利维亚对比特币的交易和使用有一些限制。大多数拉丁美洲国家对比特币没有发表任何评论。",
+            "scores": {
+                "bleu": 44.869438082487825,
+                "chrf": 38.052184088750614,
+                "comet-ref": 92.71438121795654,
+                "comet-noref": 88.07532787322998
+            }
+        },
+        "TT2": {
+            "text": "其中，伊拉克、伊朗、土耳其和巴西都是合法的比特币市场。阿富汗、巴基斯坦、沙特阿拉伯、埃及和玻利维亚对比特币的交易和使用有一些限制。大多数拉丁美洲国家对比特币没有发表任何评论。",
+            "scores": {
+                "bleu": 44.869438082487825,
+                "chrf": 38.052184088750614,
+                "comet-ref": 92.71438121795654,
+                "comet-noref": 88.07532787322998
+            }
+        },
+        "TT3": {
+            "text": "其中，伊拉克、伊朗、土耳其和巴西都是合法的比特币市场。阿富汗、巴基斯坦、沙特阿拉伯、埃及和玻利维亚对比特币的交易和使用有一些限制。大多数拉丁美洲国家对比特币没有发表任何评论。",
+            "scores": {
+                "bleu": 44.869438082487825,
+                "chrf": 38.052184088750614,
+                "comet-ref": 92.71438121795654,
+                "comet-noref": 88.07532787322998
+            }
+        }
+    },
+    {
+        "index": 67,
+        "ST": {
+            "en": "From the above data, it can be seen that of the 246 countries that have been rated, a total of 99 countries (or 40% of the total) haven't imposed any restrictions on the transactions and use of Bitcoin. They are represented by green and orange patches.",
+            "zh": "综合上述数据可知，在全球受统计的246个国家中，共有99个国家（或占比40%）对比特币的交易和使用不施加限制，即绿色和橘黄色的地区。"
+        },
+        "TT1": {
+            "text": "从上述数据可以看出，在已评级的246个国家中，共有99个国家（即总数的40%）没有对比特币的交易和使用施加任何限制。这些国家以绿色和橙色块表示。",
+            "scores": {
+                "bleu": 39.19279264712132,
+                "chrf": 36.509325804887766,
+                "comet-ref": 90.35013914108276,
+                "comet-noref": 87.52315044403076
+            }
+        },
+        "TT2": {
+            "text": "从上述数据可以看出，在被评估的246个国家中，总共有99个国家（即总数的40%）没有对比特币的交易和使用施加任何限制。它们用绿色和橙色表示。",
+            "scores": {
+                "bleu": 39.19279264712132,
+                "chrf": 37.45438319669985,
+                "comet-ref": 89.68122005462646,
+                "comet-noref": 86.50304079055786
+            }
+        },
+        "TT3": {
+            "text": "从上述数据可以看出，在被评级的246个国家中，共有99个国家（占总数的40%）没有对比特币的交易和使用施加任何限制。这些国家用绿色和橙色补丁表示。",
+            "scores": {
+                "bleu": 39.19279264712132,
+                "chrf": 36.05447319991542,
+                "comet-ref": 88.92372250556946,
+                "comet-noref": 87.37803101539612
+            }
+        }
+    },
+    {
+        "index": 68,
+        "ST": {
+            "en": "Seven countries (or 3%) are restricted markets (pale pink), 10 countries (or 4%) have defined Bitcoin as illegal (dark pink), and 130 countries (or 53) %) haven't given comments on digital currency (grey).",
+            "zh": "有7个国家（或占比3%）是受限市场（淡粉色），有10个国家（或占比4%）定义比特币为非法（深粉色），有130个国家（或占比53%）还没有更多的对待数字货币信息（灰色）。"
+        },
+        "TT1": {
+            "text": "七个国家（占3%）是受限制的市场（浅粉色），十个国家（占4%）将比特币定义为非法（深粉色），130个国家（占53%）尚未对数字货币发表意见（灰色）。",
+            "scores": {
+                "bleu": 14.854221313160238,
+                "chrf": 24.41777120376298,
+                "comet-ref": 89.82188105583191,
+                "comet-noref": 87.59955763816833
+            }
+        },
+        "TT2": {
+            "text": "七个国家（或3%）是限制市场（浅粉色），十个国家（或4%）将比特币定义为非法（深粉色），而130个国家（或53%）尚未对数字货币发表评论（灰色）。",
+            "scores": {
+                "bleu": 13.956130491073765,
+                "chrf": 23.35464896194363,
+                "comet-ref": 88.1019651889801,
+                "comet-noref": 85.47332286834717
+            }
+        },
+        "TT3": {
+            "text": "七个国家（或占3%，淡粉色）是受限制市场，十个国家（或占4%，深粉色）将比特币定义为非法，130个国家（或占53%，灰色）尚未对数字货币发表评论。",
+            "scores": {
+                "bleu": 16.13713878517674,
+                "chrf": 25.92619918187518,
+                "comet-ref": 87.6891016960144,
+                "comet-noref": 86.73139810562134
+            }
+        }
+    },
+    {
+        "index": 69,
+        "ST": {
+            "en": "This shows that countries that account for the global majority (53%, more than half) are still indecisive about the legitimacy of digital currencies represented by Bitcoin. This means that the “black swan risk” is still very large for Bitcoin, because some of these countries may ultimately make legislation that restrict the use of digital currencies.",
+            "zh": "这说明，占全球主体（53%，超过半数）的国家仍在观望以比特币为首的数字货币在境内的合法性，也代表了比特币的“黑天鹅风险”依旧很大，因为其中一部分国家最终可能会作出限制数字货币的立法决定。"
+        },
+        "TT1": {
+            "text": "这表明占全球多数（53%，超过一半）的国家对以比特币为代表的数字货币的合法性仍然犹豫不决。这意味着比特币的“黑天鹅风险”仍然很大，因为其中一些国家最终可能会制定限制数字货币使用的法律。",
+            "scores": {
+                "bleu": 37.32701847664392,
+                "chrf": 32.84601108367108,
+                "comet-ref": 89.3086850643158,
+                "comet-noref": 86.88320517539978
+            }
+        },
+        "TT2": {
+            "text": "这表明，占全球多数（53%以上）的国家仍然对以比特币为代表的数字货币的合法性持犹豫态度。这意味着比特币的“黑天鹅风险”仍然很大，因为其中一些国家最终可能会制定限制数字货币使用的法律。",
+            "scores": {
+                "bleu": 37.54753517917617,
+                "chrf": 32.779223573036695,
+                "comet-ref": 89.48084712028503,
+                "comet-noref": 86.52887344360352
+            }
+        },
+        "TT3": {
+            "text": "这表明，占全球多数（53%，超过一半）的国家仍然对比特币等数字货币的合法性犹豫不决。这意味着对比特币而言，“黑天鹅风险”依然非常大，因为其中一些国家最终可能会制定限制数字货币使用的法律。",
+            "scores": {
+                "bleu": 32.87191509972627,
+                "chrf": 29.532001454448036,
+                "comet-ref": 88.72016668319702,
+                "comet-noref": 87.07031011581421
+            }
+        }
+    },
+    {
+        "index": 70,
+        "ST": {
+            "en": "The article believes that global regulators have not fully understood the digital currency as a new type of currency. This may be the main reason why most countries have not chosen a stance.",
+            "zh": "文章认为，全球监管机构对数字货币这个新兴类别还没有完全理解，可能是大部分国家还没有作出表态的主要原因。"
+        },
+        "TT1": {
+            "text": "该文章认为全球监管机构还没有完全理解数字货币这种新型货币。这可能是大多数国家尚未选择立场的主要原因。",
+            "scores": {
+                "bleu": 43.68103599596595,
+                "chrf": 36.072987994073586,
+                "comet-ref": 92.27293133735657,
+                "comet-noref": 87.14725375175476
+            }
+        },
+        "TT2": {
+            "text": "文章认为，全球监管机构还没有完全理解数字货币作为一种新型货币。这可能是大多数国家尚未选择立场的主要原因。",
+            "scores": {
+                "bleu": 43.12704335231428,
+                "chrf": 35.08138896752903,
+                "comet-ref": 92.70514249801636,
+                "comet-noref": 87.36501336097717
+            }
+        },
+        "TT3": {
+            "text": "文章认为，全球监管机构尚未完全理解数字货币作为一种新型货币。这可能是大多数国家尚未选择立场的主要原因。",
+            "scores": {
+                "bleu": 36.45991922372683,
+                "chrf": 29.54244468798773,
+                "comet-ref": 92.4792468547821,
+                "comet-noref": 87.38721013069153
+            }
+        }
+    },
+    {
+        "index": 71,
+        "ST": {
+            "en": "Although Bitcoin’s popularity has grown exponentially since last year, it does not necessarily mean that all countries are interested in it. It's probably that some countries are concerned that the local currency may be undermined by digital currencies or that digital currencies are used by criminal organizations.",
+            "zh": "尽管比特币的“人气”自去年以来呈指数级增长，并不代表所有国家都感兴趣，可能有些国家担心当地法币因此受到威胁，或更担心数字货币被犯罪组织利用。"
+        },
+        "TT1": {
+            "text": "尽管比特币的受欢迎程度自去年以来成倍增长，但这并不一定意味着所有国家都会对其感兴趣。一些国家可能担心本国货币会被数字货币削弱，或者担心数字货币会被犯罪组织利用。",
+            "scores": {
+                "bleu": 34.55738240365826,
+                "chrf": 28.830336426540963,
+                "comet-ref": 90.61554670333862,
+                "comet-noref": 87.94790506362915
+            }
+        },
+        "TT2": {
+            "text": "尽管比特币的普及率自去年以来呈指数增长，但这并不意味着所有国家都对此感兴趣。一些国家可能担心当地货币会被数字货币削弱，或者数字货币会被犯罪组织利用。",
+            "scores": {
+                "bleu": 41.59260538221265,
+                "chrf": 34.046939454238,
+                "comet-ref": 90.96946716308594,
+                "comet-noref": 87.79773712158203
+            }
+        },
+        "TT3": {
+            "text": "尽管比特币的受欢迎程度自去年以来呈指数级增长，但这并不一定意味着所有国家都对它感兴趣。可能有些国家担心本国货币会被数字货币削弱，或者数字货币会被犯罪组织利用。",
+            "scores": {
+                "bleu": 45.767105411256566,
+                "chrf": 39.00152592427855,
+                "comet-ref": 90.93422293663025,
+                "comet-noref": 88.0774438381195
+            }
+        }
+    },
+    {
+        "index": 72,
+        "ST": {
+            "en": "Wallstreetcn has published an article summarizing the news related to regulation measures against Bitcoin across the world since last week, including: China starts to crackdown on online platforms and mobile APPs of over-the-counter exchanges; South Korea is still considering to close the digital currency exchanges; the European Union holds the view that Bitcoin has not yet been widely accepted and warns investors of the risk of “losing everything”.",
+            "zh": "华尔街见闻曾撰文详细总结了上周以来针对比特币的国际监管新闻，包括中国开始打击场外类交易所的集中服务在线平台和移动App、韩国仍在考虑关闭数字货币交易所、欧盟认为比特币还没有被广泛接受并警告投资者“赔到血本无归”的风险等。"
+        },
+        "TT1": {
+            "text": "华尔街见闻发布了一篇文章，总结了自上周以来全球范围内针对比特币的监管措施相关新闻，包括：中国开始打击场外交易的在线平台和移动应用程序；韩国仍在考虑关闭数字货币交易所；欧盟认为比特币尚未被广泛接受，并警告投资者有“血本无归”的风险。",
+            "scores": {
+                "bleu": 55.86555759371097,
+                "chrf": 48.44252048411768,
+                "comet-ref": 88.2741928100586,
+                "comet-noref": 84.05613303184509
+            }
+        },
+        "TT2": {
+            "text": "华尔街见闻发布了一篇文章，总结了自上周以来全球针对比特币监管措施的相关新闻，包括：中国开始打击场外交易所的在线平台和移动应用程序；韩国仍在考虑关闭数字货币交易所；欧盟认为比特币尚未被广泛接受，并警告投资者可能会“损失一切”的风险。",
+            "scores": {
+                "bleu": 54.1841121650801,
+                "chrf": 46.85779570546884,
+                "comet-ref": 86.43158078193665,
+                "comet-noref": 84.03704166412354
+            }
+        },
+        "TT3": {
+            "text": "华尔街见闻发布了一篇文章，总结了自上周以来全球范围内针对比特币的监管措施相关新闻，包括：中国开始打击场外交易平台和移动应用程序；韩国仍在考虑关闭数字货币交易所；欧盟认为比特币尚未被广泛接受，并警告投资者有“血本无归”的风险。",
+            "scores": {
+                "bleu": 53.75655899493598,
+                "chrf": 47.453785059178784,
+                "comet-ref": 88.22422623634338,
+                "comet-noref": 83.57580900192261
+            }
+        }
+    },
+    {
+        "index": 73,
+        "ST": {
+            "en": "Wallstreetcn Editor's selection: Reading News | 2018: Global Central Banks Are Ushering Digital Currency? One article points out that 2018 is destined to be the first year of digital currency for central banks across the world, viewing from the perspectives of supervision, acceptance/criticism and adoption.",
+            "zh": "华尔街见闻主编精选《读要闻|2018：全球央妈开启数字货币元年？》曾提到，从监管、接受/批判、采纳的任一角度来看，2018年都将成为全球央行的数字货币元年。"
+        },
+        "TT1": {
+            "text": "华尔街见闻编辑精选：新闻阅读 | 2018：全球央行正在迎接数字货币时代？有文章指出，从监管、接受/批评和采用的角度来看，2018年注定是全球央行的数字货币元年。",
+            "scores": {
+                "bleu": 31.745852841998023,
+                "chrf": 32.06876991600339,
+                "comet-ref": 85.37397980690002,
+                "comet-noref": 80.46661615371704
+            }
+        },
+        "TT2": {
+            "text": "华尔街见闻编辑精选：阅读新闻 | 2018：全球央行正在迎来数字货币？ 一篇文章指出，从监管、接受/批评和采用的角度来看，2018年注定将成为全球央行数字货币的元年。",
+            "scores": {
+                "bleu": 29.330639669207873,
+                "chrf": 29.470150623248635,
+                "comet-ref": 85.04084944725037,
+                "comet-noref": 80.5362343788147
+            }
+        },
+        "TT3": {
+            "text": "华尔街见闻编辑精选：阅读新闻 | 2018年：全球央行正在迎接数字货币？一篇文章指出，从监管、接受/批评和采用的角度来看，2018年注定是全球央行数字货币的元年。",
+            "scores": {
+                "bleu": 24.168243927155665,
+                "chrf": 25.943703347490505,
+                "comet-ref": 84.56529974937439,
+                "comet-noref": 78.90709638595581
+            }
+        }
+    },
+    {
+        "index": 74,
+        "ST": {
+            "en": "The act of questioning the legal status of Bitcoin by big countries such as Russia is actually meant to make way for the official issuance of digital currencies.",
+            "zh": "俄罗斯等大国批评比特币合法性地位的做法，其实也是为了给官方发行数字货币让路。"
+        },
+        "TT1": {
+            "text": "俄罗斯等大国质疑比特币法律地位的行为实际上是为了给官方发行数字货币铺路。",
+            "scores": {
+                "bleu": 49.18523839244552,
+                "chrf": 45.97753939393055,
+                "comet-ref": 91.86632037162781,
+                "comet-noref": 87.07361221313477
+            }
+        },
+        "TT2": {
+            "text": "俄罗斯等大国质疑比特币法律地位的行为实际上是为了为官方发行数字货币铺路。",
+            "scores": {
+                "bleu": 40.71278686419499,
+                "chrf": 36.72449879312331,
+                "comet-ref": 91.910320520401,
+                "comet-noref": 87.30267286300659
+            }
+        },
+        "TT3": {
+            "text": "俄罗斯等大国质疑比特币法律地位的行为实际上是为了为官方发行数字货币铺路。",
+            "scores": {
+                "bleu": 40.71278686419499,
+                "chrf": 36.72449879312331,
+                "comet-ref": 91.910320520401,
+                "comet-noref": 87.30267286300659
+            }
+        }
+    },
+    {
+        "index": 75,
+        "ST": {
+            "en": "On January 8th, the Barcelona new aid Philippe Coutinho showed up for the first time in Camp Nou with his Barcelona shirt, the Xinhua News Agency reported in Madrid by reporter Xie Yuzhi.",
+            "zh": "新华社马德里1月8日电（报道员谢宇智）巴塞罗那新援库蒂尼奥8日在诺坎普首次身披巴萨球衣亮相。"
+        },
+        "TT1": {
+            "text": "1月8日，巴塞罗那新援菲利普·库蒂尼奥首次身穿巴塞罗那球衣出现在诺坎普球场，据新华社记者谢宇志在马德里报道。",
+            "scores": {
+                "bleu": 32.38453995669266,
+                "chrf": 27.340043526197398,
+                "comet-ref": 89.97553586959839,
+                "comet-noref": 85.27359962463379
+            }
+        },
+        "TT2": {
+            "text": "据新华社记者解玉之在马德里报道，1月8日，巴塞罗那新援菲利佩·库蒂尼奥首次身穿巴塞罗那球衣亮相诺坎普球场。",
+            "scores": {
+                "bleu": 33.71514930304579,
+                "chrf": 28.161356394935744,
+                "comet-ref": 90.1360809803009,
+                "comet-noref": 84.15637016296387
+            }
+        },
+        "TT3": {
+            "text": "新华社记者谢宇智在马德里报道，1月8日，巴塞罗那新援菲利佩·库蒂尼奥首次穿上巴塞罗那球衣亮相诺坎普球场。",
+            "scores": {
+                "bleu": 35.32588241157481,
+                "chrf": 29.703612758040094,
+                "comet-ref": 90.17248749732971,
+                "comet-noref": 84.57796573638916
+            }
+        }
+    },
+    {
+        "index": 76,
+        "ST": {
+            "en": "Coutinho passed a physical examination of Barcelona early that morning and signed with Barcelona president Bartomeu a contract that will expire in the summer of 2023.",
+            "zh": "库蒂尼奥当日上午通过了巴萨的体检，并与巴萨主席巴托梅乌在一份将于2023年夏天到期的合同上签了字。"
+        },
+        "TT1": {
+            "text": "库蒂尼奥在那天早上通过了巴塞罗那的体检，并与巴塞罗那主席巴托梅乌签署了一份将在2023年夏天到期的合同。",
+            "scores": {
+                "bleu": 45.19213625712456,
+                "chrf": 41.53818501614695,
+                "comet-ref": 90.07452130317688,
+                "comet-noref": 84.93355512619019
+            }
+        },
+        "TT2": {
+            "text": "库蒂尼奥那天早上通过了巴塞罗那的体检，并与巴塞罗那主席巴托梅乌签署了一份将于2023年夏天到期的合同。",
+            "scores": {
+                "bleu": 52.877551305434885,
+                "chrf": 48.44498994806249,
+                "comet-ref": 90.08155465126038,
+                "comet-noref": 85.4452133178711
+            }
+        },
+        "TT3": {
+            "text": "库蒂尼奥那天早上早些时候通过了巴塞罗那的体检，并与巴塞罗那主席巴托梅乌签署了一份合同，该合同将于2023年夏天到期。",
+            "scores": {
+                "bleu": 37.77720661629931,
+                "chrf": 36.07590569586729,
+                "comet-ref": 89.72479701042175,
+                "comet-noref": 86.11611127853394
+            }
+        }
+    },
+    {
+        "index": 77,
+        "ST": {
+            "en": "Then he appeared in the face of nearly 7,000 Camp Nou fans as a Barcelona player.",
+            "zh": "随后他作为巴萨球员，在诺坎普近7000名球迷面前亮相。"
+        },
+        "TT1": {
+            "text": "然后他作为巴塞罗那球员出现在近7000名诺坎普球迷面前。",
+            "scores": {
+                "bleu": 36.51934656347456,
+                "chrf": 36.34316971273493,
+                "comet-ref": 91.45241379737854,
+                "comet-noref": 85.67522764205933
+            }
+        },
+        "TT2": {
+            "text": "然后他以巴塞罗那球员的身份出现在近7,000名诺坎普球迷面前。",
+            "scores": {
+                "bleu": 20.0571466871073,
+                "chrf": 27.37006252946246,
+                "comet-ref": 91.09591841697693,
+                "comet-noref": 86.15622520446777
+            }
+        },
+        "TT3": {
+            "text": "然后他作为巴塞罗那球员出现在近7000名诺坎普球迷面前。",
+            "scores": {
+                "bleu": 36.51934656347456,
+                "chrf": 36.34316971273493,
+                "comet-ref": 91.45241379737854,
+                "comet-noref": 85.67522764205933
+            }
+        }
+    },
+    {
+        "index": 78,
+        "ST": {
+            "en": "According to a Spanish media, Coutinho's transfer fee may amount to 160 million euros (1 euro≈ 1.77 Chinese yuan), being the highest paid player in the history of Barcelona and La Liga.",
+            "zh": "据西班牙媒体透露，库蒂尼奥的转会费总额或达到1.6亿欧元（1欧元约合7.77元人民币），是巴萨俱乐部及西甲历史第一身价。"
+        },
+        "TT1": {
+            "text": "据一家西班牙媒体报道，库蒂尼奥的转会费可能高达1.6亿欧元（1欧元≈1.77人民币），成为巴塞罗那和西甲历史上身价最高的球员。",
+            "scores": {
+                "bleu": 30.96619956305627,
+                "chrf": 27.72678150573827,
+                "comet-ref": 91.8222725391388,
+                "comet-noref": 87.743079662323
+            }
+        },
+        "TT2": {
+            "text": "据西班牙媒体报道，库蒂尼奥的转会费可能高达1.6亿欧元（1欧元≈1.77人民币），成为巴塞罗那和西甲历史上身价最高的球员。",
+            "scores": {
+                "bleu": 32.56646503713651,
+                "chrf": 29.87899271431888,
+                "comet-ref": 92.00804829597473,
+                "comet-noref": 87.79017329216003
+            }
+        },
+        "TT3": {
+            "text": "据一家西班牙媒体报道，库蒂尼奥的转会费可能高达1.6亿欧元（1欧元≈1.77元人民币），成为巴塞罗那和西甲历史上身价最高的球员。",
+            "scores": {
+                "bleu": 33.079480587403644,
+                "chrf": 31.012491920032183,
+                "comet-ref": 91.83893203735352,
+                "comet-noref": 87.9076600074768
+            }
+        }
+    },
+    {
+        "index": 79,
+        "ST": {
+            "en": "As Coutinho is still injured at the moment, he still need recuperate for nearly 20 days before ushering in his debut in the Barcelona shirt.",
+            "zh": "由于眼下库蒂尼奥仍有伤在身，他还需休整近20日才能迎来自己身披巴萨球衣的处子秀。"
+        },
+        "TT1": {
+            "text": "由于库蒂尼奥目前仍然受伤，他还需要休养将近20天，才能迎来他在巴塞罗那的首秀。",
+            "scores": {
+                "bleu": 18.27122068132232,
+                "chrf": 19.39748937997379,
+                "comet-ref": 84.92490649223328,
+                "comet-noref": 84.47023630142212
+            }
+        },
+        "TT2": {
+            "text": "由于库蒂尼奥目前仍然受伤，他需要休养将近20天才能迎来他在巴萨球衣下的首秀。",
+            "scores": {
+                "bleu": 22.37758382351345,
+                "chrf": 22.193764468757912,
+                "comet-ref": 88.38272094726562,
+                "comet-noref": 85.0049078464508
+            }
+        },
+        "TT3": {
+            "text": "由于库蒂尼奥目前仍然受伤，他还需要近20天的休养才能迎来他在巴塞罗那的首次亮相。",
+            "scores": {
+                "bleu": 18.05995719221672,
+                "chrf": 18.139448998298057,
+                "comet-ref": 83.59896540641785,
+                "comet-noref": 83.33123922348022
+            }
+        }
+    },
+    {
+        "index": 80,
+        "ST": {
+            "en": "Is nothing sacred?",
+            "zh": "还有什么神圣的东西？"
+        },
+        "TT1": {
+            "text": "难道什么都不神圣吗？",
+            "scores": {
+                "bleu": 11.868405219520975,
+                "chrf": 11.311486006075883,
+                "comet-ref": 89.72639441490173,
+                "comet-noref": 86.79613471031189
+            }
+        },
+        "TT2": {
+            "text": "什么都不神圣吗？",
+            "scores": {
+                "bleu": 11.868405219520975,
+                "chrf": 13.823926826733187,
+                "comet-ref": 90.36560654640198,
+                "comet-noref": 85.32090187072754
+            }
+        },
+        "TT3": {
+            "text": "难道什么都不神圣吗？",
+            "scores": {
+                "bleu": 11.868405219520975,
+                "chrf": 11.311486006075883,
+                "comet-ref": 89.72639441490173,
+                "comet-noref": 86.79613471031189
+            }
+        }
+    },
+    {
+        "index": 81,
+        "ST": {
+            "en": "Now Trump's White House is targeting the Statue of Liberty",
+            "zh": "现在特朗普的白宫正在瞄准自由女神像"
+        },
+        "TT1": {
+            "text": "现在特朗普的白宫正瞄准自由女神像。",
+            "scores": {
+                "bleu": 82.82477531331043,
+                "chrf": 78.38104793947423,
+                "comet-ref": 95.86097598075867,
+                "comet-noref": 86.09436750411987
+            }
+        },
+        "TT2": {
+            "text": "现在特朗普的白宫正以自由女神像为目标。",
+            "scores": {
+                "bleu": 65.66833926868652,
+                "chrf": 57.02607236438637,
+                "comet-ref": 85.88092923164368,
+                "comet-noref": 85.40212512016296
+            }
+        },
+        "TT3": {
+            "text": "现在特朗普的白宫正针对自由女神像。",
+            "scores": {
+                "bleu": 69.64705665515706,
+                "chrf": 63.54912038694083,
+                "comet-ref": 86.05040907859802,
+                "comet-noref": 84.29725766181946
+            }
+        }
+    },
+    {
+        "index": 82,
+        "ST": {
+            "en": "The surest mark of regime change is when they start attacking the statues.",
+            "zh": "政权更迭最确定的标志是他们开始攻击雕像之时。"
+        },
+        "TT1": {
+            "text": "政权变更最明显的标志是在他们开始攻击雕像的时候。",
+            "scores": {
+                "bleu": 45.43846584021041,
+                "chrf": 38.65262860618115,
+                "comet-ref": 93.43728423118591,
+                "comet-noref": 85.42517423629761
+            }
+        },
+        "TT2": {
+            "text": "政权更迭最明显的标志就是他们开始攻击雕像。",
+            "scores": {
+                "bleu": 58.77038209148268,
+                "chrf": 53.97033838211846,
+                "comet-ref": 93.89095902442932,
+                "comet-noref": 86.13531589508057
+            }
+        },
+        "TT3": {
+            "text": "政权更迭最明显的标志就是他们开始攻击雕像。",
+            "scores": {
+                "bleu": 58.77038209148268,
+                "chrf": 53.97033838211846,
+                "comet-ref": 93.89095902442932,
+                "comet-noref": 86.13531589508057
+            }
+        }
+    },
+    {
+        "index": 83,
+        "ST": {
+            "en": "Americans appreciate this as well as anyone - hence the carefully stage-manged toppling of Saddam Hussein in Firdos square in Baghdad in 2003.",
+            "zh": "美国人和任何人一样都赞同这一点。 因此，2003 年巴格达天堂广场的萨达姆?侯赛因被精心策划地推倒了。"
+        },
+        "TT1": {
+            "text": "美国人和其他人一样对此表示赞赏——因此在2003年巴格达的费尔多斯广场精心策划了萨达姆·侯赛因的推翻。",
+            "scores": {
+                "bleu": 27.2515098097924,
+                "chrf": 29.261852228518535,
+                "comet-ref": 82.76326656341553,
+                "comet-noref": 79.10832166671753
+            }
+        },
+        "TT2": {
+            "text": "美国人和其他人一样欣赏这一点——因此在2003年，巴格达的菲尔多斯广场上精心策划了萨达姆·侯赛因的倒台。",
+            "scores": {
+                "bleu": 29.119592505136318,
+                "chrf": 31.050585297264956,
+                "comet-ref": 82.78178572654724,
+                "comet-noref": 79.41819429397583
+            }
+        },
+        "TT3": {
+            "text": "美国人和其他人一样欣赏这一点——因此，2003年在巴格达的菲尔多斯广场精心策划推翻萨达姆侯赛因的事件。",
+            "scores": {
+                "bleu": 22.809936727677908,
+                "chrf": 26.14810777460544,
+                "comet-ref": 81.68144226074219,
+                "comet-noref": 78.91473770141602
+            }
+        }
+    },
+    {
+        "index": 84,
+        "ST": {
+            "en": "Stephen Miller, one of the key ideologues of the Trump regime, surely knew what he was doing when he took a symbolic axe to the Statue of Liberty in a heated argument with CNN's Jim Acosta over the president's proposals to drastically limit legal immigration.",
+            "zh": "斯蒂芬?米勒 (Stephen Miller) 作为特朗普政府的关键智囊之一，在与美国有线电视新闻网 (CNN) 的吉姆?阿科斯塔 (Jim Acosta) 就总统关于严格限制合法移民的提议进行激烈争论时,他肯定知道自己对自由女神像砍出象征性的一斧会发生什么事情。"
+        },
+        "TT1": {
+            "text": "作为特朗普政权的主要意识形态之一，斯蒂芬·米勒肯定知道他在做什么，当他在与CNN的吉姆·阿科斯塔就总统大幅限制合法移民的提议进行激烈争论时，他象征性地砍向自由女神像。",
+            "scores": {
+                "bleu": 33.781917463519505,
+                "chrf": 35.76645325821124,
+                "comet-ref": 71.04312181472778,
+                "comet-noref": 81.28409385681152
+            }
+        },
+        "TT2": {
+            "text": "斯蒂芬·米勒是特朗普政府的重要意识形态家之一，他在与CNN的吉姆·阿科斯塔就总统大幅限制合法移民的提议进行激烈辩论时，象征性地斧劈自由女神像，他肯定知道自己在做什么。",
+            "scores": {
+                "bleu": 33.98122945789203,
+                "chrf": 35.756849891450145,
+                "comet-ref": 77.95509099960327,
+                "comet-noref": 83.7320327758789
+            }
+        },
+        "TT3": {
+            "text": "斯蒂芬·米勒是特朗普政权的主要意识形态者之一，他在与CNN的吉姆·阿科斯塔就总统提出的大幅限制合法移民的建议进行激烈争论时，象征性地对自由女神像挥动斧头，这显然是有意为之。",
+            "scores": {
+                "bleu": 27.49982678859653,
+                "chrf": 28.199659615917223,
+                "comet-ref": 79.71686720848083,
+                "comet-noref": 83.33817720413208
+            }
+        }
+    },
+    {
+        "index": 85,
+        "ST": {
+            "en": "In fairness, Miller did not attack the statue itself.",
+            "zh": "公平地说，米勒并没有攻击雕像本身。"
+        },
+        "TT1": {
+            "text": "公正地说，米勒并没有攻击雕像本身。",
+            "scores": {
+                "bleu": 66.3767913214782,
+                "chrf": 69.68359720427542,
+                "comet-ref": 97.30910658836365,
+                "comet-noref": 86.48004531860352
+            }
+        },
+        "TT2": {
+            "text": "公平地说，米勒并没有攻击雕像本身。",
+            "scores": {
+                "bleu": 76.24658586234858,
+                "chrf": 76.9125042016028,
+                "comet-ref": 98.22576642036438,
+                "comet-noref": 86.44040822982788
+            }
+        },
+        "TT3": {
+            "text": "公平地说，米勒并没有攻击雕像本身。",
+            "scores": {
+                "bleu": 76.24658586234858,
+                "chrf": 76.9125042016028,
+                "comet-ref": 98.22575449943542,
+                "comet-noref": 86.44040822982788
+            }
+        }
+    },
+    {
+        "index": 86,
+        "ST": {
+            "en": "A horde of boat-trip owners and Liberty impersonators would have lynched him if he did.",
+            "zh": "如果他这样做了，那么一群游船业主和自由主义的追随者一定会将他生吞活剥。"
+        },
+        "TT1": {
+            "text": "如果他这么做，一群船主和自由女神的模仿者会私刑处死他。",
+            "scores": {
+                "bleu": 16.59038701421972,
+                "chrf": 19.037086082405946,
+                "comet-ref": 75.65909624099731,
+                "comet-noref": 78.06470394134521
+            }
+        },
+        "TT2": {
+            "text": "如果他真的这么做的话，一群游船经营者和自由女神模仿者会把他吊死。",
+            "scores": {
+                "bleu": 13.950796967929131,
+                "chrf": 15.922816762596954,
+                "comet-ref": 73.01166653633118,
+                "comet-noref": 79.82248663902283
+            }
+        },
+        "TT3": {
+            "text": "如果他真的这么做了，一群船只运营者和自由女神模仿者会群起而攻之。",
+            "scores": {
+                "bleu": 9.348998462584438,
+                "chrf": 13.084933457869491,
+                "comet-ref": 69.61837410926819,
+                "comet-noref": 76.83135867118835
+            }
+        }
+    },
+    {
+        "index": 87,
+        "ST": {
+            "en": "But he did attack its meaning, and in particular the meaning ascribed to it when Emma Lazarus's famous poem was added to its base in 1903, 17 years after the monument itself was completed.",
+            "zh": "但是他确实攻击了塑像的意义，尤其是在 1903 年埃玛?拉撒路的着名诗歌被刻在基座上时（这座纪念碑在此后17年方建成）而具有的意义。"
+        },
+        "TT1": {
+            "text": "但是他确实攻击了它的意义，特别是1903年艾玛·拉撒路的著名诗篇被添加到基座上时赋予它的意义，那是在纪念碑本身完工17年后。",
+            "scores": {
+                "bleu": 28.32640136227149,
+                "chrf": 29.04783724762612,
+                "comet-ref": 82.5296938419342,
+                "comet-noref": 77.15784311294556
+            }
+        },
+        "TT2": {
+            "text": "但是他确实攻击了它的意义，尤其是当艾玛·拉萨路斯的著名诗歌在纪念碑本身完工17年后的1903年被添加到其基座时所赋予的意义。",
+            "scores": {
+                "bleu": 24.284103460997375,
+                "chrf": 26.92288161911664,
+                "comet-ref": 85.84347367286682,
+                "comet-noref": 79.30972576141357
+            }
+        },
+        "TT3": {
+            "text": "但他确实质疑了它的意义，尤其是1903年艾玛·拉扎鲁斯的著名诗歌被添加到基座时赋予它的意义，那是在纪念碑本身完工17年之后。",
+            "scores": {
+                "bleu": 13.635778621571038,
+                "chrf": 21.10869344117867,
+                "comet-ref": 82.62484669685364,
+                "comet-noref": 78.5731554031372
+            }
+        }
+    },
+    {
+        "index": 88,
+        "ST": {
+            "en": "As Miller scolded Acosta: \"I don't want to get off into a whole thing about history here, but the Statue of Liberty is ... a symbol of American liberty lighting the world.",
+            "zh": "正如米勒斥责阿科斯塔所说：“我不想在这里谈论历史的全部事实，但自由女神像是美国自由照亮世界的象征......。"
+        },
+        "TT1": {
+            "text": "米勒责备阿科斯塔时说道：\"我不想在这里谈论一整个历史话题，但自由女神像是......象征着美国自由照亮世界。\"",
+            "scores": {
+                "bleu": 42.19030329715945,
+                "chrf": 42.745862007891866,
+                "comet-ref": 86.01493239402771,
+                "comet-noref": 82.02037811279297
+            }
+        },
+        "TT2": {
+            "text": "当米勒责骂阿科斯塔时说：“我不想在这里谈论历史，但自由女神像是……象征着美国自由之光照亮世界。”",
+            "scores": {
+                "bleu": 41.46883565570683,
+                "chrf": 43.51409582749873,
+                "comet-ref": 86.27553582191467,
+                "comet-noref": 82.23226070404053
+            }
+        },
+        "TT3": {
+            "text": "我喜欢猫。",
+            "scores": {
+                "bleu": 0.6609918289641935,
+                "chrf": 1.7605633802816902,
+                "comet-ref": 39.21501040458679,
+                "comet-noref": 24.94761347770691
+            }
+        }
+    },
+    {
+        "index": 89,
+        "ST": {
+            "en": "The poem that you're referring to, that was added later and is not part of the original Statue of Liberty.\"",
+            "zh": "你所指的那首诗，那是后来又加上去的，不是原始自由女神像的一部分。”"
+        },
+        "TT1": {
+            "text": "你提到的那首诗是后来添加的，不是原始自由女神像的一部分。",
+            "scores": {
+                "bleu": 49.7608342609375,
+                "chrf": 53.787917215937284,
+                "comet-ref": 93.17081570625305,
+                "comet-noref": 85.05666255950928
+            }
+        },
+        "TT2": {
+            "text": "你提到的那首诗是后来添加的，它并不是原始自由女神像的一部分。",
+            "scores": {
+                "bleu": 49.7608342609375,
+                "chrf": 50.58729406357158,
+                "comet-ref": 93.2080328464508,
+                "comet-noref": 85.27320623397827
+            }
+        },
+        "TT3": {
+            "text": "你提到的那首诗是后来添加的，并不是最初自由女神像的一部分。",
+            "scores": {
+                "bleu": 38.04736860717706,
+                "chrf": 38.29892782750497,
+                "comet-ref": 92.47669577598572,
+                "comet-noref": 84.56214666366577
+            }
+        }
+    },
+    {
+        "index": 90,
+        "ST": {
+            "en": "Miller is factually correct, but as he put it himself, this is not really about history.",
+            "zh": "事实上，米勒是正确的，但是正如他自己所说的，这不是真正关于历史。"
+        },
+        "TT1": {
+            "text": "米勒的事实是正确的，但正如他自己所说，这实际上与历史无关。",
+            "scores": {
+                "bleu": 32.16697796870732,
+                "chrf": 32.84473413653631,
+                "comet-ref": 88.63943219184875,
+                "comet-noref": 85.49671769142151
+            }
+        },
+        "TT2": {
+            "text": "米勒的确是正确的，但正如他自己所说的，这并不是关于历史的。",
+            "scores": {
+                "bleu": 40.447833429727076,
+                "chrf": 39.58406629428407,
+                "comet-ref": 90.71055054664612,
+                "comet-noref": 82.67175555229187
+            }
+        },
+        "TT3": {
+            "text": "Miller 说得没错，但正如他自己所说，这并不是真正关于历史的事。",
+            "scores": {
+                "bleu": 41.02752377026184,
+                "chrf": 37.41626507211892,
+                "comet-ref": 89.78773951530457,
+                "comet-noref": 83.81649255752563
+            }
+        }
+    },
+    {
+        "index": 91,
+        "ST": {
+            "en": "It is about the contemporary resonance of Lazarus's startling words, the only ones in which a state has appeared to invite not just any old immigrants, but the poorest of the poor: \"Your tired, your poor, / Your huddled masses yearning to breathe free, / The wretched refuse of your teeming shore.\"",
+            "zh": "这涉及到拉撒路惊世之语的现代回音，唯一一个国家似乎不仅邀请任何老移民，而且还邀请穷人中最贫穷的人：“你的疲惫、你的穷困、或者你的挤作一团的民众渴望自由呼吸，/苦难的人拒绝你拥挤的海滩。”"
+        },
+        "TT1": {
+            "text": "这是关于拉扎鲁斯那句令人震惊的话在当代的共鸣，这是唯一一个州似乎邀请的不只是普通的移民，而是最贫困的人们：“你们疲惫不堪、贫困潦倒的人民，/ 渴望自由呼吸的拥挤人群，/ 你们人满为患海岸上的可怜弃民。”",
+            "scores": {
+                "bleu": 12.46112652828442,
+                "chrf": 13.785193272714604,
+                "comet-ref": 76.653391122818,
+                "comet-noref": 73.82789254188538
+            }
+        },
+        "TT2": {
+            "text": "这段话关于拉撒路惊人言论的当代共鸣，这是州政府唯一一次邀请的对象不仅仅是普通的移民，而是最贫穷的那群人：“你那疲倦的、贫困的/ 渴望自由呼吸的熙攘人群/ 你那充满人群海岸的悲惨弃民。”",
+            "scores": {
+                "bleu": 14.413079339432663,
+                "chrf": 15.14117784420394,
+                "comet-ref": 69.79667544364929,
+                "comet-noref": 70.23742198944092
+            }
+        },
+        "TT3": {
+            "text": "这段话涉及拉撒路震撼人心的话的当代共鸣，这些话是唯一一次一个国家似乎在邀请不仅仅是普通的移民，而是最贫穷的穷人：“你疲惫的、贫穷的、渴望自由呼吸的拥挤大众，/ 你喧嚣海岸上的可怜垃圾。”",
+            "scores": {
+                "bleu": 19.868587357502136,
+                "chrf": 20.422981116377535,
+                "comet-ref": 71.23011946678162,
+                "comet-noref": 71.61829471588135
+            }
+        }
+    },
+    {
+        "index": 92,
+        "ST": {
+            "en": "There has never been a time when the \"wretched refuse\" has been more visible on our screens.",
+            "zh": "不存在“苦难的人拒绝”在我们的屏幕变得更刺眼的一刻。"
+        },
+        "TT1": {
+            "text": "从未有过一个时期像现在这样，“无家可归的可怜人”在我们的屏幕上如此显眼。",
+            "scores": {
+                "bleu": 16.441864764322567,
+                "chrf": 14.752291830948064,
+                "comet-ref": 67.64418482780457,
+                "comet-noref": 66.13545417785645
+            }
+        },
+        "TT2": {
+            "text": "屏幕上从未有过比现在更明显的“悲惨弃民”的形象。",
+            "scores": {
+                "bleu": 3.802351022611669,
+                "chrf": 5.339116515632664,
+                "comet-ref": 64.42389488220215,
+                "comet-noref": 67.28177666664124
+            }
+        },
+        "TT3": {
+            "text": "从未有任何时候像现在这样，“可怜的垃圾”如此鲜明地出现在我们的屏幕上。",
+            "scores": {
+                "bleu": 15.778983831435136,
+                "chrf": 13.499768055691112,
+                "comet-ref": 69.66455578804016,
+                "comet-noref": 66.98704957962036
+            }
+        }
+    },
+    {
+        "index": 93,
+        "ST": {
+            "en": "Miller was not engaging in literary criticism - he was making it clear that these people are not welcome in Trump's USA.",
+            "zh": "米勒并没有从事过文学评论工作，他清楚地表明，这些人在特朗普时代的美国不会受到欢迎。"
+        },
+        "TT1": {
+            "text": "米勒不是在进行文学批评——他是在明确表示这些人在特朗普的美国是不受欢迎的。",
+            "scores": {
+                "bleu": 22.109740177549202,
+                "chrf": 23.42804237242592,
+                "comet-ref": 86.06647849082947,
+                "comet-noref": 86.37543320655823
+            }
+        },
+        "TT2": {
+            "text": "米勒并没有进行文学评论——他是在明确表示这些人在特朗普的美国是不受欢迎的。",
+            "scores": {
+                "bleu": 33.88230917227206,
+                "chrf": 32.30283799243163,
+                "comet-ref": 86.26680374145508,
+                "comet-noref": 85.67897081375122
+            }
+        },
+        "TT3": {
+            "text": "米勒并不是在进行文学批评——他是在明确表示这些人在特朗普的美国是不受欢迎的。",
+            "scores": {
+                "bleu": 23.746180542688137,
+                "chrf": 24.311846230867754,
+                "comet-ref": 86.46552562713623,
+                "comet-noref": 86.21087074279785
+            }
+        }
+    },
+    {
+        "index": 94,
+        "ST": {
+            "en": "This conflict about the meaning of a statue is part of a wider political and cultural war: it is really a conflict about the meaning of America.",
+            "zh": "这种关于雕像意义的冲突是更广泛的政治和文化战争的一部分：这实际上是与美国精神相冲突。"
+        },
+        "TT1": {
+            "text": "关于雕像意义的冲突是更广泛的政治和文化战争的一部分：这实际上是关于美国意义的冲突。",
+            "scores": {
+                "bleu": 69.76807719258079,
+                "chrf": 69.65060135271821,
+                "comet-ref": 88.10078501701355,
+                "comet-noref": 85.90623140335083
+            }
+        },
+        "TT2": {
+            "text": "关于雕像意义的这场冲突是更广泛的政治和文化战争的一部分：实际上，它是关于美国意义的冲突。",
+            "scores": {
+                "bleu": 65.00959116507022,
+                "chrf": 59.69965944393144,
+                "comet-ref": 87.34239935874939,
+                "comet-noref": 85.83223819732666
+            }
+        },
+        "TT3": {
+            "text": "这场关于雕像意义的冲突是更广泛的政治和文化战争的一部分：实际上，这是一场关于美国意义的冲突。",
+            "scores": {
+                "bleu": 64.68971210798937,
+                "chrf": 61.64918187803677,
+                "comet-ref": 88.4415864944458,
+                "comet-noref": 86.5888237953186
+            }
+        }
+    },
+    {
+        "index": 95,
+        "ST": {
+            "en": "Lazarus - and her friends who campaigned to place her words at the base after her death - knew very well that they were engaging in a highly political act.",
+            "zh": "拉扎鲁斯 (Lazarus) ，以及她的、在她去世后举行活动将她的诗句铭刻在基座上的朋友们，很清楚他们正在参与的行为具有高度政治性。"
+        },
+        "TT1": {
+            "text": "拉扎鲁斯——以及在她去世后，为将她的话刻在基座上的朋友们——都非常清楚，他们正在进行一项高度政治性的行为。",
+            "scores": {
+                "bleu": 42.234644192081085,
+                "chrf": 40.23271797244206,
+                "comet-ref": 76.06418132781982,
+                "comet-noref": 73.69706630706787
+            }
+        },
+        "TT2": {
+            "text": "拉扎鲁斯——以及在她死后为将她的文字放在基座上而奔走的朋友们——非常清楚他们在进行一项高度政治化的行为。",
+            "scores": {
+                "bleu": 25.278874268120752,
+                "chrf": 23.888181445653608,
+                "comet-ref": 79.00444865226746,
+                "comet-noref": 78.21793556213379
+            }
+        },
+        "TT3": {
+            "text": "拉扎鲁斯——以及那些在她去世后努力将她的话放在基座上的朋友们——都非常清楚他们在进行一项高度政治化的行为。",
+            "scores": {
+                "bleu": 34.76568990790815,
+                "chrf": 31.758130633529476,
+                "comet-ref": 71.74302935600281,
+                "comet-noref": 75.63644647598267
+            }
+        }
+    },
+    {
+        "index": 96,
+        "ST": {
+            "en": "The sculpture was intended to mark the connections between French and American republicanism by representing in a well-worn classical trope, the female embodiment of Liberty.",
+            "zh": "该雕塑的目的是通过作为自由女神的女性化身的、古老的经典比喻来表达法国和美国共和主义之间的联系。"
+        },
+        "TT1": {
+            "text": "这座雕塑旨在通过运用一个常见的古典主题——女性自由化身，来标示法美共和主义之间的联系。",
+            "scores": {
+                "bleu": 23.76309164264203,
+                "chrf": 25.565948087048913,
+                "comet-ref": 86.15221977233887,
+                "comet-noref": 84.07093286514282
+            }
+        },
+        "TT2": {
+            "text": "这座雕塑旨在通过一种常见的古典手法，展现自由的女性化身，以此来强调法国和美国之间的共和主义联系。",
+            "scores": {
+                "bleu": 26.830862787037535,
+                "chrf": 23.25427795664886,
+                "comet-ref": 85.6799304485321,
+                "comet-noref": 84.73868370056152
+            }
+        },
+        "TT3": {
+            "text": "这座雕塑旨在通过采用一种广为人知的古典模式来表现女性自由的象征，起到了标志法国和美国共和主义之间联系的作用。",
+            "scores": {
+                "bleu": 26.95018016585947,
+                "chrf": 25.6324945684471,
+                "comet-ref": 85.54497957229614,
+                "comet-noref": 83.39650630950928
+            }
+        }
+    },
+    {
+        "index": 97,
+        "ST": {
+            "en": "Lazarus changed that meaning: in her poem the female figure is no longer abstract - she has a voice.",
+            "zh": "拉撒路改变了这个意思：在她的诗中，女性形象不再抽象,她要发声。"
+        },
+        "TT1": {
+            "text": "拉扎鲁斯改变了那个意义：在她的诗中，女性形象不再抽象——她有了自己的声音。",
+            "scores": {
+                "bleu": 39.34070141016005,
+                "chrf": 33.089104297792545,
+                "comet-ref": 92.18668937683105,
+                "comet-noref": 85.66678762435913
+            }
+        },
+        "TT2": {
+            "text": "拉扎鲁斯改变了这个意义：在她的诗中，女性形象不再抽象——她有了声音。",
+            "scores": {
+                "bleu": 49.6148587739842,
+                "chrf": 43.40753673516504,
+                "comet-ref": 92.65130162239075,
+                "comet-noref": 86.58083081245422
+            }
+        },
+        "TT3": {
+            "text": "拉扎鲁斯改变了这个意义：在她的诗中，女性形象不再是抽象的——她拥有了自己的声音。",
+            "scores": {
+                "bleu": 38.922561264036766,
+                "chrf": 32.11956712790494,
+                "comet-ref": 92.26926565170288,
+                "comet-noref": 86.33379936218262
+            }
+        }
+    },
+    {
+        "index": 98,
+        "ST": {
+            "en": "And she gives herself a very different name: Mother of Exiles.",
+            "zh": "她给自己起了一个非常不同的名字：流放之母。"
+        },
+        "TT1": {
+            "text": "她给自己起了一个非常不同的名字：流放者之母。",
+            "scores": {
+                "bleu": 75.80200557466952,
+                "chrf": 75.3802739821243,
+                "comet-ref": 95.86594700813293,
+                "comet-noref": 84.83912348747253
+            }
+        },
+        "TT2": {
+            "text": "她给自己起了一个完全不同的名字：流亡者之母。",
+            "scores": {
+                "bleu": 53.869332652633126,
+                "chrf": 47.076377853973916,
+                "comet-ref": 93.6621367931366,
+                "comet-noref": 85.67902445793152
+            }
+        },
+        "TT3": {
+            "text": "她给自己取了一个完全不同的名字：流亡者之母。",
+            "scores": {
+                "bleu": 37.02730401700487,
+                "chrf": 30.48713239911246,
+                "comet-ref": 93.01813840866089,
+                "comet-noref": 85.77796220779419
+            }
+        }
+    },
+    {
+        "index": 99,
+        "ST": {
+            "en": "The marrying of the poem to the image is a brilliant feminist coup and a devastating attack on American nativism.",
+            "zh": "这首诗与这幅画的结合是一场成功的女权主义政变,并且是对美国本土主义的毁灭性打击。"
+        },
+        "TT1": {
+            "text": "将诗与图像结合在一起是一次精彩的女权主义政变，同时也是对美国本土主义的猛烈抨击。",
+            "scores": {
+                "bleu": 38.24388654181574,
+                "chrf": 34.63101509638757,
+                "comet-ref": 84.05898809432983,
+                "comet-noref": 84.36446189880371
+            }
+        },
+        "TT2": {
+            "text": "诗与图像的结合是一次精彩的女性主义妙举，也是对美国本土主义的毁灭性打击。",
+            "scores": {
+                "bleu": 45.917017825641,
+                "chrf": 46.686159455381336,
+                "comet-ref": 89.01061415672302,
+                "comet-noref": 84.09534692764282
+            }
+        },
+        "TT3": {
+            "text": "这首诗与图像的结合是一场辉煌的女权主义政变，也是对美国本土主义的毁灭性打击。",
+            "scores": {
+                "bleu": 63.903440970087345,
+                "chrf": 60.90539171552424,
+                "comet-ref": 90.97084999084473,
+                "comet-noref": 84.78760719299316
+            }
+        }
+    },
+    {
+        "index": 100,
+        "ST": {
+            "en": "And just as Lazarus changed the meaning of the statue, rightwingers have long wanted to change it back.",
+            "zh": "就像拉撒路改变雕像的意义一样，右翼者一直想要把它改回原意。"
+        },
+        "TT1": {
+            "text": "正如拉扎鲁斯改变了雕像的意义，右派人士长期以来一直希望将其改回去。",
+            "scores": {
+                "bleu": 16.42001432829174,
+                "chrf": 14.60461742355934,
+                "comet-ref": 86.35585904121399,
+                "comet-noref": 84.02944803237915
+            }
+        },
+        "TT2": {
+            "text": "就像拉扎鲁斯改变了雕像的意义一样，右翼人士长期以来一直想要将其改回原样。",
+            "scores": {
+                "bleu": 33.42174509824855,
+                "chrf": 28.949946509035485,
+                "comet-ref": 90.15126824378967,
+                "comet-noref": 85.88013052940369
+            }
+        },
+        "TT3": {
+            "text": "正如拉撒路改变了雕像的意义，右翼人士一直想要改变它回去。",
+            "scores": {
+                "bleu": 35.56521383601747,
+                "chrf": 30.143469079228364,
+                "comet-ref": 83.96955132484436,
+                "comet-noref": 77.68946886062622
+            }
+        }
+    }
+]
