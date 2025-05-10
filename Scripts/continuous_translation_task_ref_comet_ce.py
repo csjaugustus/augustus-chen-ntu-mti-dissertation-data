@@ -1,7 +1,7 @@
 """
 Description:
 This script computes reference-based COMET scores for Chinese-to-English translations
-in a continuous translation setting. It uses the WMT22 COMET-DA model from Hugging Face
+for the Continuous Translation Task. It uses the WMT22 COMET-DA model from Hugging Face
 to evaluate the quality of three translations (TT1, TT2, TT3) against the human reference.
 
 The script:

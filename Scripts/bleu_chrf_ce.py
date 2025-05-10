@@ -4,6 +4,7 @@ This script computes sentence-level BLEU and chrF scores for three Chinese-to-En
 translations (TT1, TT2, TT3) generated for each Chinese source sentence in a dataset.
 It uses SacreBLEU's scoring tools with English-specific tokenization and evaluates the
 quality of the translations by comparing them to the human reference translation in English.
+This is for the Isolated Translation Task.
 
 The script:
 1. Loads a JSON file containing source sentences and machine-generated translations.
